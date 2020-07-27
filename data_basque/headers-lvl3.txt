@@ -1,0 +1,40 @@
+Lurralde azalera
+Berdeguneen eta babestutako eremuen azalera
+Kutsakorrak izan daitezkeen jardueren azalera
+Garraiobideetarako erabilitako azalera
+Lurralde altitudea
+Hondakin-sorrera
+Hondakinak jasotzeko edukiontziak
+Ura2
+Energia2
+Ingurumen-kontzientzia2
+Behi-aziendak
+Ardi-aziendak
+Ahuntz-aziendak
+Airearen kalitatea
+Jasotako langabezia
+Langabetuak sexu eta lanbidearen arabera
+Langabetuak sexu, adin eta ikasketa mailaren arabera
+Kontratuak2
+Langabetuak sexu eta sektorearen arabera
+Kontratuak sexu eta lanbidearen arabera
+Kontratuak sexu, adin eta motaren arabera
+Kontratuak sexu, adin eta ikasketa mailaren arabera
+Afiliatuak2
+Afiliatu atzerritarrak
+Afiliatuak erregimenaren arabera
+Afiliatuak sektoreka
+Langileak industria-motaren arabera
+Langileak zerbitzu-motaren arabera
+ABEEE-ek kaltetuak
+ABEEE-ek kaltetuak, araubide-motaren arabera
+ABEEE-ek kaltetuak, araubide-motaren, arrazoiaren eta sexuaren arabera
+ABEEE-ek kaltetuak, motaren,jarduera-atalaren eta sexuaren arabera
+Eskaturiko ABEEE espedienteak, jarduera-arloen arabera
+Establezimenduak eta enplegua
+Establezimenduak jardueraren arabera
+Establezimenduak langile kopuruaren arabera
+Establezimenduak 1.000 biztanleko
+Teknologia berriekin hornitutako establezimenduak
+Establezimenduak lege-nortasunaren arabera
+Txikizkako merkataritza establezimenduak

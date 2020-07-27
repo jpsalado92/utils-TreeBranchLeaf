@@ -1,0 +1,40 @@
+Superficie territorial
+Superficie de zonas verdes y áreas protegidas
+Superficie de actividades potencialmente contamina
+Superficie empleada para medios de transporte
+Altitud territorial
+Generación de residuos
+Contenedores para la recogida de residuos
+Agua2
+Energía2
+Conciencia medioambiental2
+Bovinos
+Ovinos
+Caprinos
+Calidad del aire
+Paro registrado
+Parados por sexo y ocupación
+Parados por sexo, edad y nivel académico
+Contratos registrados
+Contratos por sexo y sector
+Contratos por sexo y ocupación
+Contratos por sexo, edad y tipo
+Contratos por sexo, edad y nivel académico
+Afiliados2
+Afiliados extranjeros
+Afiliados por régimen
+Afiliados por sector
+Trabajadores por tipo de industria
+Trabajadores por tipo de servicios
+Afectados por ERTES
+Afectados por ERTES según tipo de regulación
+Afectados por ERTES según tipo de regulación, causa y sexo
+Afectados por ERTES según tipo, sección de actividad y sexo
+Expedientes de ERTE solicitados por sección de actividad
+Establecimientos y empleo
+Establecimientos por actividad
+Establecimientos por número de trabajadores
+Establecimientos por 1.000 habitantes
+Establecimientos equipados con nuevas tecnologías
+Establecimientos por personalidad jurídica
+Establecimientos de comercio minorista

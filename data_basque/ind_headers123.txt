@@ -1,0 +1,1685 @@
+Lurraldea eta ingurumena
+Azalera eta Altitudea
+Lurralde azalera
+Azalera (Km²)
+Berdeguneen eta babestutako eremuen azalera
+Baso azalera (azalera guztiaren %)
+Udalerriko babes bereziko azaleraren %
+Hiri berdeguneek, lorategiek eta parkek hartzen duten azaleraren % (hiri lurzoruaren %)
+Hiri berdeguneek, lorategiek eta parkek hartzen duten azalera (m²/biztanle)
+Kutsakorrak izan daitezkeen jardueren azalera
+Kutsatuta egon daitekeen lurzoruaren %
+Garraiobideetarako erabilitako azalera
+Garraiorako erabilitako azaleraren %
+Errepidetarako erabilitako azaleraren %
+Lurralde altitudea
+Altitudea (metroak)
+Hondakinak
+Hondakin-sorrera
+Hiri-hondakinen sorkuntza (kg/biztanle/urte)
+Hondakin arriskutsuen sorkuntza (kg/biztanle/urte)
+Hondakinak jasotzeko edukiontziak
+Etxeko hondakinak jasotzeko edukiontziak (‰ biztanleko)
+Beira jasotzeko edukiontziak (‰ biztanleko)
+Papera jasotzeko edukiontziak (‰ biztanleko)
+Pilak jasotzeko edukiontziak (‰ biztanleko)
+Plastikozko ontziak jasotzeko edukiontziak (‰ biztanleko)
+Arropa eta ehunak jasotzeko edukiontziak (‰ biztanleko)
+Ura
+Ura2
+Ur eskari osoa biztanleko eta eguneko (litroak/biztanle/egun)
+Ur industria eskaria biztanleko eta eguneko (litroak/biztanle/egun)
+Kontsumoko uraren sailkapen sanitarioa (0:Kalifikatu gabea, 1:Txarra, 2:Balekoa, 3:Ona)
+Energia
+Energia2
+Jarritako potentzia fotovoltaikoa (kw / 10.000 biz)
+Jarritako potentzia eolikoa (kw / 10.000 biz)
+Jarritako potentzia hidraulikoa (kw / 10.000 biz)
+Jarritako eguzki-azalera termikoa (m² / 10.000 biztanleko)
+Urteko elektrizitate-kontsumoa biztanleko (Kwh./bizt.)
+Industria sektorearen urteko elektrizitate-kontsumoa biztanleko (Kwh./bizt.)
+Industria ez den sektorearen urteko elektrizitate-kontsumoa biztanleko (Kwh./bizt.)
+Ingurumen-kontzientzia
+Ingurumen-kontzientzia2
+Ingurumen egiaztapena daukaten establezimenduen %
+Energia eraginkortasuneko egiaztapena daukaten etxebizitzen % (etxebizitza guztien %)
+Abeltzaintza
+Behi-aziendak
+Behi-aziendak2
+Behi-aziendak: 2 urtetik gorako arrak
+Behi-aziendak: Haragitarako 1-2 urte arteko emeak
+Behi-aziendak: Esnetarako 1-2 urte arteko emeak
+Behi-aziendak: Jezteko ez diren 2 urtetik gorako emeak
+Behi-aziendak: Jezteko 2 urtetik gorako emeak
+Ardi-aziendak
+Ardi-aziendak2
+Ardi-aziendak: 1-2 urte arteko emeak
+Ardi-aziendak: Esnetarako 2 urtetik gorako emeak
+Ardi-aziendak: Haragitarako 2 urtetik gorako emeak
+Ahuntz-aziendak
+Ahuntz-aziendak2
+Ahuntz-aziendak: 1-2 urte arteko emeak
+Ahuntz-aziendak: Esnetarako 2 urtetik gorako emeak
+Ahuntz-aziendak: Haragitarako 2 urtetik gorako emeak
+Airea
+Airearen kalitatea
+Aire kalitate oneko edo baleko egunak (egun guztien %)
+Biztanleria eta demografia
+Biztanleria
+Biztanleria orokorra
+Biztanleria: gizonezkoak
+Biztanleria: emakumezkoak
+0-4 urte arteko Biztanleria Orokorra
+5-9 urte arteko Biztanleria Orokorra
+10-14 urte arteko Biztanleria Orokorra
+15-19 urte arteko Biztanleria Orokorra
+20-24 urte arteko Biztanleria Orokorra
+25-30 urte arteko Biztanleria Orokorra
+31-34 urte arteko Biztanleria Orokorra
+35-39 urte arteko Biztanleria Orokorra
+40-44 urte arteko Biztanleria Orokorra
+45-49 urte arteko Biztanleria Orokorra
+50-51 urte arteko Biztanleria Orokorra
+55-59 urte arteko Biztanleria Orokorra
+60-64 urte arteko Biztanleria Orokorra
+65-69 urte arteko Biztanleria Orokorra
+70-74 urte arteko Biztanleria Orokorra
+75-79 urte arteko Biztanleria Orokorra
+80-84 urte arteko Biztanleria Orokorra
+85 urte eta gehiagoko Biztanleria Orokorra
+0-4 urte arteko Gizonezkoak
+5-9 urte arteko Gizonezkoak
+10-14 urte arteko Gizonezkoak
+15-19 urte arteko Gizonezkoak
+20-24 urte arteko Gizonezkoak
+25-29 urte arteko Gizonezkoak
+30-34 urte arteko Gizonezkoak
+35-39 urte arteko Gizonezkoak
+40-44 urte arteko Gizonezkoak
+45-49 urte arteko Gizonezkoak
+50-54 urte arteko Gizonezkoak
+55-59 urte arteko Gizonezkoak
+60-64 urte arteko Gizonezkoak
+65-69 urte arteko Gizonezkoak
+70-74 urte arteko Gizonezkoak
+75-79 urte arteko Gizonezkoak
+80-84 urte arteko Gizonezkoak
+85 urte eta gehiagoko Gizonezkoak
+0-4 urte arteko Emakumezkoak
+5-9 urte arteko Emakumezkoak
+10-14 urte arteko Emakumezkoak
+15-19 urte arteko Emakumezkoak
+20-24 urte arteko Emakumezkoak
+25-29 urte arteko Emakumezkoak
+30-34 urte arteko Emakumezkoak
+35-39 urte arteko Emakumezkoak
+40-44 urte arteko Emakumezkoak
+45-49 urte arteko Emakumezkoak
+50-54 urte arteko Emakumezkoak
+55-59 urte arteko Emakumezkoak
+60-64 urte arteko Emakumezkoak
+65-69 urte arteko Emakumezkoak
+70-74 urte arteko Emakumezkoak
+75-79 urte arteko Emakumezkoak
+80-84 urte arteko Emakumezkoak
+85 urte eta gehiagoko Emakumezkoak
+Porcentaje de población total de 16 a 64 años
+Demografia adierazleak
+Biztanleriaren dentsitatea (biz/km²)
+Urte arteko biztanleriaren aldakuntza
+Bizi-itxaropena jaiotzean: Gizonezkoak
+Bizi-itxaropena jaiotzean: Emakumezkoak
+Mendekotasun adierazlea ((biz. < 15 + biz > 64) / biz. 15tik 64ra) x 100
+Zahartze adierazlea (biz. > 64 / biz. orokorra) x 100
+Gainzahartze adierazlea (75 eta gehiagoko biz./65 eta gehiagoko biz.) x 100
+Amatasun adierazlea ( 0-4 biz/15-49 arteko emakumezkoak) x 100
+Joera adierazlea (0-4 biz/5-9 biz) x 100
+Ordezkapen adierazlea (20-29 biz/55-64 biz) x 100
+Haur adierazlea (0-14 biz/biz. orokorra) x 100
+Atzerriko biztanleria
+Biztanle Atzerritarrak Orotara
+Biztanle Atzerritarrak: Gizonezkoak
+Biztanle Atzerritarrak: Emakumezkoak
+Biztanle Atzerritarrak: Europa
+Biztanle Atzerritarrak: Afrika
+Biztanle Atzerritarrak: Amerika
+Biztanle Atzerritarrak: Asia
+Biztanle Atzerritarrak: Ozeania eta aberrigabeak
+Europako Atzerritar Biztanleak: Europar Batasuna (27)
+Europako Atzerritar Biztanleak: Gainontzeko Europarrak
+Biztanle Atzerritarrak: Gizonezkoak-Europa
+Biztanle Atzerritarrak: Gizonezkoak-Afrika
+Biztanle Atzerritarrak: Gizonezkoak-Amerika
+Biztanle Atzerritarrak: Gizonezkoak-Asia
+Biztanle Atzerritarrak: Gizonezkoak-Ozeania eta aberrigabeak
+Europako Biztanle Atzerritarrak: Gizonezkoak-Europar Batasuna (27)
+Europako Biztanle Atzerritarrak: Gizonezkoak-Gainontzeko Europa
+Biztanle Atzerritarrak: Emakumezkoak-Europa
+Biztanle Atzerritarrak: Emakumezkoak-Afrika
+Biztanle Atzerritarrak: Emakumezkoak-Amerika
+Biztanle Atzerritarrak: Emakumezkoak-Asia
+Biztanle Atzerritarrak:Emakumezkoak-Ozeania eta aberrigabeak
+Europako Biztanle Atzerritarrak: Emakumezkoak-Europar Batasuna (27)
+Europako Biztanle Atzerritarrak: Emakumezkoak-Gainontzeko Europa
+Biztanleria Atzerritarra: 16 Urtetik beherakoak
+Biztanleria Atzerritarra: 16 eta 64 urte bitartekoak
+Biztanleria Atzerritarra: 65 urtekoak eta gehiagokoak
+Biztanleria Atzerritarra: 16 urtetik beherako gizonezkoak
+Biztanleria Atzerritarra: 16 eta 64 urte bitarteko gizonezkoak
+Biztanleria Atzerritarra: 65 urteko eta gehiagoko gizonezkoak
+Biztanleria Atzerritarra: 16 urtetik beherako emakumezkoak
+Biztanleria Atzerritarra: 16 eta 64 urte bitarteko emakumezkoak
+Biztanleria Atzerritarra: 65 urteko eta gehiagoko emakumezkoak
+Porcentaje de población extranjera
+Biztanleria jaioterriaren arabera
+Biztanleria jaioterriaren arabera: Espainia
+Biztanleria jaioterriaren arabera: Erkidego berbera
+Biztanleria jaioterriaren arabera: Erkidego berbera eta herrialde berbera
+Biztanleria jaioterriaren arabera: Udalerri berbera
+Biztanleria jaioterriaren arabera: Erkidego berbera, herrialde berbera eta beste udalerri bat
+Biztanleria jaioterriaren arabera: Erkidego berbera, beste herrialde bat
+Biztanleria jaioterriaren arabera: Beste erkidego bat
+Biztanleria jaioterriaren arabera: Atzerria
+Biztanleriaren berezko mugimendua
+Jaiotzak
+Heriotzak
+Ezkontzak
+Hazkunde begetatiboa
+Jaiotze-tasa gordina (biztanle %)
+Heriotza-tasa gordina (biztanle %)
+Ezkontza-tasa (biztanle %)
+Ugalkortasun-tasa orokorra (jaiotakoak/15-49 emakumezkoak( (biztanle %)
+Biztanleria egoera zibilaren arabera
+Biztanleria egoera zibilaren arabera: Ezkongabeak
+Biztanleria egoera zibilaren arabera: Ezkonduak
+Biztanleria egoera zibilaren arabera: Alargunak
+Biztanleria egoera zibilaren arabera: Bananduak
+Biztanleria egoera zibilaren arabera: Dibortziatuak
+Familiak
+Guraso bakarreko familia kopurua
+>65 urtetik bakarrik bizi diren pertsonak: Gizonezkoak
+>65 urtetik bakarrik bizi diren pertsonak: Emakumezkoak
+Migrazio mugimenduak
+Immigrazioa (EAEtik kanpokoa)
+Emigrazioa (EAEtik kanpokoa)
+Kanpo migrazio-saldoa
+Barne migrazioen jomuga (EAEko beste udalerri batetik iritsiak)
+Barne migrazioen jatorria (EAEko beste udalerri batera joanak)
+Barne migrazio-saldoa
+Udalerri barneko migrazioak (Egoitza aldatzea udalerriaren barruan)
+Hirigintza eta etxebizitza
+Eraikinak
+Eraikin guztiak
+Etxebizitza familiar bateko eraikinak
+Etxebizitza familiar batzuetako eraikinak
+Batez ere etxebizitza familiarretako eraikinak hainbat lokalekin
+Batez ere lokaletako eraikinak etxebizitzaren batekin
+Batez ere lokaletako eraikinak
+Batez ere etxebitza kolektiboetako eraikinak
+Batez ere ostatatzeko eraikinak
+Eraikinak egoera onean
+Eraikinak egoera eskasean
+Eraikinak egoera txarrean
+Eraikinak hondamendi egoeran
+Eraikin eta ekipamendu irisgarrien %
+Etxebizitzak
+Etxebizitza guztiak
+Etxebizitza familiarrak
+Etxebizitza kolektiboak
+Etxebizitza familiar nagusiak
+Etxebizitza familiar nagusiak: Ohikoak
+Etxebizitza familiar nagusiak: Ostatuak
+Etxebizitza familiar nagusiak ez direnak
+Etxebizitza familiar nagusiak ez direnak: Bigarren mailakoak
+Etxebizitza familiar nagusiak ez direnak: Hutsak
+Etxebizitza familiar nagusiak ez direnak: Bestelakoak
+Familia etxebizitzak
+Txorrotako ura daukaten etxebizitza nagusien %
+Ur bero zentrala daukaten etxebizitza nagusien %
+Berokuntza daukaten etxebizitza nagusien %
+Telefonoa daukaten etxebizitza nagusien %
+Tutu bidezko gasa daukaten etxebizitza nagusien %
+Etxebizitzetako erosotasun adierazlea
+Etxebizitza familiarrak hiri-gunean
+Etxebizitza familiarrak tarteko gunean
+Etxebizitza familiarrak landa-gunean
+Etxebizitza familiar nagusiak hiri-gunean
+Etxebizitza familiar nagusiak tarteko gunean
+Etxebizitza familiar nagusiak landa-gunean
+Etxebizitza familiar ez nagusiak hiri-gunean
+Etxebizitza familiar ez nagusiak tarteko gunean
+Etxebizitza familiar ez nagusiak landa-gunean
+Babestutako etxebizitzak
+Hasitako etxebizitza babestuak
+Hasitako etxebizitza babestuak: Babes ofizialekoak
+Hasitako etxebizitza babestuak: Etxebizitza sozialak
+Bukatutako etxebizitza babestuak
+Bukatutako etxebizitza babestuak: Babes ofizialekoak
+Bukatutako etxebizitza babestuak: Etxebizitza sozialak
+Etxebiden dauden etxebizitza eskaera (biz ‰)
+Etxebidek esleitutako BOEak azken bost urteetan (biz ‰)
+Etxebizitzaren batez besteko salneurria
+Etxebizitza librearen batez besteko prezioa (berria eta erabilia) (€ / m²)
+BO etxebizitza berriaren batez besteko prezioa (€ / m²)
+Etxebizitza libre berriaren batez besteko prezioa (€ / m²)
+Etxebizitza erabiliaren batez besteko prezioa (€ / m²)
+Etxeak
+Etxe guztiak
+Erositako jabetzako etxeak, erabat ordainduta
+Erositako jabetzako etxeak, ordaindu gabe
+Erositako jabetzako etxeak, herentziaz edo emariz
+Alokairuko etxeak
+Beste etxe batek, enpresa batek dohainik edo prezio txikian lagatako etxeak
+Bestelako etxeak
+Bigarren etxebizitza daukaten etxeak
+Bigarren etxebizitza daukaten etxeen %
+Jabetzako etxeak
+Familiak erreferentziazko pertsonaren adinaren arabera: 25 urtetik beherakoa
+Familiak erreferentziazko pertsonaren adinaren arabera: 25-29 urte
+Familiak erreferentziazko pertsonaren adinaren arabera: : 30-34 urte
+Familiak erreferentziazko pertsonaren adinaren arabera: 35-44 urte
+Familiak erreferentziazko pertsonaren adinaren arabera: 45-54 urte
+Familiak erreferen pertsona adin arabera: 55-64 urte
+Familiak erreferen pertsona adin arabera: 65-74 urte
+Familiak erreferentziazko pertsonaren adinaren arabera: 75 urtetik gorakoak
+Familiak erreferentziazko pertsonaren sexuaren arabera: Gizonezkoak
+Familiak erreferentziazko pertsonaren sexuaren arabera: Emakumezkoak
+Lokalak
+Lokal guztiak
+Lokal aktiboak
+Jardunik gabeko lokalak
+Lokal aktiboak: Osasun-ekipamenduak (anbulatorioak, ospitaleak,…)
+Lokal aktiboak: Hezkuntza-ekipamenduak (ikastetxeak, haur-eskolak,…)
+Lokal aktiboak: Gizarte Ongizaterako ekipamenduak (zaharren egoitza,…)
+Lokal aktiboak: Kultura edo Kirol-ekipamenduak (antzokia,…)
+Lokal aktiboak: Merkataritza-lokalak
+Lokal aktiboak: Bulegoak
+Lokal aktiboak: Industria-lokalak
+Lokal aktiboak: Nekazaritza-lokalak
+Etxeko ekipamendua
+Etxean ordenagailua daukaten familien %
+Internet daukaten familien %
+E-posta daukaten familien %
+Bideoa daukaten familien %
+Teletestuko TB daukaten familien %
+Antena parabolikoa daukaten familien %
+Ordaindu beharreko TB daukaten familien %
+Kable bidezko TB daukaten familien %
+Telefono mugikorra daukaten familien %
+Lurzorua, etxebizitza dentsitatea eta baimenak
+Hiri-lurzoruaren %
+Bizitegi-azalera urbanizagarriaren %
+Etxebizitza dentsitatea bizitegi-lurzoruan (Etxebizitza/Biz)
+Etxebizitza berrietarako emandako baimenak azken bost urteetan (‰ biz)
+Alokairuko edota salmentako etxebizitzak
+Alokairuko etxebizitza libreak (urteko batezbestekoa)
+Erabilitako etxebizitzak salmentan (urteko batezbestekoa)
+Etxebizitza berriak salmentan (urteko batezbestekoa)
+Hezkuntza eta prestakuntza
+Ikasleak hezkuntza mailaren arabera
+Haur Hezkuntzako ikasleak
+Lehen Hezkuntzako ikasleak
+DBHko ikasleak
+Batxilergoko ikasleak
+LHko ikasleak
+Helduen hezkuntzako ikasleak
+Ikasleak hizkuntza ereduaren arabera
+Hezkuntza elebiduneko ikasleak: A-X Eredua
+Hezkuntza elebiduneko ikasleak: B Eredua
+Hezkuntza elebiduneko ikasleak: D Eredua
+16 urteko edota gehiagoko biztanleria ikasketa mailaren arabera
+16 urteko eta gehiagoko biztanleria
+16 urteko eta gehiagoko biztanleria: Gizonezkoak
+16 urteko eta gehiagoko biztanleria: Emakumezkoak
+16 urteko eta gehiagoko biztanleria: Analfabetoak
+16 urteko eta gehiagoko biztanleria: Ikasketarik gabeak
+16 urteko eta gehiagoko biztanleria: Lehen maila
+16 urteko eta gehiagoko biztanleria: Bigarren maila
+16 urteko eta gehiagoko biztanleria: Hirugarren maila
+16 urteko eta gehiagoko biztanleriaren %: Analfabetoak
+16 urteko eta gehiagoko biztanleriaren %: Ikasketarik gabeak
+16 urteko eta gehiagoko biztanleriaren %: Lehen maila
+16 urteko eta gehiagoko biztanleriaren %: Bigarren maila
+16 urteko eta gehiagoko biztanleriaren %: Hirugarren maila
+16 urteko eta gehiagoko biztanleria: Gizonezko analfabetoak
+16 urteko eta gehiagoko biztanleria: Gizonezko Ikasketarik Gabeak
+16 urteko eta gehiagoko biztanleria: Lehen Maila daukaten Gizonezkoak
+16 urteko eta gehiagoko biztanleria: Bigarren Maila daukaten Gizonezkoak
+16 urteko eta gehiagoko biztanleria: Hirugarren Maila daukaten Gizonezkoak
+16 urteko eta gehiagoko biztanleriaren %: Gizonezko analfabetoak
+16 urteko eta gehiagoko biztanleriaren %: Gizonezko Ikasketarik Gabeak
+16 urteko eta gehiagoko biztanleriaren %: Lehen Maila daukaten Gizonezkoak
+16 urteko eta gehiagoko biztanleriaren %: Bigarren Maila daukaten Gizonezkoak
+16 urteko eta gehiagoko biztanleriaren %: Hirugarren Maila daukaten Gizonezkoak
+16 urteko eta gehiagoko biztanleria: Emakumezko analfabetoak
+16 urteko eta gehiagoko biztanleria: Emakumezko Ikasketarik Gabeak
+16 urteko eta gehiagoko biztanleria: Lehen Maila daukaten Emakumezkoak
+16 urteko eta gehiagoko biztanleria: Bigarren Maila daukaten Emakumezkoak
+16 urteko eta gehiagoko biztanleria: Hirugarren Maila daukaten Emakumezkoak
+16 urteko eta gehiagoko biztanleriaren %: Emakumezko analfabetoak
+16 urteko eta gehiagoko biztanleriaren %: Emakumezko Ikasketarik Gabeak
+16 urteko eta gehiagoko biztanleriaren %: Lehen Maila daukaten Emakumezkoak
+16 urteko eta gehiagoko biztanleriaren %: Bigarren Maila daukaten Emakumezkoak
+16 urteko eta gehiagoko biztanleriaren %: Hirugarren Maila daukaten Emakumezkoak
+Lanerako prestakuntza jasotzen ari den 16 urteko edota gehiagoko biztanleria
+16 urteko eta gehiagoko biztanleria lanerako prestakuntza egiten: Orotara
+16 urteko eta gehiagoko biztanleria lanerako prestakuntza egiten: Gizonezkoak
+16 urteko eta gehiagoko biztanleria lanerako prestakuntza egiten: Emakumezkoak
+Biztanleriaren mugikortasuna
+16 urteko eta gehiagoko ikasleak
+16 urteko eta gehiagoko ikasleak euren etxean
+16 urteko eta gehiagoko ikasleak hainbat udalerritan
+16 urteko eta gehiagoko ikasleak bizi diren udalerri berean
+16 urteko eta gehiagoko ikasleak herrialde bereko udalerri batean
+16 urteko eta gehiagoko ikasleak erkidego bereko udalerri batean
+16 urteko eta gehiagoko ikasleak beste erkidego batean
+16 urteko eta gehiagoko ikasleak beste herrialde batean
+Euskararen ezaguera
+Bi urtetik gorako biztanleria euskalduna
+Bi urtetik gorako biztanleria ia-euskalduna
+Bi urtetik gorako biztanleria erdalduna
+Ekipamendua
+Osasun-ekipamendua
+Ospitalez kanpoko zentro publikoak
+Ospitalez kanpoko zentro publikoak: Anbulatorioak
+Ospitalez kanpoko zentro publikoak: Kontsultategiak
+Ospitalez kanpoko zentro publikoak: Osasun-zentroak
+Ospitalez kanpoko zentro publikoak: Larrialdiak
+Ospitalez kanpoko zentro publikoak: Zentro periferikoak
+Ospitalez kanpoko zentro publikoak: Buru-osasuneko zentroak
+Ospitalez kanpoko zentro publikoak: Mutua-artapeneko zentroak
+Ospitalez kanpoko zentro publikoak: beste batzuk
+Farmaziak 10.000 biztanleko
+Erreferentziazko ospitalera joateko batez besteko denbora (minututan)
+Gizarte zerbitzuen zentroak
+Gizarte Zerbitzuen zentroak: Orotara
+Gizarte Zerbitzuen zentroak: Elkarteak
+Gizarte Zerbitzuen zentroak: Zerbitzu tekniko orokorrak
+Gizarte Zerbitzuen zentroak: Orientazio zentroak
+Gizarte Zerbitzuen zentroak: Eguneko zentroak
+Gizarte Zerbitzuen zentroak: Egoitzak
+Gizarte Zerbitzuen zentroak: Lanerako prestakuntza eta enplegu zentro bereziak
+Gizarte Zerbitzuen zentroak: Beste batzuk
+Hirugarren adinekoentzako eguneko zentroetako plazak (‰ 65 urteko eta gehiagoko biztanleko)
+Hirugarren adinekoentzako egoitzetako plazak (‰ 65 urteko eta gehiagoko biztanleko)
+Minusbaliatuentzako eguneko zentroetako plazak (‰ biztanleko)
+Minusbaliatuentzako egoitzetako plazak (‰ biztanleko)
+Eguneko zentroen okupazio maila (3. adina + minusbaliatuak)(%)
+Ikasketa unibertsitarioak
+Unibertsitate-zentroak: Lizentziatura ikasketak
+Unibertsitate-zentroak: Goi mailako Arkitektura eta Ingeniaritza ikasketak
+Unibertsitate-zentroak: Arkitektura eta Ingeniaritza teknikoen ikasketak
+Unibertsitate-zentroak: Diplomatura ikasketak
+Unibertsitate-zentroak: Titulazio bikoitzeko ikasketak
+Unibertsitate-zentro publikoak: Lizentziatura ikasketak
+Unibertsitate-zentro publikoak: Goi mailako Arkitektura eta Ingeniaritza ikasketak
+Unibertsitate-zentro publikoak: Arkitektura eta Ingeniaritza teknikoen ikasketak
+Unibertsitate-zentro publikoak: Diplomatura ikasketak
+Unibertsitate-zentro publikoak: Titulazio bikoitzeko ikasketak
+Unibertsitate-zentro pribatuak: Lizentziatura ikasketak
+Unibertsitate-zentro pribatuak: Goi mailako Arkitektura eta Ingeniaritza ikasketak
+Unibertsitate-zentro pribatuak: Arkitektura eta Ingeniaritza teknikoen ikasketak
+Unibertsitate-zentro pribatuak: Diplomatura ikasketak
+Unibertsitate-zentro pribatuak: Titulazio bikoitzeko ikasketak
+Oinarrizko azpiegiturak
+Ur hornidura sistemaren errendimendu adierazlea (%)
+Argiteria publikoko puntuak (‰ biztanleko)
+Erabilera kolektiboko ekipamendua
+Banku-bulegoak: Orotara
+Banku-bulegoak: Banku pribatuak
+Banku-bulegoak: Aurrezki kutxak
+Banku-bulegoak: Kooperatibak eta landa-aurrezki kutxak
+Banku-bulegoak: Kreditu-finantzako establezimenduak
+Banku-bulegoak 10.000 biztanleko
+Posta-bulegoak 10.000 biztanleko
+Gasolindegiak 10.000 biztanleko
+Komun publikoak 10.000 biztanleko
+Sarrera publikoko liburutegietako funtsak edo bolumenak biztanleko
+Turismo-ostatuko plazak (‰ biztanleko)
+Telefono publikoak 1.500 biztanleko
+Aisialdiko eskaintza
+Umeentzako jolas-eremuak (0-14 urte arteko ‰ biztanleko)
+Zinemetako edukiera (eserlekuak 1.000 biztanleko)
+Zinema kopurua
+Zine pantailak
+Kirol-instalazioak
+Merkataritza-ekipamendua
+Ostalaritza eta sukaldaritza establezimenduak (‰ biztanleko)
+Txikizkako merkataritza establezimenduak (‰ biztanleko)
+Aldizkako ondasunen merkataritza establezimenduak (‰ biztanleko)
+Garraioa eta komunikabideak
+Ibilgailuak
+Autoak mila biztanleko
+Ibilgailuak2
+Autoak
+Motorrak
+Kamioiak
+Autobusak
+Industria traktoreak
+Beste ibilgailu batzuk
+Hiri garraioa
+Taxi lizentziak 10.000 biztanleko
+Bidegorri sarea (Km/10.000 biztanleko)
+Udalerriaren irisgarritasuna
+EAEko gainerako udalerrietara joateko batez besteko denbora (min.)
+Errepide nagusietara iristeko batez besteko denbora (min)
+Lurralde Historikoko hiriburura iristeko batez besteko denbora (min)
+Lurralde Historikoko hiribururako distantzia (itzulinguruaren % )
+Hauteskundeak
+Eusko Legebiltzarreko hauteskundeak
+Eusko Legebiltzarreko hauteskundeak: Hautes-errolda
+Eusko Legebiltzarreko hauteskundeak: Botoak
+Eusko Legebiltzarreko hauteskundeak: Abstentzioa
+Eusko Legebiltzarreko hauteskundeak: Boto baliogabeak
+Eusko Legebiltzarreko hauteskundeak: Boto zuriak
+Eusko Legebiltzarreko hauteskundeak: Kandidaturen botoak
+Eusko Legebiltzarreko hauteskundeak: Kandidaturen botoen%
+Eusko Legebiltzarreko hauteskundeak: EAJ-PNVren botoen %
+Eusko Legebiltzarreko hauteskundeak: PSE-EE/PSOEren botoen %
+Eusko Legebiltzarreko hauteskundeak: PPren botoen %
+Eusko Legebiltzarreko hauteskundeak: Beste batzuei emandako botoen %
+Eusko Legebiltzarreko hauteskundeak: Boto zurien %
+Eusko Legebiltzarreko hauteskundeak: Boto baliogabeen %
+Eusko Legebiltzarreko hauteskundeak: Abstentzioaren %
+Eusko Legebiltzarreko hauteskundeak: Boto-emaileen %
+Eusko Legebiltzarreko hauteskundeak: EH BILDUren botoen %
+Eusko Legebiltzarreko hauteskundeak: Podemos / Ahal Dugu-IUren botoen %
+Udal hauteskundeak
+Udal hauteskundeak: Hautes-errolda
+Udal hauteskundeak: Botoak
+Udal hauteskundeak: Abstentzioa
+Udal hauteskundeak: Boto baliogabeak
+Udal hauteskundeak: Boto zuriak
+Udal hauteskundeak: Boto-emaileen %
+Udal hauteskundeak: Abstentzioaren %
+Udal hauteskundeak: Boto baliogabeen %
+Udal hauteskundeak: Boto zurien %
+Udal hauteskundeak: EAJ-PNVren botoen %
+Udal hauteskundeak: PSE-EE/PSOEren botoen %
+Udal hauteskundeak: PPren botoen %
+Udal hauteskundeak: EAE-ANVren botoen %
+Udal hauteskundeak: BILDUren botoen %
+Udal hauteskundeak: Beste batzuei emandako botoen %
+Udal hauteskundeak: EAJ-PNVren zinegotziak
+Udal hauteskundeak: PSE-EE/PSOEren zinegotziak
+Udal hauteskundeak: PPren zinegotziak
+Udal hauteskundeak: EAE-ANVren zinegotziak
+Udal hauteskundeak: BILDUren zinegotziak
+Udal hauteskundeak: Beste alderdien zinegotziak
+Kongresuko hauteskundeak
+Kongresuko hauteskundeak: Hautes-errolda
+Kongresuko hauteskundeak: Botoak
+Kongresuko hauteskundeak: Abstentzioa
+Kongresuko hauteskundeak: Boto baliogabeak
+Kongresuko hauteskundeak: Boto zuriak
+Kongresuko hauteskundeak: Kandidaturen botoak
+Kongresuko hauteskundeak: Boto-emaileen %
+Kongresuko hauteskundeak: Abstentzioaren %
+Kongresuko hauteskundeak: Boto baliogabeen %
+Kongresuko hauteskundeak: Boto zurien %
+Kongresuko hauteskundeak: Kandidaturen botoen%
+Kongresuko hauteskundeak: EAJ-PNVren botoen %
+Kongresuko hauteskundeak: PSE-EE/PSOEren botoen %
+Kongresuko hauteskundeak: PPren botoen %
+Kongresuko hauteskundeak: EH BILDUren botoen %
+Kongresuko hauteskundeak: PODEMOS/AHAL DUGU-IUren botoen %
+Kongresuko hauteskundeak: Beste batzuei emandako botoen %
+Senaturako hauteskundeak
+Senaturako hauteskundeak: Hautesle-errolda
+Senaturako hauteskundeak: Botoak
+Senaturako hauteskundeak: Abstentzioak
+Senaturako hauteskundeak: Boto Baliogabeak
+Senaturako hauteskundeak: Boto Zuriak
+Senaturako hauteskundeak: Hautagaitzen Botoak
+Senaturako hauteskundeak: Boto-emaileen %
+Senaturako hauteskundeak: Abstentzio %
+Senaturako hauteskundeak: Boto Baliogabeen %
+Senaturako hauteskundeak: Boto Zurien %
+Senaturako hauteskundeak: Hautagaitzen %
+Senaturako hauteskundeak: EAJ-PNVren botoen %
+Senaturako hauteskundeak: PSE-EE/PSOEren botoen %
+Senaturako hauteskundeak: PPren botoen %
+Senaturako hauteskundeak: Beste batzuen botoen %
+Gizarte babesa eta Herritarren Segurtasuna
+Pentsioak indarrean
+Erretiro-pentsioak
+Alarguntasun-pentsioak
+Ezintasun iraunkorragatiko pentsioak
+Umezurtz-pentsioak
+Familiaren aldeko pentsioak
+Bide-segurtasuna
+Udalerrian harrapatutako oinezkoak eta Ertzaintzak erregistratuak 10.000 biztanleko
+Udalerrian Ertzaintzak erregistratutako istripuak (‰ biztanleko)
+Ekipamendua2
+Udaltzain kopurua (‰ biztanleko)
+Txirotasun arriskua
+Txirotasun arriskuan dauden familiak
+Familien txirotasun arrisku tasa
+Txirotasun arriskuan dauden pertsonak
+Pertsonen txirotasun arrisku tasa
+Diru-laguntzen hartzaileak
+Oinarrizko errentaren hartzaileak (‰ biz)
+Gizarte larrialdietarako laguntzen hartzaileak (‰ biztanleko)
+Kotizazio gabeko pentsioen hartzaileak (‰ biztanleko)
+Delituak
+Delitu kopurua (‰ biztanleko)
+Lan merkatua
+Langabezia
+Jasotako langabezia
+Langabetuak Orotara
+Langabetuak sexuaren arabera: Gizonezkoak
+Langabetuak sexuaren arabera: Emakumezkoak
+Langabetuak sektoreko: Nekazaritza
+Langabetuak sektoreko: Industria
+Langabetuak sektoreko: Eraikuntza
+Langabetuak sektoreko: Zerbitzuak
+Langabetuak adinaren arabera: <25 urte
+Langabetuak adinaren arabera: <30 urte
+Langabetuak adinaren arabera: 25-44 urte artekoak
+Langabetuak adinaren arabera: 45 urteko eta gehiagoko langabetuak
+Langabetuak sexuaren eta adin taldearen arabera: 25 urtetik beherako gizonezkoak
+Langabetuak sexuaren eta adin taldearen arabera: 30 urtetik beherako gizonezkoak
+Langabetuak sexuaren eta adin taldearen arabera: 25-44 urte arteko gizonezkoak
+Langabetuak sexuaren eta adin taldearen arabera: 45 urteko eta gehiagoko gizonezkoak
+Langabetuak sexuaren eta adin taldearen arabera: 25 urtetik beherako emakumezkoak
+Langabetuak sexuaren eta adin taldearen arabera: 30 urtetik beherako emakumezkoak
+Langabetuak sexuaren eta adin taldearen arabera: 25-44 urte arteko emakumezkoak
+Langabetuak sexuaren eta adin taldearen arabera: 45 urteko eta gehiagoko emakumezkoak
+Langabetuak sektoreko: aurreko enplegurik gabe
+Langabezia tasa
+Gizonezkoen langabezia tasa
+Emakumezkoen langabezia tasa
+Langabetuen % sexuaren arabera: Gizonezkoak
+Langabetuen % sexuaren arabera: Emakumezkoak
+Langabetuen % sektoreko: Nekazaritza
+Langabetuen % sektoreko: Industria
+Langabetuen % sektoreko: Eraikuntza
+Langabetuen % sektoreko: Zerbitzuak
+Langabetuen % sektoreko: Aurreko enplegurik gabe
+Langabetuen % adinaren arabera: <25 urte
+Langabetuen % adinaren arabera: <30 urte
+Langabetuen % adinaren arabera: 25-44 urte artekoak
+Langabetuen % adinaren arabera: 45 urtetik gorakoak
+Langabetuen % sexuaren eta adin taldearen arabera: 25 urtetik beherako gizonezkoak
+Langabetuen % sexuaren eta adin taldearen arabera: 30 urtetik beherako gizonezkoak
+Langabetuen % sexuaren eta adin taldearen arabera: 25-44 urte arteko gizonezkoak
+Langabetuen % sexuaren eta adin taldearen arabera: 45 urtetik gorako gizonezkoak
+Langabetuen % sexuaren eta adin taldearen arabera: 25 urtetik beherako emakumezkoak
+Langabetuen % sexuaren eta adin taldearen arabera: 30 urtetik beherako emakumezkoak
+Langabetuen % sexuaren eta adin taldearen arabera: 25-44 urte arteko emakumezkoak
+Langabetuen % sexuaren eta adin taldearen arabera: 45 urtetik gorako emakumezkoak
+Crecimiento mensual del paro registrado
+Crecimiento anual del paro registrado
+Proporción de parados sobre la población de 16 a 64 años
+Langabetuak sexu eta lanbidearen arabera
+Langabetuak: Enpresa Zuzendaritza eta Administrazio Publikoak
+Langabetuak: Teknikari eta profesional zientifiko eta intelektualak
+Langabetuak: Laguntzako teknikariak eta profesionalak
+Langabetuak: Administrariak
+Langabetuak: Jatetxeetako, zerbitzu pertsonaletako eta babes-zerbitzuetako langileak eta dendetako saltzaileak
+Langabetuak: Nekazaritzako eta arrantzako langile kualifikatuak
+Langabetuak: Artisauak eta manufaktura-industrietako, eraikuntzako eta meatzaritzako langile kualifikatuak
+Langabetuak: Instalazioetako eta makinetako eragileak, muntatzaileak
+Langabetuak: Berezitasunik gabeko langileak
+Langabetuak: Indar armatuak
+Langabetu gizonezkoak:Enpresa Zuzendaritza eta Administrazio Publikoak
+Langabetu gizonezkoak: Teknikari eta profesional zientifiko eta intelektualak
+Langabetu gizonezkoak: Laguntzako teknikariak eta profesionalak
+Langabetu gizonezkoak: Administrariak
+Langabetu gizonezkoak: Jatetxeetako, zerbitzu pertsonaletako eta babes-zerbitzuetako langileak eta dendetako saltzaileak
+Langabetu gizonezkoak: Nekazaritzako eta arrantzako langile kualifikatuak
+Langabetu gizonezkoak: Artisauak eta manufaktura-industrietako, eraikuntzako eta meatzaritzako langile kualifikatuak
+Langabetu gizonezkoak: Instalazioetako eta makinetako eragileak, muntatzaileak
+Langabetu gizonezkoak: Berezitasunik gabeko langileak
+Langabetu gizonezkoak: Indar armatuak
+Langabetu emakumezkoak:Enpresa Zuzendaritza eta Administrazio Publikoak
+Langabetu emakumezkoak: Teknikari eta profesional zientifiko eta intelektualak
+Langabetu emakumezkoak: Laguntzako teknikariak eta profesionalak
+Langabetu emakumezkoak: Administrariak
+Langabetu emakumezkoak: Jatetxeetako, zerbitzu pertsonaletako eta babes-zerbitzuetako langileak eta dendetako saltzaileak
+Langabetu emakumezkoak: Nekazaritzako eta arrantzako langile kualifikatuak
+Langabetu emakumezkoak: Artisauak eta manufaktura-industrietako, eraikuntzako eta meatzaritzako langile kualifikatuak
+Langabetu emakumezkoak: Instalazioetako eta makinetako eragileak, muntatzaileak
+Langabetu emakumezkoak: Berezitasunik gabeko langileak
+Langabetu emakumezkoak: Indar armatuak
+Langabetuak sexu, adin eta ikasketa mailaren arabera
+Langabetuak: Alfabetatu gabe
+Langabetuak: Lehen mailako ikasketak amaitu gabe
+Langabetuak: Lehen mailako ikasketen ziurtagiria
+Langabetuak: Erdi mailako LH
+Langabetuak: DBH
+Langabetuak: Goi mailako LH
+Langabetuak: 1. zikloko ikasketa unibertsitarioak
+Langabetuak: 2. zikloko ikasketa unibertsitarioak
+Langabetuak: Bestelako ikasketa unibertsitarioak
+Langabetu gizonezkoak: Alfabetatu gabe
+Langabetu gizonezkoak: Lehen mailako ikasketak amaitu gabe
+Langabetu gizonezkoak: Lehen mailako ikasketen ziurtagiria
+Langabetu gizonezkoak: Erdi mailako LH
+Langabetu gizonezkoak: DBH
+Langabetu gizonezkoak: Goi mailako LH
+Langabetu gizonezkoak: 1. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak: 2. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak: Bestelako ikasketa unibertsitarioak
+Langabetu emakumezkoak: Alfabetatu gabe
+Langabetu emakumezkoak: Lehen mailako ikasketak amaitu gabe
+Langabetu emakumezkoak: Lehen mailako ikasketen ziurtagiria
+Langabetu emakumezkoak: Erdi mailako LH
+Langabetu emakumezkoak: DBH
+Langabetu emakumezkoak: Goi mailako LH
+Langabetu emakumezkoak: 1. zikloko ikasketa unibertsitarioak
+Langabetu emakumezkoak: 2. zikloko ikasketa unibertsitarioak
+Langabetu emakumezkoak: Bestelako ikasketa unibertsitarioak
+Langabetuak < 25 urte: Alfabetatu gabe
+Langabetuak < 25 urte: Lehen mailako ikasketak amaitu gabe
+Langabetuak < 25 urte: Lehen mailako ikasketen ziurtagiria
+Langabetuak < 25 urte: Erdi mailako LH
+Langabetuak < 25 urte: DBH
+Langabetuak < 25 urte: Goi mailako LH
+Langabetuak < 25 urte: 1. zikloko ikasketa unibertsitarioak
+Langabetuak < 25 urte: 2. zikloko ikasketa unibertsitarioak
+Langabetuak < 25 urte: Bestelako ikasketa unibertsitarioak
+Langabetu gizonezkoak < 25 urte: Alfabetatu gabe
+Langabetu gizonezkoak < 25 urte: Lehen mailako ikasketak amaitu gabe
+Langabetu gizonezkoak < 25 urte: Lehen mailako ikasketen ziurtagiria
+Langabetu gizonezkoak < 25 urte: Erdi mailako LH
+Langabetu gizonezkoak < 25 urte: DBH
+Langabetu gizonezkoak < 25 urte: Goi mailako LH
+Langabetu gizonezkoak < 25 urte: 1. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak < 25 urte: 2. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak < 25 urte: Bestelako ikasketa unibertsitarioak
+Langabetu emakumezkoak < 25 urte:Alfabetatu gabe
+Langabetu emakumezkoak < 25 urte: Lehen mailako ikasketak amaitu gabe
+Langabetu emakumezkoak < 25 urte: Lehen mailako ikasketen ziurtagiria
+Langabetu emakumezkoak < 25 urte: Erdi mailako LH
+Langabetu emakumezkoak < 25 urte: DBH
+Langabetu emakumezkoak < 25 urte: Goi mailako LH
+Langabetu emakumezkoak < 25 urte: 1. zikloko ikasketa unibertsitarioak
+Langabetu emakumezkoak < 25 urte: 2. zikloko ikasketa unibertsitarioak
+Langabetu emakumezkoak < 25 urte: Bestelako ikasketa unibertsitarioak
+Langabetuak < 30 urte: Alfabetatu gabe
+Langabetuak < 30 urte: Lehen mailako ikasketak amaitu gabe
+Langabetuak < 30 urte: Lehen mailako ikasketen ziurtagiria
+Langabetuak < 30 urte: Erdi mailako LH
+Langabetuak < 30 urte: DBH
+Langabetuak < 30 urte: Goi mailako LH
+Langabetuak < 30 urte: 1. zikloko ikasketa unibertsitarioak
+Langabetuak < 30 urte: 2. zikloko ikasketa unibertsitarioak
+Langabetuak < 30 urte: Bestelako ikasketa unibertsitarioak
+Langabetu gizonezkoak < 30 urte: Alfabetatu gabe
+Langabetu gizonezkoak < 30 urte: Lehen mailako ikasketak amaitu gabe
+Langabetu gizonezkoak < 30 urte: Lehen mailako ikasketen ziurtagiria
+Langabetu gizonezkoak < 30 urte: Erdi mailako LH
+Langabetu gizonezkoak < 30 urte: DBH
+Langabetu gizonezkoak < 30 urte: Goi mailako LH
+Langabetu gizonezkoak < 30 urte: 1. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak < 30 urte: 2. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak < 30 urte: Bestelako ikasketa unibertsitarioak
+Langabetu emakumezkoak < 30 urte: Bestelako ikasketa unibertsitarioak
+Langabetu emakumezkoak < 30 urte:Alfabetatu gabe
+Langabetu emakumezkoak < 30 urte: Lehen mailako ikasketak amaitu gabe
+Langabetu emakumezkoak < 30 urte: Lehen mailako ikasketen ziurtagiria
+Langabetu emakumezkoak < 30 urte: Erdi mailako LH
+Langabetu emakumezkoak < 30 urte: DBH
+Langabetu emakumezkoak < 30 urte: Goi mailako LH
+Langabetu emakumezkoak < 30 urte: 1. zikloko ikasketa unibertsitarioak
+Langabetu emakumezkoak < 30 urte: 2. zikloko ikasketa unibertsitarioak
+Langabetuak 25-44 urte artekoak: Alfabetatu gabe
+Langabetuak 25-44 urte artekoak: Lehen mailako ikasketak amaitu gabe
+Langabetuak 25-44 urte artekoak: Lehen mailako ikasketen ziurtagiria
+Langabetuak 25-44 urte artekoak: Erdi mailako LH
+Langabetuak 25-44 urte artekoak: DBH
+Langabetuak 25-44 urte artekoak: Goi mailako LH
+Langabetuak 25-44 urte artekoak: 1. zikloko ikasketa unibertsitarioak
+Langabetuak 25-44 urte artekoak: 2. zikloko ikasketa unibertsitarioak
+Langabetuak 25-44 urte artekoak: Bestelako ikasketa unibertsitarioak
+Langabetu gizonezkoak 25-44 urte artekoak: Alfabetatu gabe
+Langabetu gizonezkoak 25-44 urte artekoak: Lehen mailako ikasketak amaitu gabe
+Langabetu gizonezkoak 25-44 urte artekoak: Lehen mailako ikasketen ziurtagiria
+Langabetu gizonezkoak 25-44 urte artekoak: Erdi mailako LH
+Langabetu gizonezkoak 25-44 urte artekoak: DBH
+Langabetu gizonezkoak 25-44 urte artekoak: Goi mailako LH
+Langabetu gizonezkoak 25-44 urte artekoak: 1. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak 25-44 urte artekoak: 2. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak 25-44 urte artekoak: Bestelako ikasketa unibertsitarioak
+Langabetu emakumezkoak 25-44 urte artekoak: Alfabetatu gabe
+Langabetu emakumezkoak 25-44 urte artekoak: Lehen mailako ikasketak amaitu gabe
+Langabetu emakumezkoak 25-44 urte artekoak: Lehen mailako ikasketen ziurtagiria
+Langabetu emakumezkoak 25-44 urte artekoak: Erdi mailako LH
+Langabetu emakumezkoak 25-44 urte artekoak: DBH
+Langabetu emakumezkoak 25-44 urte artekoak: Goi mailako LH
+Langabetu emakumezkoak 25-44 urte artekoak: 1. zikloko ikasketa unibertsitarioak
+Langabetu emakumezkoak 25-44 urte artekoak: 2. zikloko ikasketa unibertsitarioak
+Langabetu emakumezkoak 25-44 urte artekoak: Bestelako ikasketa unibertsitarioak
+Langabetuak 45 urtetik gorakoak: Alfabetatu gabe
+Langabetuak 45 urtetik gorakoak: Lehen mailako ikasketak amaitu gabe
+Langabetuak 45 urtetik gorakoak: Lehen mailako ikasketen ziurtagiria
+Langabetuak 45 urtetik gorakoak: Erdi mailako LH
+Langabetuak 45 urtetik gorakoak: DBH
+Langabetuak 45 urtetik gorakoak: Goi mailako LH
+Langabetuak 45 urtetik gorakoak: 1. zikloko ikasketa unibertsitarioak
+Langabetuak 45 urtetik gorakoak: 2. zikloko ikasketa unibertsitarioak
+Langabetuak 45 urtetik gorakoak: Bestelako ikasketa unibertsitarioak
+Langabetu gizonezkoak 45 urtetik gorakoak: Alfabetatu gabe
+Langabetu gizonezkoak 45 urtetik gorakoak: Lehen mailako ikasketak amaitu gabe
+Langabetu gizonezkoak 45 urtetik gorakoak: Lehen mailako ikasketen ziurtagiria
+Langabetu gizonezkoak 45 urtetik gorakoak: Erdi mailako LH
+Langabetu gizonezkoak 45 urtetik gorakoak: DBH
+Langabetu gizonezkoak 45 urtetik gorakoak: Goi mailako LH
+Langabetu gizonezkoak 45 urtetik gorakoak: 1. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak 45 urtetik gorakoak: 2. zikloko ikasketa unibertsitarioak
+Langabetu gizonezkoak 45 urtetik gorakoak: Bestelako ikasketa unibertsitarioak
+Langabetu emakumezkoak 45 urtetik gorakoak: Alfabetatu gabe
+Langabetu emakumezkoak 45 urtetik gorakoak: Lehen mailako ikasketak amaitu gabe
+Langabetu emakumezkoak 45 urtetik gorakoak: Lehen mailako ikasketen ziurtagiria
+Langabetu emakumezkoak 45 urtetik gorakoak: Erdi mailako LH
+Langabetu emakumezkoak 45 urtetik gorakoak: DBH
+Langabetu emakumezkoak 45 urtetik gorakoak: Goi mailako LH
+Langabetu emakumezkoak 45 urtetik gorakoak: 1. zikloko ikasketa unibertsitarioak
+Langabetu emakumezkoak 45 urtetik gorakoak: 2. zikloko ikasketa unibertsitarioak
+Langabetu emakumezkoak 45 urtetik gorakoak: Bestelako ikasketa unibertsitarioak
+Kontratuak
+Kontratuak2
+Kontratuak Orotara
+Kontratuak sexuaren arabera: Gizonezkoak
+Kontratuak sexuaren arabera: Emakumezkoak
+Kontratuak sektoreko: Nekazaritza
+Kontratuak sektoreko: Industria
+Kontratuak sektoreko: Eraikuntza
+Kontratuak sektoreko: Zerbitzuak
+Kontratuak motaren arabera: Mugagabea
+Kontratuak motaren arabera: Mugagabe bihurtuta
+Kontratuak mota arabera: Aldi baterakoak
+Kontratuak sexuaren eta motaren arabera: Gizonezkoak eta mugagabeak
+Kontratuak sexuaren eta motaren arabera: Gizonezkoak eta mugagabe bihurtuak
+Kontratuak sexuaren eta motaren arabera: Gizonezkoak eta aldi baterakoak
+Kontratuak sexuaren eta motaren arabera: Emakumezkoak eta mugagabeak
+Kontratuak sexuaren eta motaren arabera: Emakumezkoak eta mugagabe bihurtuak
+Kontratuak sexuaren eta motaren arabera: Emakumezkoak eta aldi baterakoa
+Urtean erregistratutako kontratuak (15 urteko eta gehiagoko ‰ biztanleko)
+Kontratuen % sexuaren arabera (kontratu guztien %): Gizonezkoak
+Kontratuen % sexuaren arabera : Emakumezkoak
+Kontratuen % sektorearen arabera (kontratu guztien %): Nekazaritza
+Kontratuen % sektorearen arabera (kontratu guztien %): Industria
+Kontratuen % sektorearen arabera (kontratu guztien %): Eraikuntza
+Kontratuen % sektorearen arabera (kontratu guztien %): Zerbitzuak
+Kontratuen % motaren arabera (kontratu guztien %): Mugagabeak
+Kontratuen % motaren arabera (kontratu guztien %): Mugagabe bihurtuak
+Kontratuen % motaren arabera (kontratu guztien %): Aldi baterakoak
+Kontratu mugagabeen %: Gizonezkoak (kontratu mugagabe guztien %)
+Kontratu mugagabe bihurtuen %: Gizonezkoak (kontratu mugagabe bihurtu guztien %)
+Aldi baterako kontratuen %: Gizonezkoak (aldi baterako kontratu guztien %)
+Kontratu mugagabeen %: Emakumezkoak (kontratu mugagabe guztien %)
+Kontratu mugagabe bihurtuen %: Emakumezkoak (kontratu mugagabe bihurtu guztien %)
+Aldi baterako kontratuen %: Emakumezkoak (aldi baterako kontratu guztien %)
+Urtean erregistratutako kontratu mugagabeen %: 30 urtetik beherakoak (kontratu mugagabe guztien %)
+Urtean erregistratutako kontratu mugagabeen %: 45 urteko eta gehiagokoak (kontratu mugagabe guztien %)
+Kontratatutako biztanleria: Orotara
+Kontratatutako biztanleria: Gizonezkoak
+Kontratatutako biztanleria: Emakumezkoak
+Urtean kontratatutako biztanleria (15 urteko eta gehiagoko ‰ biztanleko)
+Kontratu txandaketa: Orotara
+Kontratu txandaketa: Gizonezkoak
+Kontratu txandaketa: Emakumezkoak
+Atzerritarren kontratuak: Orotara
+Atzerritarren kontratuak: Gizonezkoak
+Atzerritarren kontratuak: Emakumezkoak
+Atzerritarren kontratuen % (kontratu guztien %)
+Crecimiento mensual de los contratos
+Crecimiento anual de los contratos
+Langabetuak sexu eta sektorearen arabera
+Gizonezkoen kontratuak: Nekazaritza
+Gizonezkoen kontratuak: Industria
+Gizonezkoen kontratuak: Eraikuntza
+Gizonezkoen kontratuak: Zerbitzuak
+Emakumezkoen kontratuak: Nekazaritza
+Emakumezkoen kontratuak: Industria
+Emakumezkoen kontratuak: Eraikuntza
+Emakumezkoen kontratuak: Zerbitzuak
+Kontratuak sexu eta lanbidearen arabera
+Kontratuak: Enpresa Zuzendaritza eta Administrazio Publikoak
+Kontratuak: Teknikari eta profesional zientifiko eta intelektualak
+Kontratuak: Laguntzako teknikariak eta profesionalak
+Kontratuak: Administrariak
+Kontratuak: Jatetxeetako, zerbitzu pertsonaletako eta babes-zerbitzuetako langileak eta dendetako saltzaileak
+Kontratuak: Nekazaritzako eta arrantzako langile kualifikatuak
+Kontratuak: Artisauak eta manufaktura-industrietako, eraikuntzako eta meatzaritzako langile kualifikatuak
+Kontratuak: Instalazioetako eta makinetako eragileak, muntatzaileak
+Kontratuak: Berezitasunik gabeko langileak
+Kontratuak: Indar armatuak
+Gizonezkoen kontratuak:Enpresa Zuzendaritza eta Administrazio Publikoak
+Gizonezkoen kontratuak: Teknikari eta profesional zientifiko eta intelektualak
+Gizonezkoen kontratuak: Laguntzako teknikariak eta profesionalak
+Gizonezkoen kontratuak: Administrariak
+Gizonezkoen kontratuak: Jatetxeetako, zerbitzu pertsonaletako eta babes-zerbitzuetako langileak eta dendetako saltzaileak
+Gizonezkoen kontratuak: Nekazaritzako eta arrantzako langile kualifikatuak
+Gizonezkoen kontratuak: Artisauak eta manufaktura-industrietako, eraikuntzako eta meatzaritzako langile kualifikatuak
+Gizonezkoen kontratuak: Instalazioetako eta makinetako eragileak, muntatzaileak
+Gizonezkoen kontratuak: Berezitasunik gabeko langileak
+Gizonezkoen kontratuak: Indar armatuak
+Emakumezkoen kontratuak:Enpresa Zuzendaritza eta Administrazio Publikoak
+Emakumezkoen kontratuak: Teknikari eta profesional zientifiko eta intelektualak
+Emakumezkoen kontratuak: Laguntzako teknikariak eta profesionalak
+Emakumezkoen kontratuak: Administrariak
+Emakumezkoen kontratuak: Jatetxeetako, zerbitzu pertsonaletako eta babes-zerbitzuetako langileak eta dendetako saltzaileak
+Emakumezkoen kontratuak: Nekazaritzako eta arrantzako langile kualifikatuak
+Emakumezkoen kontratuak: Artisauak eta manufaktura-industrietako, eraikuntzako eta meatzaritzako langile kualifikatuak
+Emakumezkoen kontratuak: Instalazioetako eta makinetako eragileak, muntatzaileak
+Emakumezkoen kontratuak: Berezitasunik gabeko langileak
+Emakumezkoen kontratuak: Indar armatuak
+Kontratuak sexu, adin eta motaren arabera
+Gizonezkoen kontratuak < 25 urte: Mugagabea
+Gizonezkoen kontratuak < 25 urte: Mugagabe bihurtua
+Gizonezkoen kontratuak < 25 urte: Aldi baterakoa
+Emakumeen kontratuak < 25 urte: Mugagabea
+Emakumeen kontratuak < 25 urte: Mugagabe bihurtua
+Emakumeen kontratuak < 25 urte: Aldi baterakoa
+Gizonezkoen kontratuak < 30 urte: Mugagabea
+Gizonezkoen kontratuak < 30 urte: Mugagabe bihurtua
+Gizonezkoen kontratuak < 30 urte: Aldi baterakoa
+Emakumeen kontratuak < 30 urte: Mugagabea
+Emakumeen kontratuak < 30 urte: Mugagabe bihurtua
+Emakumeen kontratuak < 30 urte: Aldi baterakoa
+Gizonezkoen kontratuak 25-44 urte artekoak: Mugagabea
+Gizonezkoen kontratuak 25-44 urte artekoak: Mugagabe bihurtua
+Gizonezkoen kontratuak 25-44 urte artekoak: Aldi baterakoa
+Emakumezkoen kontratuak 25-44 urte artekoak: Mugagabea
+Emakumezkoen kontratuak 25-44 urte artekoak: Mugagabe bihurtua
+Emakumezkoen kontratuak 25-44 urte artekoak: Aldi baterakoa
+Gizonezkoen kontratuak 45 urtetik gorakoak: Mugagabea
+Gizonezkoen kontratuak 45 urtetik gorakoak: Mugagabe bihurtua
+Gizonezkoen kontratuak 45 urtetik gorakoak: Aldi baterakoa
+Emakumezkoen kontratuak 45 urtetik gorakoak: Mugagabea
+Emakumezkoen kontratuak 45 urtetik gorakoak: Mugagabe bihurtua
+Emakumezkoen kontratuak 45 urtetik gorakoak: Aldi baterakoa
+Kontratuak sexu, adin eta ikasketa mailaren arabera
+Kontratuak: Alfabetatu gabe
+Kontratuak: Lehen mailako ikasketak
+Kontratuak: Erdi mailako LH
+Kontratuak: DBH
+Kontratuak: Goi mailako LH
+Kontratuak: 1. zikloko ikasketa unibertsitarioak
+Kontratuak: 2. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak: Alfabetatu gabe
+Gizonezkoen kontratuak: Lehen mailako ikasketak
+Gizonezkoen kontratuak: Erdi mailako LH
+Gizonezkoen kontratuak: DBH
+Gizonezkoen kontratuak: Goi mailako LH
+Gizonezkoen kontratuak: 1. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak: 2. zikloko ikasketa unibertsitarioak
+Emakumeen kontratuak: Alfabetatu gabe
+Emakumezkoen kontratuak: Lehen mailako ikasketak
+Emakumezkoen kontratuak: Erdi mailako LH
+Emakumezkoen kontratuak: DBH
+Emakumezkoen kontratuak: Goi mailako LH
+Emakumezkoen kontratuak: 1. zikloko ikasketa unibertsitarioak
+Emakumezkoen kontratuak: 2. zikloko ikasketa unibertsitarioak
+Kontratuak < 25 urte: Alfabetatu gabe
+Kontratuak < 25 urte: Lehen mailako ikasketak
+Kontratuak < 25 urte: Erdi mailako LH
+Kontratuak < 25 urte: DBH
+Kontratuak < 25 urte: Goi mailako LH
+Kontratuak < 25 urte: 1. zikloko ikasketa unibertsitarioak
+Kontratuak < 25 urte: 2. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak < 25 urte: Alfabetatu gabe
+Gizonezkoen kontratuak < 25 urte: Lehen mailako ikasketak
+Gizonezkoen kontratuak < 25 urte: Erdi mailako LH
+Gizonezkoen kontratuak < 25 urte: DBH
+Gizonezkoen kontratuak < 25 urte: Goi mailako LH
+Gizonezkoen kontratuak < 25 urte: 1. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak < 25 urte: 2. zikloko ikasketa unibertsitarioak
+Emakumezkoen kontratuak < 25 urte: Alfabetatu gabe
+Emakumezkoen kontratuak < 25 urte: Lehen mailako ikasketak
+Emakumezkoen kontratuak < 25 urte: Erdi mailako LH
+Emakumezkoen kontratuak < 25 urte: DBH
+Emakumezkoen kontratuak < 25 urte: Goi mailako LH
+Emakumezkoen kontratuak < 25 urte: 1. zikloko ikasketa unibertsitarioak
+Emakumezkoen kontratuak < 25 urte: 2. zikloko ikasketa unibertsitarioak
+Kontratuak < 30 urte: Alfabetatu gabe
+Kontratuak < 30 urte: Lehen mailako ikasketak
+Kontratuak < 30 urte: Erdi mailako LH
+Kontratuak < 30 urte: DBH
+Kontratuak < 30 urte: Goi mailako LH
+Kontratuak < 30 urte: 1. zikloko ikasketa unibertsitarioak
+Kontratuak < 30 urte: 2. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak < 30 urte: Alfabetatu gabe
+Gizonezkoen kontratuak < 30 urte: Lehen mailako ikasketak
+Gizonezkoen kontratuak < 30 urte: Erdi mailako LH
+Gizonezkoen kontratuak < 30 urte: DBH
+Gizonezkoen kontratuak < 30 urte: Goi mailako LH
+Gizonezkoen kontratuak < 30 urte: 1. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak < 30 urte: 2. zikloko ikasketa unibertsitarioak
+Emakumezkoen kontratuak < 30 urte: Alfabetatu gabe
+Emakumezkoen kontratuak < 30 urte: Lehen mailako ikasketak
+Emakumezkoen kontratuak < 30 urte: Erdi mailako LH
+Emakumezkoen kontratuak < 30 urte: DBH
+Emakumezkoen kontratuak < 30 urte: Goi mailako LH
+Emakumezkoen kontratuak < 30 urte: 1. zikloko ikasketa unibertsitarioak
+Emakumezkoen kontratuak < 30 urte: 2. zikloko ikasketa unibertsitarioak
+Kontratuak 25-44 urte artekoak: Alfabetatu gabe
+Kontratuak 25-44 urte artekoak: Lehen mailako ikasketak
+Kontratuak 25-44 urte artekoak: Erdi mailako LH
+Kontratuak 25-44 urte artekoak: DBH
+Kontratuak 25-44 urte artekoak: Goi mailako LH
+Kontratuak 25-44 urte artekoak: 1. zikloko ikasketa unibertsitarioak
+Kontratuak 25-44 urte artekoak: 2. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak 25-44 urte artekoak: Alfabetatu gabe
+Gizonezkoen kontratuak 25-44 urte artekoak: Lehen mailako ikasketak
+Gizonezkoen kontratuak 25-44 urte artekoak: Erdi mailako LH
+Gizonezkoen kontratuak 25-44 urte artekoak: DBH
+Gizonezkoen kontratuak 25-44 urte artekoak: Goi mailako LH
+Gizonezkoen kontratuak 25-44 urte artekoak: 1. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak 25-44 urte artekoak: 2. zikloko ikasketa unibertsitarioak
+Emakumezkoen kontratuak 25-44 urte artekoak: Alfabetatu gabe
+Emakumezkoen kontratuak 25-44 urte artekoak: Lehen mailako ikasketak
+Emakumezkoen kontratuak 25-44 urte artekoak: Erdi mailako LH
+Emakumezkoen kontratuak 25-44 urte artekoak: DBH
+Emakumezkoen kontratuak 25-44 urte artekoak: Goi mailako LH
+Emakumezkoen kontratuak 25-44 urte artekoak: 1. zikloko ikasketa unibertsitarioak
+Emakumezkoen kontratuak 25-44 urte artekoak: 2. zikloko ikasketa unibertsitarioak
+Kontratuak 45 urtetik gorakoak: Alfabetatu gabe
+Kontratuak 45 urtetik gorakoak: Lehen mailako ikasketak
+Kontratuak 45 urtetik gorakoak: Erdi mailako LH
+Kontratuak 45 urtetik gorakoak: DBH
+Kontratuak 45 urtetik gorakoak: Goi mailako LH
+Kontratuak 45 urtetik gorakoak: 1. zikloko ikasketa unibertsitarioak
+Kontratuak 45 urtetik gorakoak: 2. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak 45 urtetik gorakoak: Alfabetatu gabe
+Gizonezkoen kontratuak 45 urtetik gorakoak: Lehen mailako ikasketak
+Gizonezkoen kontratuak 45 urtetik gorakoak: Erdi mailako LH
+Gizonezkoen kontratuak 45 urtetik gorakoak: DBH
+Gizonezkoen kontratuak 45 urtetik gorakoak: Goi mailako LH
+Gizonezkoen kontratuak 45 urtetik gorakoak: 1. zikloko ikasketa unibertsitarioak
+Gizonezkoen kontratuak 45 urtetik gorakoak: 2. zikloko ikasketa unibertsitarioak
+Emakumezkoen kontratuak 45 urtetik gorakoak: Alfabetatu gabe
+Emakumezkoen kontratuak 45 urtetik gorakoak: Lehen mailako ikasketak
+Emakumezkoen kontratuak 45 urtetik gorakoak: Erdi mailako LH
+Emakumezkoen kontratuak 45 urtetik gorakoak: DBH
+Emakumezkoen kontratuak 45 urtetik gorakoak: Goi mailako LH
+Emakumezkoen kontratuak 45 urtetik gorakoak: 1. zikloko ikasketa unibertsitarioak
+Emakumezkoen kontratuak 45 urtetik gorakoak: 2. zikloko ikasketa unibertsitarioak
+Afiliatuak
+Afiliatuak2
+Afiliatuak: Guztira
+Gizarte Segurantzako afiliazio-tasa (% biztanleko)
+Proporción de trabajadores sobre la población de 16 a 64 años
+Crecimiento mensual de las afiliaciones
+Crecimiento anual de las afiliaciones
+Afiliatu atzerritarrak
+Afiliatu atzerritarrak2
+Afiliatu atzerritarrak: Erregimen Orokorra
+Afiliatu atzerritarrak: Autonomoak
+Afiliatu atzerritarrak: Nekazaritza
+Afiliatu atzerritarrak: Itsasoa
+Afiliatu atzerritarrak: Etxea
+Afiliatuak erregimenaren arabera
+Afiliatuak erregimenaren arabera: Orokorra
+Afiliatuak erregimenaren arabera: Nekazaritza
+Afiliatuak erregimenaren arabera: Itsasoa
+Afiliatuak erregimenaren arabera: Etxea
+Afiliatuak erregimenaren arabera: Autonomoak
+Afiliaciones del régimen general (% sobre el total de Afiliaciones)
+Afiliaciones del régimen agrario (% sobre el total de Afiliaciones)
+Afiliaciones del régimen del mar (% sobre el total de Afiliaciones)
+Afiliaciones del régimen del hogar (% sobre el total de Afiliaciones)
+Afiliaciones del régimen de autónomos (% sobre el total de Afiliaciones)
+Afiliatuak sektoreka
+Langileak sektoreka guztira
+Langileak sektoreka: Nekazaritza
+Langileak sektoreka: Industria
+Langileak sektoreka: Eraikuntza
+Langileak sektoreka: Zerbitzuak
+Langileak sektoreka: Ez da ageri
+Langileak industria-motaren arabera
+Industria sektoreko langileak: Erauzteko industriak
+Industria sektoreko langileak: Manufaktura-industria
+Industria sektoreko langileak: Argindar, gas, lurrun eta aire girotu hornidura
+Industria sektoreko langileak: Ur hornidura, saneamendua, hondakinak eta deskontaminazioa
+Langileak zerbitzu-motaren arabera
+Zerbitzu sektoreko langileak: Handizkako eta txikizkako merkataritza; ibilgailuen konponketa
+Zerbitzu sektoreko langileak: Garraioa eta biltegiratzea
+Zerbitzu sektoreko langileak: Ostalaritza
+Zerbitzu sektoreko langileak: Informazioa eta komunikazioak
+Zerbitzu sektoreko langileak: Finantza jarduerak eta aseguruak
+Zerbitzu sektoreko langileak: Higiezinetako jarduerak
+Zerbitzu sektoreko langileak: Jarduera profesional, zientifiko eta teknikoak
+Zerbitzu sektoreko langileak: Administrazio jarduerak eta zerbitzu laguntzaileak
+Zerbitzu sektoreko langileak: Administrazio publikoa eta defentsa; derrigorrezko Gizarte Segurantza
+Zerbitzu sektoreko langileak: Hezkuntza
+Zerbitzu sektoreko langileak: Osasun eta gizarte zerbitzuetako jarduerak
+Zerbitzu sektoreko langileak: Arte, aisialdi eta entretenitzeko jarduerak
+Zerbitzu sektoreko langileak: Beste zerbitzu batzuk
+Zerbitzu sektoreko langileak: Etxeetako jarduerak
+Zerbitzu sektoreko langileak: Lurraldetik kanpoko erakundeen eta antolamenduen jarduerak
+Biztanleria aktiboa
+Biztanleria aktiboa: Orotara
+Biztanleria aktiboa: Gizonezkoak
+Biztanleria aktiboa: Emakumezkoak
+Biztanleria ez-aktiboa: Orotara
+Biztanleria ez-aktiboa: Gizonezkoak
+Biztanleria ez-aktiboa: Emakumezkoak
+Jarduera-tasa
+Jarduera-tasa: Gizonezkoak
+Jarduera-tasa: Emakumezkoak
+Biztanleria landuna
+Biztanleria landuna: Orotara
+Biztanleria landuna: Gizonezkoak
+Biztanleria landuna: Emakumezkoak
+Landunak sektoreko: Nekazaritza, abeltzaintza eta arrantza
+Landunak sektoreko: Industria
+Landunak sektoreko: Eraikuntza
+Landunak sektoreko: Zerbitzuak
+Landunak ikasketa mailaren arabera: Analfabetoak
+Landunak ikasketa mailaren arabera: Ikasketarik gabeak
+Landunak ikasketa mailaren arabera: Lehen maila
+Landunak ikasketa mailaren arabera: Bigarren maila
+Landunak ikasketa mailaren arabera: Hirugarren maila
+Landunak adinaren arabera: 15-24 urte
+Landunak adinaren arabera: 25-54 urte
+Landunak adinaren arabera: 55-64 urte
+Landunen tasa (landunen % 16 urteko eta gehiagoko biztanleriarekiko)
+Landunen tasa: Gizonezkoak (landunen % 16 urteko eta gehiagoko biztanleriarekiko)
+Landunen tasa: Emakumezkoak (landunen % 16 urteko eta gehiagoko biztanleriarekiko)
+16-24 urte arteko biztanleria landunaren tasa
+25-54 urte arteko biztanleria landunaren tasa
+55-64 urte arteko biztanleria landunaren tasa
+Landunen tasa: Sexuaren araberako etena (Gizonezko landunen tasa - Emakumezko landunen tasa)
+ABEEEak
+ABEEE-ek kaltetuak
+ABEEE-ek kaltetuak2
+ABEEE-ek kalteturiko gizonak
+ABEEE-ek kalteturiko emakumeak
+Eskaturiko ABEEEak (Espediente-kopurua)
+ABEEE-ek kaltetuak, araubide-motaren arabera
+Eteteagatiko ABEEE-ek kaltetuak
+Eteteagatiko ABEEE-ek kalteturiko gizonak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak
+Murrizketagatiko ABEEE-ek kaltetuak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak
+Azkentzeagatiko ABEEE-ek kaltetuak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak
+ABEEE-ek kaltetuak, araubide-motaren, arrazoiaren eta sexuaren arabera
+Eteteagatiko ABEEE-ek kaltetuak, arrazoia: ekoizpen-arlokoa
+Eteteagatiko ABEEE-ek kaltetuak, arrazoia: ekonomikoa
+Eteteagatiko ABEEE-ek kaltetuak, arrazoia: teknikoa
+Eteteagatiko ABEEE-ek kaltetuak, arrazoia: ezinbestea
+Eteteagatiko ABEEE-ek kaltetuak, arrazoia: antolaketa-arlokoa
+Murrizketagatiko ABEEE-ek kaltetuak, arrazoia: ekoizpen-arlokoa
+Murrizketagatiko ABEEE-ek kaltetuak, arrazoia: ekonomikoa
+Murrizketagatiko ABEEE-ek kaltetuak, arrazoia: teknikoa
+Murrizketagatiko ABEEE-ek kaltetuak, arrazoia: ezinbestea
+Murrizketagatiko ABEEE-ek kaltetuak, arrazoia: antolaketa-arlokoa
+Azkentzeagatiko ABEEE-ek kaltetuak, arrazoia: ekoizpen-arlokoa
+Azkentzeagatiko ABEEE-ek kaltetuak, arrazoia: ekonomikoa
+Azkentzeagatiko ABEEE-ek kaltetuak, arrazoia: teknikoa
+Azkentzeagatiko ABEEE-ek kaltetuak, arrazoia: ezinbestea
+Azkentzeagatiko ABEEE-ek kaltetuak, arrazoia: antolaketa-arlokoa
+Eteteagatiko ABEEE-ek kalteturiko gizonak, arrazoia: ekoizpen-arlokoa
+Eteteagatiko ABEEE-ek kalteturiko gizonak, arrazoia: ekonomikoa
+Eteteagatiko ABEEE-ek kalteturiko gizonak, arrazoia: teknikoa
+Eteteagatiko ABEEE-ek kalteturiko gizonak, arrazoia: ezinbestea
+Eteteagatiko ABEEE-ek kalteturiko gizonak, arrazoia: antolaketa-arlokoa
+Murrizketagatiko ABEEE-ek kalteturiko gizonak, arrazoia: ekoizpen-arlokoa
+Murrizketagatiko ABEEE-ek kaltetuak, arrazoia: ekonomikoa
+Murrizketagatiko ABEEE-ek kaltetuak, arrazoia: teknikoa
+Murrizketagatiko ABEEE-ek kaltetuak, arrazoia: ezinbestea
+Murrizketagatiko ABEEE-ek kaltetuak, arrazoia: antolaketa-arlokoa
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak, arrazoia: ekoizpen-arlokoa
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak, arrazoia: ekonomikoa
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak, arrazoia: teknikoa
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak, arrazoia: ezinbestea
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak, arrazoia: antolaketa-arlokoa
+Eteteagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: ekoizpen-arlokoa
+Eteteagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: ekonomikoa
+Eteteagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: teknikoa
+Eteteagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: ezinbestea
+Eteteagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: antolaketa-arlokoa
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: ekoizpen-arlokoa
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: ekonomikoa
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: teknikoa
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: ezinbestea
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: antolaketa-arlokoa
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: ekoizpen-arlokoa
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: ekonomikoa
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: teknikoa
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: ezinbestea
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak, arrazoia: antolaketa-arlokoa
+ABEEE-ek kaltetuak, motaren,jarduera-atalaren eta sexuaren arabera
+Eteteagatiko ABEEE-ek kaltetuak: A.- Nekazaritza, Abeltzaintza, Basogintza eta Arrantza
+Eteteagatiko ABEEE-ek kaltetuak: B.- Erauzketa-industriak
+Eteteagatiko ABEEE-ek kaltetuak: C.- Manufaktura-industria
+Eteteagatiko ABEEE-ek kaltetuak: D.- Energia elektriko, gas, lurrun eta aire girotu hornidura
+Eteteagatiko ABEEE-ek kaltetuak: E.- Ur-hornidura, Saneamendu-jarduerak, Hondakinen kudeaketa eta deskontaminazioa
+Eteteagatiko ABEEE-ek kaltetuak: F.- Eraikuntza
+Eteteagatiko ABEEE-ek kaltetuak: G.- Handizkako eta txikizkako merkataritza, Motordun ibilgailuen eta motoen konponketa
+Eteteagatiko ABEEE-ek kaltetuak: H.- Garraioa eta biltegiratzea
+Eteteagatiko ABEEE-ek kaltetuak: I.- Ostalaritza
+Eteteagatiko ABEEE-ek kaltetuak: J.- Informazioa eta Komunikazioak
+Eteteagatiko ABEEE-ek kaltetuak: K.- Finantza- eta aseguru-jarduerak
+Eteteagatiko ABEEE-ek kaltetuak: L.- Higiezinen jarduerak
+Eteteagatiko ABEEE-ek kaltetuak: M.- Jarduera profesional, zientifiko eta teknikoak
+Eteteagatiko ABEEE-ek kaltetuak: N.- Administrazio-jarduerak eta zerbitzu osagarriak
+Eteteagatiko ABEEE-ek kaltetuak: O.- Administrazio publikoa eta defentsa; Nahitaezko Gizarte Segurantza
+Eteteagatiko ABEEE-ek kaltetuak: P.- Hezkuntza
+Eteteagatiko ABEEE-ek kaltetuak: Q.- Osasun-jarduerak eta Gizarte Zerbitzuetakoak
+Eteteagatiko ABEEE-ek kaltetuak: R.- Arte-, jolas- eta entretenimendu-jarduerak
+Eteteagatiko ABEEE-ek kaltetuak: S.- Bestelako zerbitzuak
+Eteteagatiko ABEEE-ek kaltetuak: T.- Etxeetako jarduerak, etxeko langileen enplegatzaile; Etxeetako jarduerak, norberak erabiltzeko ondasun eta zerbitzuen ekoizle
+Eteteagatiko ABEEE-ek kaltetuak: U.- Lurraldez kanpoko erakunde eta organismoen jarduerak
+Murrizketagatiko ABEEE-ek kaltetuak: A.- Nekazaritza, Abeltzaintza, Basogintza eta Arrantza
+Murrizketagatiko ABEEE-ek kaltetuak: B.- Erauzketa-industriak
+Murrizketagatiko ABEEE-ek kaltetuak: C.- Manufaktura-industria
+Murrizketagatiko ABEEE-ek kaltetuak: D.- Energia elektriko, gas, lurrun eta aire girotu hornidura
+Murrizketagatiko ABEEE-ek kaltetuak: E.- Ur-hornidura, Saneamendu-jarduerak, Hondakinen kudeaketa eta deskontaminazioa
+Murrizketagatiko ABEEE-ek kaltetuak: F.- Eraikuntza
+Murrizketagatiko ABEEE-ek kaltetuak: G.- Handizkako eta txikizkako merkataritza, Motordun ibilgailuen eta motoen konponketa
+Murrizketagatiko ABEEE-ek kaltetuak: H.- Garraioa eta biltegiratzea
+Murrizketagatiko ABEEE-ek kaltetuak: I.- Ostalaritza
+Murrizketagatiko ABEEE-ek kaltetuak: J.- Informazioa eta Komunikazioak
+Murrizketagatiko ABEEE-ek kaltetuak: K.- Finantza- eta aseguru-jarduerak
+Murrizketagatiko ABEEE-ek kaltetuak: L.- Higiezinen jarduerak
+Murrizketagatiko ABEEE-ek kaltetuak: M.- Jarduera profesional, zientifiko eta teknikoak
+Murrizketagatiko ABEEE-ek kaltetuak: N.- Administrazio-jarduerak eta zerbitzu osagarriak
+Murrizketagatiko ABEEE-ek kaltetuak: O.- Administrazio publikoa eta defentsa; Nahitaezko Gizarte Segurantza
+Murrizketagatiko ABEEE-ek kaltetuak: P.- Hezkuntza
+Murrizketagatiko ABEEE-ek kaltetuak: Q.- Osasun-jarduerak eta Gizarte Zerbitzuetakoak
+Murrizketagatiko ABEEE-ek kaltetuak: R.- Arte-, jolas- eta entretenimendu-jarduerak
+Murrizketagatiko ABEEE-ek kaltetuak: S.- Bestelako zerbitzuak
+Murrizketagatiko ABEEE-ek kaltetuak: T.- Etxeetako jarduerak, etxeko langileen enplegatzaile; Etxeetako jarduerak, norberak erabiltzeko ondasun eta zerbitzuen ekoizle
+Murrizketagatiko ABEEE-ek kaltetuak: U.- Lurraldez kanpoko erakunde eta organismoen jarduerak
+Azkentzeagatiko ABEEE-ek kaltetuak: A.- Nekazaritza, Abeltzaintza, Basogintza eta Arrantza
+Azkentzeagatiko ABEEE-ek kaltetuak: B.- Erauzketa-industriak
+Azkentzeagatiko ABEEE-ek kaltetuak: C.- Manufaktura-industria
+Azkentzeagatiko ABEEE-ek kaltetuak: D.- Energia elektriko, gas, lurrun eta aire girotu hornidura
+Azkentzeagatiko ABEEE-ek kaltetuak: E.- Ur-hornidura, Saneamendu-jarduerak, Hondakinen kudeaketa eta deskontaminazioa
+Azkentzeagatiko ABEEE-ek kaltetuak: F.- Eraikuntza
+Azkentzeagatiko ABEEE-ek kaltetuak: G.- Handizkako eta txikizkako merkataritza, Motordun ibilgailuen eta motoen konponketa
+Azkentzeagatiko ABEEE-ek kaltetuak: H.- Garraioa eta biltegiratzea
+Azkentzeagatiko ABEEE-ek kaltetuak: I.- Ostalaritza
+Azkentzeagatiko ABEEE-ek kaltetuak: J.- Informazioa eta Komunikazioak
+Azkentzeagatiko ABEEE-ek kaltetuak: K.- Finantza- eta aseguru-jarduerak
+Azkentzeagatiko ABEEE-ek kaltetuak: L.- Higiezinen jarduerak
+Azkentzeagatiko ABEEE-ek kaltetuak: M.- Jarduera profesional, zientifiko eta teknikoak
+Azkentzeagatiko ABEEE-ek kaltetuak: N.- Administrazio-jarduerak eta zerbitzu osagarriak
+Azkentzeagatiko ABEEE-ek kaltetuak: O.- Administrazio publikoa eta defentsa; Nahitaezko Gizarte Segurantza
+Azkentzeagatiko ABEEE-ek kaltetuak: P.- Hezkuntza
+Azkentzeagatiko ABEEE-ek kaltetuak: Q.- Osasun-jarduerak eta Gizarte Zerbitzuetakoak
+Azkentzeagatiko ABEEE-ek kaltetuak: R.- Arte-, jolas- eta entretenimendu-jarduerak
+Azkentzeagatiko ABEEE-ek kaltetuak: S.- Bestelako zerbitzuak
+Azkentzeagatiko ABEEE-ek kaltetuak: T.- Etxeetako jarduerak, etxeko langileen enplegatzaile; Etxeetako jarduerak, norberak erabiltzeko ondasun eta zerbitzuen ekoizle
+Azkentzeagatiko ABEEE-ek kaltetuak: U.- Lurraldez kanpoko erakunde eta organismoen jarduerak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: A.- Nekazaritza, Abeltzaintza, Basogintza eta Arrantza
+Eteteagatiko ABEEE-ek kalteturiko gizonak: B.- Erauzketa-industriak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: C.- Manufaktura-industria
+Eteteagatiko ABEEE-ek kalteturiko gizonak: D.- Energia elektriko, gas, lurrun eta aire girotu hornidura
+Eteteagatiko ABEEE-ek kalteturiko gizonak: E.- Ur-hornidura, Saneamendu-jarduerak, Hondakinen kudeaketa eta deskontaminazioa
+Eteteagatiko ABEEE-ek kalteturiko gizonak: F.- Eraikuntza
+Eteteagatiko ABEEE-ek kalteturiko gizonak: G.- Handizkako eta txikizkako merkataritza, Motordun ibilgailuen eta motoen konponketa
+Eteteagatiko ABEEE-ek kalteturiko gizonak: H.- Garraioa eta biltegiratzea
+Eteteagatiko ABEEE-ek kalteturiko gizonak: I.- Ostalaritza
+Eteteagatiko ABEEE-ek kalteturiko gizonak: J.- Informazioa eta Komunikazioak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: K.- Finantza- eta aseguru-jarduerak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: L.- Higiezinen jarduerak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: M.- Jarduera profesional, zientifiko eta teknikoak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: N.- Administrazio-jarduerak eta zerbitzu osagarriak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: O.- Administrazio publikoa eta defentsa; Nahitaezko Gizarte Segurantza
+Eteteagatiko ABEEE-ek kalteturiko gizonak: P.- Hezkuntza
+Eteteagatiko ABEEE-ek kalteturiko gizonak: Q.- Osasun-jarduerak eta Gizarte Zerbitzuetakoak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: R.- Arte-, jolas- eta entretenimendu-jarduerak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: S.- Bestelako zerbitzuak
+Eteteagatiko ABEEE-ek kalteturiko gizonak: T.- Etxeetako jarduerak, etxeko langileen enplegatzaile; Etxeetako jarduerak, norberak erabiltzeko ondasun eta zerbitzuen ekoizle
+Eteteagatiko ABEEE-ek kalteturiko gizonak: U.- Lurraldez kanpoko erakunde eta organismoen jarduerak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: A.- Nekazaritza, Abeltzaintza, Basogintza eta Arrantza
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: B.- Erauzketa-industriak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: C.- Manufaktura-industria
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: D.- Energia elektriko, gas, lurrun eta aire girotu hornidura
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: E.- Ur-hornidura, Saneamendu-jarduerak, Hondakinen kudeaketa eta deskontaminazioa
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: F.- Eraikuntza
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: G.- Handizkako eta txikizkako merkataritza, Motordun ibilgailuen eta motoen konponketa
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: H.- Garraioa eta biltegiratzea
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: I.- Ostalaritza
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: J.- Informazioa eta Komunikazioak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: K.- Finantza- eta aseguru-jarduerak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: L.- Higiezinen jarduerak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: M.- Jarduera profesional, zientifiko eta teknikoak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: N.- Administrazio-jarduerak eta zerbitzu osagarriak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: O.- Administrazio publikoa eta defentsa
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: P.- Hezkuntza
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: Q.- Osasun-jarduerak eta Gizarte Zerbitzuetakoak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: R.- Arte-, jolas- eta entretenimendu-jarduerak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: S.- Bestelako zerbitzuak
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: T.- Etxeetako jarduerak, etxeko langileen enplegatzaile; Etxeetako jarduerak, norberak erabiltzeko ondasun eta zerbitzuen ekoizle
+Murrizketagatiko ABEEE-ek kalteturiko gizonak: U.- Lurraldez kanpoko erakunde eta organismoen jarduerak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: A.- Nekazaritza, Abeltzaintza, Basogintza eta Arrantza
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: B.- Erauzketa-industriak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: C.- Manufaktura-industria
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: D.- Energia elektriko, gas, lurrun eta aire girotu hornidura
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: E.- Ur-hornidura, Saneamendu-jarduerak, Hondakinen kudeaketa eta deskontaminazioa
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: F.- Eraikuntza
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: G.- Handizkako eta txikizkako merkataritza, Motordun ibilgailuen eta motoen konponketa
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: H.- Garraioa eta biltegiratzea
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: I.- Ostalaritza
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: J.- Informazioa eta Komunikazioak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: K.- Finantza- eta aseguru-jarduerak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: L.- Higiezinen jarduerak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: M.- Jarduera profesional, zientifiko eta teknikoak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: N.- Administrazio-jarduerak eta zerbitzu osagarriak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: O.- Administrazio publikoa eta defentsa; Nahitaezko Gizarte Segurantza
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: P.- Hezkuntza
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: Q.- Osasun-jarduerak eta Gizarte Zerbitzuetakoak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: R.- Arte-, jolas- eta entretenimendu-jarduerak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: S.- Bestelako zerbitzuak
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: T.- Etxeetako jarduerak, etxeko langileen enplegatzaile; Etxeetako jarduerak, norberak erabiltzeko ondasun eta zerbitzuen ekoizle
+Azkentzeagatiko ABEEE-ek kalteturiko gizonak: U.- Lurraldez kanpoko erakunde eta organismoen jarduerak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: A.- Nekazaritza, Abeltzaintza, Basogintza eta Arrantza
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: B.- Erauzketa-industriak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: C.- Manufaktura-industria
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: D.- Energia elektriko, gas, lurrun eta aire girotu hornidura
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: E.- Ur-hornidura, Saneamendu-jarduerak, Hondakinen kudeaketa eta deskontaminazioa
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: F.- Eraikuntza
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: G.- Handizkako eta txikizkako merkataritza, Motordun ibilgailuen eta motoen konponketa
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: H.- Garraioa eta biltegiratzea
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: I.- Ostalaritza
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: J.- Informazioa eta Komunikazioak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: K.- Finantza- eta aseguru-jarduerak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: L.- Higiezinen jarduerak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: M.- Jarduera profesional, zientifiko eta teknikoak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: N.- Administrazio-jarduerak eta zerbitzu osagarriak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: O.- Administrazio publikoa eta defentsa; Nahitaezko Gizarte Segurantza
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: P.- Hezkuntza
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: Q.- Osasun-jarduerak eta Gizarte Zerbitzuetakoak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: R.- Arte-, jolas- eta entretenimendu-jarduerak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: S.- Bestelako zerbitzuak
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: T.- Etxeetako jarduerak, etxeko langileen enplegatzaile; Etxeetako jarduerak, norberak erabiltzeko ondasun eta zerbitzuen ekoizle
+Eteteagatiko ABEEE-ek kalteturiko emakumeak: U.- Lurraldez kanpoko erakunde eta organismoen jarduerak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: A.- Nekazaritza, Abeltzaintza, Basogintza eta Arrantza
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: B.- Erauzketa-industriak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: C.- Manufaktura-industria
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: D.- Energia elektriko, gas, lurrun eta aire girotu hornidura
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: E.- Ur-hornidura, Saneamendu-jarduerak, Hondakinen kudeaketa eta deskontaminazioa
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: F.- Eraikuntza
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: G.- Handizkako eta txikizkako merkataritza, Motordun ibilgailuen eta motoen konponketa
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: H.- Garraioa eta biltegiratzea
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: I.- Ostalaritza
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: J.- Informazioa eta Komunikazioak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: K.- Finantza- eta aseguru-jarduerak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: L.- Higiezinen jarduerak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: M.- Jarduera profesional, zientifiko eta teknikoak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: N.- Administrazio-jarduerak eta zerbitzu osagarriak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: O.- Administrazio publikoa eta defentsa; Nahitaezko Gizarte Segurantza
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: P.- Hezkuntza
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: Q.- Osasun-jarduerak eta Gizarte Zerbitzuetakoak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: R.- Arte-, jolas- eta entretenimendu-jarduerak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: S.- Bestelako zerbitzuak
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: T.- Etxeetako jarduerak, etxeko langileen enplegatzaile; Etxeetako jarduerak, norberak erabiltzeko ondasun eta zerbitzuen ekoizle
+Murrizketagatiko ABEEE-ek kalteturiko emakumeak: U.- Lurraldez kanpoko erakunde eta organismoen jarduerak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: A.- Nekazaritza, Abeltzaintza, Basogintza eta Arrantza
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: B.- Erauzketa-industriak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: C.- Manufaktura-industria
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: D.- Energia elektriko, gas, lurrun eta aire girotu hornidura
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: E.- Ur-hornidura, Saneamendu-jarduerak, Hondakinen kudeaketa eta deskontaminazioa
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: F.- Eraikuntza
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: G.- Handizkako eta txikizkako merkataritza, Motordun ibilgailuen eta motoen konponketa
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: H.- Garraioa eta biltegiratzea
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: I.- Ostalaritza
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: J.- Informazioa eta Komunikazioak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: K.- Finantza- eta aseguru-jarduerak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: L.- Higiezinen jarduerak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: M.- Jarduera profesional, zientifiko eta teknikoak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: N.- Administrazio-jarduerak eta zerbitzu osagarriak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: O.- Administrazio publikoa eta defentsa; Nahitaezko Gizarte Segurantza
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: P.- Hezkuntza
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: Q.- Osasun-jarduerak eta Gizarte Zerbitzuetakoak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: R.- Arte-, jolas- eta entretenimendu-jarduerak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: S.- Bestelako zerbitzuak
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: T.- Etxeetako jarduerak, etxeko langileen enplegatzaile; Etxeetako jarduerak, norberak erabiltzeko ondasun eta zerbitzuen ekoizle
+Azkentzeagatiko ABEEE-ek kalteturiko emakumeak: U.- Lurraldez kanpoko erakunde eta organismoen jarduerak
+Eskaturiko ABEEE espedienteak, jarduera-arloen arabera
+Expedientes de ERTE solicitados de: A.- Agricultura, Ganadería, Silvicultura y Pesca
+Expedientes de ERTE solicitados de: B.- Industrias extractivas
+Expedientes de ERTE solicitados de: C.- Industria manufacturera
+Expedientes de ERTE solicitados de: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Expedientes de ERTE solicitados de: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Expedientes de ERTE solicitados de: F.- Construcción.
+Expedientes de ERTE solicitados de: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Expedientes de ERTE solicitados de: H.- Transporte y almacenamiento.
+Expedientes de ERTE solicitados de: I.- Hostelería.
+Expedientes de ERTE solicitados de: J.- Información y Comunicaciones.
+Expedientes de ERTE solicitados de: K.- Actividades financieras y de seguros.
+Expedientes de ERTE solicitados de: L.- Actividades inmobiliarias.
+Expedientes de ERTE solicitados de: M.- Actividades profesionales, científicas y técnicas.
+Expedientes de ERTE solicitados de: N.- Actividades administrativas y servicios auxiliares.
+Expedientes de ERTE solicitados de: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Expedientes de ERTE solicitados de: P.- Educación.
+Expedientes de ERTE solicitados de: Q.- Actividades sanitarias y de Servicios Sociales.
+Expedientes de ERTE solicitados de: R.- Actividades artísticas, recreativas y de entretenimiento.
+Expedientes de ERTE solicitados de: S.- Otros servicios.
+Expedientes de ERTE solicitados de: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Expedientes de ERTE solicitados de: U.- Actividades de organizaciones y organismos extraterritoriales.
+Expedientes de ERTE solicitados por suspensión: A.- Agricultura, Ganadería, Silvicultura y Pesca
+Expedientes de ERTE solicitados por suspensión: B.- Industrias extractivas
+Expedientes de ERTE solicitados por suspensión: C.- Industria manufacturera
+Expedientes de ERTE solicitados por suspensión: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Expedientes de ERTE solicitados por suspensión: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Expedientes de ERTE solicitados por suspensión: F.- Construcción.
+Expedientes de ERTE solicitados por suspensión: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Expedientes de ERTE solicitados por suspensión: H.- Transporte y almacenamiento.
+Expedientes de ERTE solicitados por suspensión: I.- Hostelería.
+Expedientes de ERTE solicitados por suspensión: J.- Información y Comunicaciones.
+Expedientes de ERTE solicitados por suspensión: K.- Actividades financieras y de seguros.
+Expedientes de ERTE solicitados por suspensión: L.- Actividades inmobiliarias.
+Expedientes de ERTE solicitados por suspensión: M.- Actividades profesionales, científicas y técnicas.
+Expedientes de ERTE solicitados por suspensión: N.- Actividades administrativas y servicios auxiliares.
+Expedientes de ERTE solicitados por suspensión: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Expedientes de ERTE solicitados por suspensión: P.- Educación.
+Expedientes de ERTE solicitados por suspensión: Q.- Actividades sanitarias y de Servicios Sociales.
+Expedientes de ERTE solicitados por suspensión: R.- Actividades artísticas, recreativas y de entretenimiento.
+Expedientes de ERTE solicitados por suspensión: S.- Otros servicios.
+Expedientes de ERTE solicitados por suspensión: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Expedientes de ERTE solicitados por suspensión: U.- Actividades de organizaciones y organismos extraterritoriales.
+Expedientes de ERTE solicitados por reducción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Expedientes de ERTE solicitados por reducción: B.- Industrias extractivas
+Expedientes de ERTE solicitados por reducción: C.- Industria manufacturera
+Expedientes de ERTE solicitados por reducción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Expedientes de ERTE solicitados por reducción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Expedientes de ERTE solicitados por reducción: F.- Construcción.
+Expedientes de ERTE solicitados por reducción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Expedientes de ERTE solicitados por reducción: H.- Transporte y almacenamiento.
+Expedientes de ERTE solicitados por reducción: I.- Hostelería.
+Expedientes de ERTE solicitados por reducción: J.- Información y Comunicaciones.
+Expedientes de ERTE solicitados por reducción: K.- Actividades financieras y de seguros.
+Expedientes de ERTE solicitados por reducción: L.- Actividades inmobiliarias.
+Expedientes de ERTE solicitados por reducción: M.- Actividades profesionales, científicas y técnicas.
+Expedientes de ERTE solicitados por reducción: N.- Actividades administrativas y servicios auxiliares.
+Expedientes de ERTE solicitados por reducción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Expedientes de ERTE solicitados por reducción: P.- Educación.
+Expedientes de ERTE solicitados por reducción: Q.- Actividades sanitarias y de Servicios Sociales.
+Expedientes de ERTE solicitados por reducción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Expedientes de ERTE solicitados por reducción: S.- Otros servicios.
+Expedientes de ERTE solicitados por reducción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Expedientes de ERTE solicitados por reducción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Expedientes de ERTE solicitados por extinción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Expedientes de ERTE solicitados por extinción: B.- Industrias extractivas
+Expedientes de ERTE solicitados por extinción: C.- Industria manufacturera
+Expedientes de ERTE solicitados por extinción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Expedientes de ERTE solicitados por extinción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Expedientes de ERTE solicitados por extinción: F.- Construcción.
+Expedientes de ERTE solicitados por extinción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Expedientes de ERTE solicitados por extinción: H.- Transporte y almacenamiento.
+Expedientes de ERTE solicitados por extinción: I.- Hostelería.
+Expedientes de ERTE solicitados por extinción: J.- Información y Comunicaciones.
+Expedientes de ERTE solicitados por extinción: K.- Actividades financieras y de seguros.
+Expedientes de ERTE solicitados por extinción: L.- Actividades inmobiliarias.
+Expedientes de ERTE solicitados por extinción: M.- Actividades profesionales, científicas y técnicas.
+Expedientes de ERTE solicitados por extinción: N.- Actividades administrativas y servicios auxiliares.
+Expedientes de ERTE solicitados por extinción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Expedientes de ERTE solicitados por extinción: P.- Educación.
+Expedientes de ERTE solicitados por extinción: Q.- Actividades sanitarias y de Servicios Sociales.
+Expedientes de ERTE solicitados por extinción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Expedientes de ERTE solicitados por extinción: S.- Otros servicios.
+Expedientes de ERTE solicitados por extinción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Expedientes de ERTE solicitados por extinción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Ezbehar-tasa
+Baja eragin duten lanaldiko istripuak
+Baja eragin duten lanaldiko istripuak sexuaren arabera: Gizonezkoak
+Baja eragin duten lanaldiko istripuak sexuaren arabera: Emakumezkoak
+Baja eragin duten lanaldiko istripuak sektorearen arabera: Nekazaritza, abeltzaintza eta arrantza
+Baja eragin duten lanaldiko istripuak sektorearen arabera: Industria
+Baja eragin duten lanaldiko istripuak sektorearen arabera: Eraikuntza
+Baja eragin duten lanaldiko istripuak sektorearen arabera: Zerbitzuak
+Baja eragin duten lanaldiko istripuak larritasunaren arabera: Arinak
+Baja eragin duten lanaldiko istripuak larritasunaren arabera: Larriak
+Baja eragin duten lanaldiko istripuak larritasunaren arabera: Hilgarriak
+Ekonomia eta lehiakortasuna
+Establezimenduak
+Establezimenduak eta enplegua
+Establezimenduak2
+Establezimenduen batez besteko tamaina (langileak)
+Industria establezimenduen batez besteko tamaina (langileak)
+Establezimenduen saldo garbia (‰ biztanleko)
+Establezimendu berrien sorkuntza tasa (‰ biztanleko)
+Establezimenduetako enplegua
+Urte arteko enplegu aldakuntza
+Mikroenpresek (10 langile baino gutxiagokoek) sortutako enpleguaren %
+Establezimenduak jardueraren arabera
+Jardueraren araberako establezimenduak: Nekazaritza, abeltzaintza eta arrantza
+Jardueraren araberako establezimenduak: Industria eta energia
+Jardueraren araberako establezimenduak: Eraikuntza
+Jardueraren araberako establezimenduak: Merkataritza, garraioa, ostalaritza.
+Jardueraren araberako establezimenduak: Informazioa eta komunikazioak
+Jardueraren araberako establezimenduak: Finantza jarduerak eta aseguruak
+Jardueraren araberako establezimenduak: Higiezinen jarduerak
+Jardueraren araberako establezimenduak: Jarduera profesionalak
+Jardueraren araberako establezimenduak: Adm publ, hezkuntza eta osasuna
+Jardueraren araberako establezimenduak: Zerbitzuen bestelako jarduerak
+Jardueraren araberako establezimenduen %: Nekazaritza, abeltzaintza eta arrantza
+Jardueraren araberako establezimenduen %: Industria eta energia
+Jardueraren araberako establezimenduen %: Eraikuntza
+Jardueraren araberako establezimenduen %: Merkataritza, garraioa, ostalaritza
+Jardueraren araberako establezimenduen %: Informazioa eta komunikazioak
+Jardueraren araberako establezimenduen %: Finantza jarduerak eta aseguruak
+Jardueraren araberako establezimenduen %: Higiezinen jarduerak
+Jardueraren araberako establezimenduen %: jarduera profesionalak
+Jardueraren araberako establezimenduen %:Adm.publikoa, hezkuntza, osasuna
+Jardueraren araberako establezimenduen %: Zerbitzuen bestelako jarduerak
+Establezimenduak langile kopuruaren arabera
+0-2 langile arteko establezimenduak
+3-5 langile arteko establezimenduak
+6-9 langile arteko establezimenduak
+10-19 langile arteko establezimenduak
+20-49 langile arteko establezimenduak
+50 edo langile gehiagoko establezimenduak
+0-2 langile arteko establezimenduen %
+3-5 langile arteko establezimenduen %
+6-9 langile arteko establezimenduen %
+10-19 langile arteko establezimenduen %
+20-49 langile arteko establezimenduen %
+50 edo langile gehiagoko establezimenduen %
+Establezimenduak 1.000 biztanleko
+Establezimenduak 1000 biztanleko
+Establezimenduak 1000 biztanleko: Industria eta energia
+Establezimenduak 1000 biztanleko: Eraikuntza
+Establezimenduak 1000 biztanleko: Merkataritza, garraioa eta ostalaritza
+Establezimenduak 1000 biztanleko: Informazioa eta komunikazioak
+Establezimenduak 1000 biztanleko: Finantza jarduerak eta aseguruak
+Establezimenduak 1000 biztanleko: Higiezinen jarduerak
+Establezimenduak 1000 biztanleko: Jarduera profesionalak
+Establezimenduak 1000 biztanleko: Adm publikoa, hezkuntza eta osasuna
+Establezimenduak 1000 biztanleko: Zerbitzuen bestelako jarduerak
+Teknologia berriekin hornitutako establezimenduak
+Ordenagailu pertsonala daukaten establezimenduen %
+Posta elektronikoa daukaten establezimenduen %
+Internet daukaten establezimenduen %
+Sakelako telefonoa daukaten establezimenduen %
+Establezimenduak lege-nortasunaren arabera
+Establezimenduak lege-nortasunaren arabera: Pertsona fisikoa
+Establezimenduak lege-nortasunaren arabera: Sozietate anonimoa
+Establezimenduak lege-nortasunaren arabera: Sozietate mugatua
+Establezimenduak lege-nortasunaren arabera: Bestelako sozietate eta elkarteak
+Establezimenduak lege-nortasunaren arabera: Bestelako lege-erak
+Txikizkako merkataritza establezimenduak
+Nagusiki elikagai, edari eta tabakoko Txm espezializatu gabeko establezimenduetan
+Bestelako Txm espezializatu gabeko establezimenduetan
+Fruta eta barazkietako Txm espezializatutako establezimenduetan
+Haragi eta haragi produktuetako Txm espezializatutako establezimenduetan
+Arrain eta itsaskietako Txm espezializatutako establezimenduetan
+Okintza eta gozogintzako produktuetako Txm espezializatutako establezimenduetan
+Edarietako Txm espezializatutako establezimenduetan
+Tabako produktuetako Txm espezializatutako establezimenduetan
+Elikagaietako beste Txm espezializatutako establezimenduetan
+Ibilgailuetarako erregaietako Txm espezializatutako establezimenduetan
+Ordenagailu, ekipo periferiko eta informatika programetako Txm espezializatutako establezimenduetan
+Telekomunikazio ekipoetako Txm espezializatutako establezimenduetan
+Audio eta bideo ekipoetako Txm espezializatutako establezimenduetan
+Oihaletako Txm espezializatutako establezimenduetan
+Burdindegi, margo eta beirako Txm espezializatutako establezimenduetan
+Alfonbra, moketa eta horma-estalduretako Txm espezializatutako establezimenduetan
+Etxetresna elektrikoetako Txm espezializatutako establezimenduetan
+Etxeko altzari, argiztapen tresna eta beste salgaietako Txm espezializatutako establezimenduetan
+Liburuetako Txm espezializatutako establezimenduetan
+Egunkari eta paper-gauzetako Txm espezializatutako establezimenduetan
+Musika eta bideo grabazioetako Txm espezializatutako establezimenduetan
+Kirol salgaietako Txm espezializatutako establezimenduetan
+Jostailu eta jokoetako Txm espezializatutako establezimenduetan
+Janzkietako Txm espezializatutako establezimenduetan
+Oinetako eta larrugintzako salgaietako Txm espezializatutako establezimenduetan
+Farmazia produktuetako Txm espezializatutako establezimenduetan
+Medikuntza eta ortopediako Txm espezializatutako establezimenduetan
+Kosmetika eta higieneko salgaietako Txm espezializatutako establezimenduetan
+Lore, landare, hazi, ongarri, laguntza-animalia eta horientzako elikagaietako Txm espezializatutako establezimenduetan
+Erlojugintza eta bitxigintzako Txm espezializatutako establezimenduetan
+Salgai berrietako bestelako Txm espezializatutako establezimenduetan
+Bigarren eskuko salgaietako Txm espezializatutako establezimenduetan
+Elikagai, edari eta tabakoko Txm salgune eta azoka txikietan
+Oihal, janzki eta oinetako Txm salgune eta azoka txikietan
+Bestelako produktuetako Txm salgune eta azoka txikietan
+Posta edo Internet bidezko Txm
+Bestelako Txm, establezimendu, salgune edo azoka txikietan egiten ez dena
+Enpresak sektoreka
+Enpresak sektoreka guztira
+Enpresak sektoreka: Nekazaritza
+Enpresak sektoreka: Industria
+Enpresak sektoreka: Eraikuntza
+Enpresak sektoreka: Zerbitzuak
+Enpresak sektoreka: Ez da ageri
+Industria sektoreko enpresak: Erauzteko industriak
+Industria sektoreko enpresak: Manufaktura-industria
+Industria sektoreko enpresak: Argindar, gas, lurrun eta aire girotu hornidura
+Industria sektoreko enpresak: Ur hornidura, saneamendua, hondakinak eta deskontaminazioa
+Zerbitzu sektoreko enpresak: Handizkako eta txikizkako merkataritza; ibilgailuen konponketa
+Zerbitzu sektoreko enpresak: Garraioa eta biltegiratzea
+Zerbitzu sektoreko enpresak: Ostalaritza
+Zerbitzu sektoreko enpresak: Informazioa eta komunikazioak
+Zerbitzu sektoreko enpresak: Finantza jarduerak eta aseguruak
+Zerbitzu sektoreko enpresak: Higiezinetako jarduerak
+Zerbitzu sektoreko enpresak: Jarduera profesional, zientifiko eta teknikoak
+Zerbitzu sektoreko enpresak: Administrazio jarduerak eta zerbitzu laguntzaileak
+Zerbitzu sektoreko enpresak: Administrazio publikoa eta defentsa; derrigorrezko Gizarte Segurantza
+Zerbitzu sektoreko enpresak: Hezkuntza
+Zerbitzu sektoreko enpresak: Osasun eta gizarte zerbitzuetako jarduerak
+Zerbitzu sektoreko enpresak: Arte, aisialdi eta entretenitzeko jarduerak
+Zerbitzu sektoreko enpresak: Beste zerbitzu batzuk
+Zerbitzu sektoreko enpresak: Etxeetako jarduerak
+Zerbitzu sektoreko enpresak: Lurraldetik kanpoko erakundeen eta antolamenduen jarduerak
+Turismo jarduera
+Biltzar-jarduera
+Burututako bilerak: Orotara
+Burututako bilerak: Jardunaldiak, mintegiak, sinposioak
+Burututako bilerak: Biltzarrak
+Burututako bilerak: Batzarrak
+Burututako bilerak: Beste batzuk
+Bertaratutako ordezkariak: Orotara
+Bertaratutako ordezkariak:Jardunaldiak, mintegiak, sinposioak
+Bertaratutako ordezkariak: Biltzarrak
+Bertaratutako ordezkariak: Batzarrak
+Bisitarien etorrera kultur ekipamenduetara
+Bisitariak: Agorregiko Burdinola
+Bisitariak: Chillida-Leku
+Bisitariak: Donostiako Aquarium
+Bisitariak: Igartubeiti baserria
+Bisitariak: Burdinaren Bailara
+Bisitariak: San Telmo Museoa
+Bisitariak: Burdinbidearen Euskal Museoa
+Bisitariak: Ontzi Museoa
+Bisitariak: Zientziaren Kutxagunea
+Bisitariak: Zumalakarregi Museoa
+Bisitariak: Arabako Arte Eder Museoa
+Bisitariak: ARTIUM
+Bisitariak: Elizbarrutiko Arte Sakratuaren Museoa
+Bisitariak: Bibat Museoa
+Bisitariak: Santa Maria Katedrala Fundazioa
+Bisitariak: Arrantzalearen Museoa
+Bisitariak: Bilboko Arte Eder Museoa
+Bisitariak: Bilboko Itsasadarra Itsas Museoa
+Bisitariak: Pobal Museoa
+Bisitariak: Euskal Herria Museoa
+Bisitariak: Bilboko Euskal Museoa
+Bisitariak: Gernikako Bakearen Museoa
+Bisitariak: Guggenheim museoa
+Kultur zentroetara egindako bisitaldiak
+Turismo-eskaintza
+Ostalaritza-establezimendu turistikoak
+2 izarreko edo gutxiagoko ostalaritza-establezimendu turistikoak
+3 izarreko edo gehiagoko ostalaritza-establezimendu turistikoak
+Ostalaritza-establezimenduetako plazak
+2 izarreko edo gutxiagoko ostalaritza-establezimenduetako plazak
+3 izarreko edo gutxiagoko ostalaritza-establezimenduetako plazak
+Ostalaritza-establezimendu turistikoetako logelak
+2 izarreko edo gutxiagoko ostalaritza-establezimenduetako logelak
+3 izarreko edo gutxiagoko ostalaritza-establezimenduetako logelak
+Batez besteko egonaldia eta okupazio maila
+Ostalaritza-establezimenduetako batez besteko egonaldia
+Ostalaritza-establezimenduetako batez besteko egonaldia: Estatutik etorritako pertsonak
+Ostalaritza-establezimenduetako batez besteko egonaldia: Atzerritik etorritakoak
+Ostalaritza-establezimenduetako okupazio maila
+Okupazio maila logelako
+Bidaiarien sarrera
+Bidaiarien sarrera: Orotara
+Bidaiarien sarrera: Estatutik etorritakoak
+Bidaiarien sarrera: Euskal Herritik etorritakoak
+Bidaiarien sarrera: Atzerritik etorritakoak
+Ostatu-gauak
+Ostatu-gauak: Orotara
+Ostatu-gauak: Estatutik etorritako pertsonak
+Ostatu-gauak: Euskal Herritik etorritako pertsonak
+Ostatu-gauak: Atzerritik etorritako pertsonak
+Bisitarien etorrera Erakustazokara: Bilbao Exhibition Centre
+Bisitari profesionalak: Bilbao Exhibition Centre
+Publiko orokorraren bisitariak: Bilbao Exhibition Centre
+Herri kontuak eta sektore publikoa
+Aurrekontuak
+Aurrekontuak: Sarrerak
+Aurrekontuak: Gastuak
+Kitatutako aurrekontuak: Sarrerak
+Kitatutako aurrekontuak: Gastuak
+BPGd
+BPGd per capita (oinarria 2005)
+BPGd per capita (adierazlea) (oinarria 2005)
+BPGd per capita (oinarria 2010)
+BPGd-ren urteko hazkunde metagarriaren tasa azken bost urteetan
+BEG
+BEGren % sektoreko: Nekazaritza
+BEGren % sektoreko: Industria
+BEGren % sektoreko: Eraikuntza
+BEGren % sektoreko: Zerbitzuak
+Errenta gordina biztanleko
+Errenta gordina per capita (eurotan)
+Errenta gordina per capita (adierazlea)
+Batez besteko errenta pertsonala
+Batez besteko errenta pertsonala (eurotan)
+Batez besteko lan errenta pertsonala (eurotan)
+Batez besteko kapital higigarriaren errenta pertsonala (eurotan)
+Batez besteko kapital higiezinaren errenta pertsonala (eurotan)
+Batez besteko jarduera errenta pertsonala (eurotan)
+Batez besteko transferentzia errenta pertsonala (eurotan)
+Batez besteko errenta pertsonal eskuragarria (eurotan)
+Batez besteko errenta pertsonala (eurotan): Gizonezkoak
+Batez besteko lan errenta pertsonala (eurotan): Gizonezkoak
+Batez besteko kapital higigarriaren errenta pertsonala (eurotan): Gizonezkoak
+Batez besteko kapital higiezinaren errenta pertsonala (eurotan): Gizonezkoak
+Batez besteko jarduera errenta pertsonala (eurotan): Gizonezkoak
+Batez besteko transferentzia errenta pertsonala (eurotan): Gizonezkoak
+Batez besteko errenta pertsonal eskuragarria (eurotan): Gizonezkoak
+Batez besteko errenta pertsonala (eurotan): Emakumezkoak
+Batez besteko lan errenta pertsonala (eurotan): Emakumezkoak
+Batez besteko kapital higigarriaren errenta pertsonala (eurotan): Emakumezkoak
+Batez besteko kapital higiezinaren errenta pertsonala (eurotan): Emakumezkoak
+Batez besteko jarduera errenta pertsonala (eurotan): Emakumezkoak
+Batez besteko transferentzia errenta pertsonala (eurotan): Emakumezkoak
+Batez besteko errenta pertsonal eskuragarria (eurotan): Emakumezkoak
+Familia errenta
+Batez besteko errenta familiarra (eurotan)
+Batez besteko lan errenta familiarra (eurotan)
+Batez besteko kapital higigarriaren errenta familiarra (eurotan)
+Batez besteko kapital higiezinaren errenta familiarra (eurotan)
+Batez besteko jarduera errenta familiarra (eurotan)
+Batez besteko transferentzia errenta familiarra (eurotan)
+Batez besteko errenta familiar eskuragarria (eurotan)
+Udal kudeaketa
+Udalak kitatutako gastua biztanleko (eurotan)
+Udalaren zerga-bilketa biztanleko (eurotan)
+Udalaren zor bizia biztanleko (eurotan)
+Udalaren inbertsio garbia biztanleko (eurotan)
+Udal aurrekontuaren gastu arrunta Gizarte Zerbitzuetan biztanleko (eurotan)

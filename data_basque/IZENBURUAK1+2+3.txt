@@ -1,0 +1,125 @@
+Lurraldea eta ingurumena
+Azalera eta Altitudea
+Lurralde azalera
+Berdeguneen eta babestutako eremuen azalera
+Kutsakorrak izan daitezkeen jardueren azalera
+Garraiobideetarako erabilitako azalera
+Lurralde altitudea
+Hondakinak
+Hondakin-sorrera
+Hondakinak jasotzeko edukiontziak
+Ura
+Ura2
+Energia
+Energia2
+Ingurumen-kontzientzia
+Ingurumen-kontzientzia2
+Abeltzaintza
+Behi-aziendak
+Ardi-aziendak
+Ahuntz-aziendak
+Airea
+Airearen kalitatea
+Biztanleria eta demografia
+Biztanleria
+Demografia adierazleak
+Atzerriko biztanleria
+Biztanleria jaioterriaren arabera
+Biztanleriaren berezko mugimendua
+Biztanleria egoera zibilaren arabera
+Familiak
+Migrazio mugimenduak
+Hirigintza eta etxebizitza
+Eraikinak
+Etxebizitzak
+Familia etxebizitzak
+Babestutako etxebizitzak
+Etxebizitzaren batez besteko salneurria
+Etxeak
+Lokalak
+Etxeko ekipamendua
+Lurzorua, etxebizitza dentsitatea eta baimenak
+Alokairuko edota salmentako etxebizitzak
+Hezkuntza eta prestakuntza
+Ikasleak hezkuntza mailaren arabera
+Ikasleak hizkuntza ereduaren arabera
+16 urteko edota gehiagoko biztanleria ikasketa mailaren arabera
+Lanerako prestakuntza jasotzen ari den 16 urteko edota gehiagoko biztanleria
+Biztanleriaren mugikortasuna
+Euskararen ezaguera
+Ekipamendua
+Osasun-ekipamendua
+Gizarte zerbitzuen zentroak
+Ikasketa unibertsitarioak
+Oinarrizko azpiegiturak
+Erabilera kolektiboko ekipamendua
+Aisialdiko eskaintza
+Merkataritza-ekipamendua
+Garraioa eta komunikabideak
+Ibilgailuak
+Hiri garraioa
+Hauteskundeak
+Eusko Legebiltzarreko hauteskundeak
+Udal hauteskundeak
+Kongresuko hauteskundeak
+Senaturako hauteskundeak
+Gizarte babesa eta Herritarren Segurtasuna
+Pentsioak indarrean
+Bide-segurtasuna
+Ekipamendua2
+Txirotasun arriskua
+Diru-laguntzen hartzaileak
+Delituak
+Lan merkatua
+Langabezia
+Jasotako langabezia
+Langabetuak sexu eta lanbidearen arabera
+Langabetuak sexu, adin eta ikasketa mailaren arabera
+Kontratuak
+Kontratuak2
+Langabetuak sexu eta sektorearen arabera
+Kontratuak sexu eta lanbidearen arabera
+Kontratuak sexu, adin eta motaren arabera
+Kontratuak sexu, adin eta ikasketa mailaren arabera
+Afiliatuak
+Afiliatuak2
+Afiliatu atzerritarrak
+Afiliatuak erregimenaren arabera
+Afiliatuak sektoreka
+Langileak industria-motaren arabera
+Langileak zerbitzu-motaren arabera
+Biztanleria aktiboa
+Biztanleria landuna
+ABEEEak
+ABEEE-ek kaltetuak
+ABEEE-ek kaltetuak, araubide-motaren arabera
+ABEEE-ek kaltetuak, araubide-motaren, arrazoiaren eta sexuaren arabera
+ABEEE-ek kaltetuak, motaren,jarduera-atalaren eta sexuaren arabera
+Eskaturiko ABEEE espedienteak, jarduera-arloen arabera
+Ezbehar-tasa
+Ekonomia eta lehiakortasuna
+Establezimenduak
+Establezimenduak eta enplegua
+Establezimenduak jardueraren arabera
+Establezimenduak langile kopuruaren arabera
+Establezimenduak 1.000 biztanleko
+Teknologia berriekin hornitutako establezimenduak
+Establezimenduak lege-nortasunaren arabera
+Txikizkako merkataritza establezimenduak
+Enpresak sektoreka
+Turismo jarduera
+Biltzar-jarduera
+Bisitarien etorrera kultur ekipamenduetara
+Turismo-eskaintza
+Batez besteko egonaldia eta okupazio maila
+Bidaiarien sarrera
+Ostatu-gauak
+Bisitarien etorrera Erakustazokara: Bilbao Exhibition Centre
+Herri kontuak eta sektore publikoa
+Aurrekontuak
+BPGd
+BEG
+Errenta gordina biztanleko
+Batez besteko errenta pertsonala
+Familia errenta
+Udal kudeaketa

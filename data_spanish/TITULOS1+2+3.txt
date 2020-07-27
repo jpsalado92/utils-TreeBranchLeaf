@@ -1,0 +1,125 @@
+Territorio y medio ambiente
+Superficie y altitud
+Superficie territorial
+Superficie de zonas verdes y áreas protegidas
+Superficie de actividades potencialmente contamina
+Superficie empleada para medios de transporte
+Altitud territorial
+Residuos
+Generación de residuos
+Contenedores para la recogida de residuos
+Agua
+Agua2
+Energía
+Energía2
+Conciencia medioambiental
+Conciencia medioambiental2
+Ganadería
+Bovinos
+Ovinos
+Caprinos
+Aire
+Calidad del aire
+Población y demografía
+Población
+Indicadores demográficos
+Población extranjera
+Población por lugar de nacimento
+Movimiento natural de la población
+Población por estado civil
+Familias
+Movimientos migratorios
+Urbanismo y vivienda
+Edificios
+Viviendas
+Viviendas familiares
+Viviendas protegidas
+Precio medio de la vivienda
+Hogares
+Locales
+Equipamiento del hogar
+Suelo, densidad de vivienda y licencias
+Viviendas en alquiler o venta
+Educación y formación
+Alumnos por nivel educativo
+Alumnos según modelo de enseñanza bilingüe
+Población de 16 años y más años por nivel de instrucción
+Población de 16 y más años que cursa formación ocupacional
+Movilidad de la población
+Conocimiento de euskera
+Equipamiento
+Equipamiento sanitario
+Centros de servicios sociales
+Estudios universitarios
+Infraestructuras básicas
+Equipamiento de uso colectivo
+Oferta de ocio
+Equipamiento comercial
+Transporte y comunicaciones
+Parque de vehículos
+Transporte urbano
+Procesos electorales
+Elecciones Parlamento Vasco
+Elecciones Municipales
+Elecciones al Congreso
+Elecciones al Senado
+Protección social y Seguridad ciudadana
+Pensiones en vigor
+Seguridad vial
+Equipamiento2
+Riesgo de pobreza
+Perceptores de ayudas
+Delitos
+Mercado de trabajo
+Paro
+Paro registrado
+Parados por sexo y ocupación
+Parados por sexo, edad y nivel académico
+Contratos
+Contratos registrados
+Contratos por sexo y sector
+Contratos por sexo y ocupación
+Contratos por sexo, edad y tipo
+Contratos por sexo, edad y nivel académico
+Afiliados
+Afiliados2
+Afiliados extranjeros
+Afiliados por régimen
+Afiliados por sector
+Trabajadores por tipo de industria
+Trabajadores por tipo de servicios
+Población activa
+Población ocupada
+ERTES
+Afectados por ERTES
+Afectados por ERTES según tipo de regulación
+Afectados por ERTES según tipo de regulación, causa y sexo
+Afectados por ERTES según tipo, sección de actividad y sexo
+Expedientes de ERTE solicitados por sección de actividad
+Siniestralidad laboral (en jornada de trabajo)
+Establecimientos y empresas
+Establecimientos
+Establecimientos y empleo
+Establecimientos por actividad
+Establecimientos por número de trabajadores
+Establecimientos por 1.000 habitantes
+Establecimientos equipados con nuevas tecnologías
+Establecimientos por personalidad jurídica
+Establecimientos de comercio minorista
+Empresas por sector
+Actividad turística
+Actividad congresual
+Afluencia de visitantes a equipamientos culturales
+Oferta turística
+Estancia media y grado de ocupación
+Entrada de viajeros
+Pernoctaciones
+Afluencia de visitantes a Feria de Muestras: Bilbao Exhibition Centre
+Cuentas económicas y sector público
+Presupuestos
+PIB
+VAB
+Renta bruta per cápita
+Renta personal media
+Renta familiar media
+Gestión municipal

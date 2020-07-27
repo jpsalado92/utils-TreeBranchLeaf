@@ -1,0 +1,1685 @@
+Territorio y medio ambiente
+Superficie y altitud
+Superficie territorial
+Superficie territorial (km²)
+Superficie de zonas verdes y áreas protegidas
+% Superficie forestal total
+% Superficie municipal de especial protección
+% Superficie ocupada por parques, jardines y zonas verdes urbanas (% sobre el suelo urbano)
+Superficie ocupada por parques, jardines y zonas verdes urbanas (m²/habitante)
+Superficie de actividades potencialmente contamina
+% Suelo potencialmente contaminado
+Superficie empleada para medios de transporte
+% Superficie destinada al transporte
+% Superficie destinada a carreteras
+Altitud territorial
+Altitud (metros)
+Residuos
+Generación de residuos
+Generación de residuos urbanos (kg/habitante/año)
+Generación de residuos peligrosos (kg/habitante/año)
+Contenedores para la recogida de residuos
+Contenedores para la recogida de residuos domésticos (‰ habitantes)
+Contenedores para la recogida de vidrio (‰ habitantes)
+Contenedores para la recogida de papel (‰ habitantes)
+Contenedores para la recogida de pilas (‰ habitantes)
+Contenedores para la recogida de envases plásticos (‰ habitantes)
+Contenedores para la recogida de ropa y textiles (‰ habitantes)
+Agua
+Agua2
+Demanda total de agua por habitante y día (litros/hab/día)
+Demanda industrial de agua por habitante y día (litros/hab/día)
+Calificación sanitaria del agua de consumo (0:Sin Calificar, 1:Deficiente, 2:Tolerable, 3: Satisfactoria)
+Energía
+Energía2
+Potencia fotovoltaica instalada (kw/10.000 habitantes)
+Potencia eólica instalada (kw/10.000 habitantes)
+Potencia hidráulica instalada (kw/10.000 habitantes)
+Superficie solar térmica instalada (m²/10.000 habitantes)
+Consumo eléctrico anual por habitante(kwh/hab)
+Consumo eléctrico anual del sector industrial por habitante(kwh/hab)
+Consumo eléctrico anual del sector no industrial por habitante(kwh/hab)
+Conciencia medioambiental
+Conciencia medioambiental2
+% Establecimientos con acreditación medioambiental
+% Viviendas con certificado de eficiencia energética (% sobre total de viviendas)
+Ganadería
+Bovinos
+Bovinos2
+Bovinos: Machos mayor 2 años
+Bovinos: Hembras entre 1 y 2 años de aptitud cárnica
+Bovinos: Hembras entre 1 y 2 años de aptitud lechera
+Bovinos: Hembras no ordeño mayor 2 años
+Bovinos: Hembras ordeño mayor 2 años
+Ovinos
+Ovinos2
+Ovinos: Hembras entre 1 y 2 años
+Ovinos: Hembras lecheras mayor 2 años
+Ovinos: Hembras carne mayor 2 años
+Caprinos
+Caprinos2
+Caprinos: Hembras entre 1 y 2 años
+Caprinos: Hembras lecheras mayor 2 años
+Caprinos: Hembras carne mayor 2 años
+Aire
+Calidad del aire
+Días con calidad del aire buena o admisible (% de días)
+Población y demografía
+Población
+Población total
+Población hombres
+Población mujeres
+Población total de 0 a 4 años
+Población total de 5 a 9 años
+Población total de 10 a 14 años
+Población total de 15 a 19 años
+Población total de 20 a 24 años
+Población total de 25 a 29 años
+Población total de 30 a 34 años
+Población total de 35 a 39 años
+Población total de 40 a 44 años
+Población total de 45 a 49 años
+Población total de 50 a 54 años
+Población total de 55 a 59 años
+Población total de 60 a 64 años
+Población total de 65 a 69 años
+Población total de 70 a 74 años
+Población total de 75 a 79 años
+Población total de 80 a 84 años
+Población total de 85 y más años
+Población hombres de 0 a 4 años
+Población hombres de 5 a 9 años
+Población hombres de 10 a 14 años
+Población hombres de 15 a 19 años
+Población hombres de 20 a 24 años
+Población hombres de 25 a 29 años
+Población hombres de 30 a 34 años
+Población hombres de 35 a 39 años
+Población hombres de 40 a 44 años
+Población hombres de 45 a 49 años
+Población hombres de 50 a 54 años
+Población hombres de 55 a 59 años
+Población hombres de 60 a 64 años
+Población hombres de 65 a 69 años
+Población hombres de 70 a 74 años
+Población hombres de 75 a 79 años
+Población hombres de 80 a 84 años
+Población hombres de 85 y más años
+Población mujeres de 0 a 4 años
+Población mujeres de 5 a 9 años
+Población mujeres de 10 a 14 años
+Población mujeres de 15 a 19 años
+Población mujeres de 20 a 24 años
+Población mujeres de 25 a 29 años
+Población mujeres de 30 a 34 años
+Población mujeres de 35 a 39 años
+Población mujeres de 40 a 44 años
+Población mujeres de 45 a 49 años
+Población mujeres de 50 a 54 años
+Población mujeres de 55 a 59 años
+Población mujeres de 60 a 64 años
+Población mujeres de 65 a 69 años
+Población mujeres de 70 a 74 años
+Población mujeres de 75 a 79 años
+Población mujeres de 80 a 84 años
+Población mujeres de 85 y más años
+Porcentaje de población total de 16 a 64 años
+Indicadores demográficos
+Densidad de población (hab/km²)
+Variación interanual de la población
+Esperanza de vida al nacer: Hombres
+Esperanza de vida al nacer: Mujeres
+Índice de dependencia ((pob < 15 + pob > 64) / pob 15 a 64) x 100
+Índice de envejecimiento (pob > 64 / pob total) x 100
+Índice de sobreenvejecimento (pob 75 y más / pob 65 y más) x 100
+Índice de maternidad (pob de 0 a 4/ mujeres de 15 a 49) x 100
+Índice de tendencia (pob de 0 a 4 / pob de 5 a 9) x 100
+Índice de reemplazo (pob de 20 a 29 / pob de 55 a 64) x 100
+Índice de infancia (pob 0 a 14 / pob total) x 100
+Población extranjera
+Población extranjera total
+Población extranjera: Hombres
+Población extranjera: Mujeres
+Población extranjera: Europa
+Población extranjera: África
+Población extranjera: América
+Población extranjera: Asia
+Población extranjera: Oceanía y apátridas
+Población extranjera de Europa: Unión Europea (27)
+Población extranjera de Europa: Resto de Europa
+Población extranjera: Hombres - Europa
+Población extranjera: Hombres - África
+Población extranjera: Hombres - América
+Población extranjera: Hombres - Asia
+Población extranjera: Hombres - Oceanía y apátridas
+Población extranjera de Europa: Hombres - Unión Europea (27)
+Población extranjera de Europa: Hombres - Resto de Europa
+Población extranjera: Mujeres - Europa
+Población extranjera: Mujeres - África
+Población extranjera: Mujeres - América
+Población extranjera: Mujeres - Asia
+Población extranjera: Mujeres - Oceanía y apátridas
+Población extranjera de Europa: Mujeres - Unión Europea (27)
+Población extranjera de Europa: Mujeres - Resto de Europa
+Población extranjera: Menores de 16 años
+Población extranjera: De 16 a 64 años
+Población extranjera: De 65 y más años
+Población extranjera: Hombres menores de 16 años
+Población extranjera: Hombres de 16 a 64 años
+Población extranjera: Hombres de 65 y más años
+Población extranjera: Mujeres menores de 16 años
+Población extranjera: Mujeres de 16 a 64 años
+Población extranjera: Mujeres de 65 y más años
+Porcentaje de población extranjera
+Población por lugar de nacimento
+Población por lugar de nacimiento: España
+Población por lugar de nacimiento: Misma comunidad
+Población por lugar de nacimiento: Misma comunidad y misma provincia
+Población por lugar de nacimiento: Mismo municipio
+Población por lugar de nacimiento: Misma comunidad, misma provincia y distinto municipio
+Población por lugar de nacimiento: Misma comunidad, distinta provincia
+Población por lugar de nacimiento: Distinta comunidad
+Población por lugar de nacimiento: Extranjero
+Movimiento natural de la población
+Nacimientos
+Defunciones
+Matrimonios
+Crecimiento vegetativo
+Tasa bruta de natalidad (‰ habitantes)
+Tasa bruta de mortalidad (‰ habitantes)
+Tasa bruta de nupcialidad (‰ habitantes)
+Tasa general de fecundidad (Nacidos/ Mujeres 15 a 49) (‰ habitantes)
+Población por estado civil
+Población por estado civil: Soltero
+Población por estado civil: Casado
+Población por estado civil: Viudo
+Población por estado civil: Separado
+Población por estado civil: Divorciado
+Familias
+Número de familias monoparentales
+Personas menores de 65 años que viven solas: Hombres
+Personas menores de 65 años que viven solas: Mujeres
+Movimientos migratorios
+Inmigración (fuera de la CAV)
+Emigración (fuera de la CAV)
+Saldo migratorio externo
+Migraciones internas destino (llegan de otro municipio de la CAV)
+Migraciones internas origen (salen a otro municipio de la CAV)
+Saldo migratorio interno
+Migraciones intramunicipales (cambio de residencia dentro del municipio)
+Urbanismo y vivienda
+Edificios
+Edificios totales
+Edificios con una vivienda familiar
+Edificios con varias viviendas familiares
+Edificios principalmente con viviendas familiares compartido con locales
+Edificios principalmente con locales compartidos con alguna vivienda
+Edificios destinados principalmente a locales
+Edificios destinados principalmente a vivienda colectiva
+Edificios destinados principalmente a alojamientos
+Edificios en estado bueno
+Edificios en estado deficiente
+Edificios en estado malo
+Edificios en estado ruinoso
+% Edificios y equipamientos accesibles
+Viviendas
+Viviendas totales
+Viviendas familiares
+Viviendas colectivas
+Viviendas familiares principales
+Viviendas familiares principales: Convencionales
+Viviendas familiares principales: Alojamientos
+Viviendas familiares no principales
+Viviendas familiares no principales: Secundarias
+Viviendas familiares no principales: Desocupadas
+Viviendas familiares no principales: Otro tipo
+Viviendas familiares2
+% Viviendas familiares principales con agua corriente
+% Viviendas familiares principales con agua caliente central
+% Viviendas familiares principales con calefacción
+% Viviendas familiares principales con teléfono
+% Viviendas familiares principales con gas por tubería
+Índice de confort de la vivienda
+Viviendas familiares en zona urbana
+Viviendas familiares en zona intermedia
+Viviendas familiares en zona rural
+Viviendas familiares principales en zona urbana
+Viviendas familiares principales en zona intermedia
+Viviendas familiares principales en zona rural
+Viviendas familiares no principales en zona urbana
+Viviendas familiares no principales en zona intermedia
+Viviendas familiares no principales en zona rural
+Viviendas protegidas
+Viviendas protegidas iniciadas
+Viviendas protegidas iniciadas: Viviendas de protección oficial
+Viviendas protegidas iniciadas: Viviendas sociales
+Viviendas protegidas terminadas
+Viviendas protegidas terminadas: Viviendas de protección oficial
+Viviendas protegidas terminadas: Viviendas sociales
+Solicitudes de vivienda que constan en Etxebide (‰ habitantes)
+Viviendas protegidas adjudicadas por Etxebide en el último quinquenio (‰ habitantes)
+Precio medio de la vivienda
+Precio medio de la vivienda libre (nueva y usada) (€ / m²)
+Precio medio de la vivienda nueva de protección oficial (€ / m²)
+Precio medio de vivienda nueva libre (€ / m²)
+Precio medio de vivienda usada (€ / m²)
+Hogares
+Hogares totales
+Hogares en propiedad por compra, totalmente pagada
+Hogares en propiedad por compra, con pagos pendientes (hipotecas)
+Hogares en propiedad por herencia o donación
+Hogares en alquiler
+Hogares cedidos gratis o bajo precio por otro hogar, la empresa
+Hogares de otra forma
+Hogares con segunda vivienda
+% Hogares con segunda vivienda
+Hogares en propiedad
+Hogares según edad de la persona de referencia: Menor de 25 años
+Hogares según edad de la persona de referencia: De 25 a 29 años
+Hogares según edad de la persona de referencia: De 30 a 34 años
+Hogares según edad de la persona de referencia: De 35 a 44 años
+Hogares según edad de la persona de referencia: De 45 a 54 años
+Hogares según edad de la persona de referencia: De 55 a 64 años
+Hogares según edad de la persona de referencia: De 65 a 74 años
+Hogares según edad de la persona de referencia: De 75 o más años
+Hogares según sexo de la persona de referencia: Hombres
+Hogares según sexo de la persona de referencia: Mujeres
+Locales
+Locales totales
+Locales activos
+Locales inactivos
+Locales activos: Equipamientos de salud (ambulatorios, hospitales)
+Locales activos: Equipamientos educativos (colegios, guarderías)
+Locales activos: Equipamientos de bienestar social (club de ancianos, centros de día)
+Locales activos: Equipamientos de culturales o deportivos (teatro, cine)
+Locales activos: Locales comerciales
+Locales activos: Oficinas
+Locales activos: Local industrial
+Locales activos: Local agrario
+Equipamiento del hogar
+% Familias con ordenador en casa
+% Familias con internet
+% Familias con e-mail
+% Familias con video
+% Familias con TV con teletexto
+% Familias con antena parabólica
+% Familias con TV de pago
+% Familias con TV por cable
+% Familias con teléfono móvil
+Suelo, densidad de vivienda y licencias
+% Suelo urbano
+% Superficie residencial urbanizable
+Densidad de viviendas en suelo residencial (viviendas/ha)
+Licencias de vivienda nueva concedidas en el último quinquenio (‰ habitantes)
+Viviendas en alquiler o venta
+Viviendas libres en alquiler (media anual)
+Viviendas usadas en venta (media anual)
+Viviendas nuevas en venta (media anual)
+Educación y formación
+Alumnos por nivel educativo
+Alumnos en Infantil
+Alumnos en Primaria
+Alumnos en ESO
+Alumnos en Bachiller
+Alumnos en FP
+Alumnos en Educación para adultos
+Alumnos según modelo de enseñanza bilingüe
+Alumnos de enseñanza bilingüe: Modelo A-X
+Alumnos de enseñanza bilingüe: Modelo B
+Alumnos de enseñanza bilingüe: Modelo D
+Población de 16 años y más años por nivel de instrucción
+Población de 16 y más años
+Población de 16 y más años hombres
+Población de 16 y más años mujeres
+Población de 16 y más años: Analfabeta
+Población de 16 y más años: Sin estudios
+Población de 16 y más años: Primer grado
+Población de 16 y más años: Segundo grado
+Población de 16 y más años: Tercer grado
+% Población de 16 y más años: Analfabeta
+% Población de 16 y más años: Sin estudios
+% Población de 16 y más años: Primer grado
+% Población de 16 y más años: Segundo grado
+% Población de 16 y más años: Tercer grado
+Población de 16 y más años: Analfabeta hombres
+Población de 16 y más años: Sin estudios hombres
+Población de 16 y más años: Primer grado hombres
+Población de 16 y más años: Segundo grado hombres
+Población de 16 y más años: Tercer grado hombres
+% Población de 16 y más años: Analfabeta hombres
+% Población de 16 y más años: Sin estudios hombres
+% Población de 16 y más años: Primer grado hombres
+% Población de 16 y más años: Segundo grado hombres
+% Población de 16 y más años: Tercer grado hombres
+Población de 16 y más años: Analfabeta mujeres
+Población de 16 y más años: Sin estudios mujeres
+Población de 16 y más años: Primer grado mujeres
+Población de 16 y más años: Segundo grado mujeres
+Población de 16 y más años: Tercer grado mujeres
+% Población de 16 y más años: Analfabeta mujeres
+% Población de 16 y más años: Sin estudios mujeres
+% Población de 16 y más años: Primer grado mujeres
+% Población de 16 y más años: Segundo grado mujeres
+% Población de 16 y más años: Tercer grado mujeres
+Población de 16 y más años que cursa formación ocupacional
+Población de 16 y más años que cursa formación ocupacional total
+Población de 16 y más años que cursa formación ocupacional: Hombres
+Población de 16 y más años que cursa formación ocupacional: Mujeres
+Movilidad de la población
+Estudiantes de 16 y más años
+Estudiantes de 16 y más años en su propio domicilio
+Estudiantes de 16 y más años en varios municipios
+Estudiantes de 16 y más años en el mismo municipio al de residencia
+Estudiantes de 16 y más años en otro municipio de la misma provincia
+Estudiantes de 16 y más años en otro municipio de distinta provincia y misma comunidad
+Estudiantes de 16 y más años en otra comunidad
+Estudiantes de 16 y más años en otro país
+Conocimiento de euskera
+Población euskaldun de 2 y más años
+Población cuasieuskaldun de 2 y más años
+Población erdaldun de 2 y más años
+Equipamiento
+Equipamiento sanitario
+Centros extrahospitalarios públicos
+Centros extrahospitalarios públicos: Ambulatorios
+Centros extrahospitalarios públicos: Consultorios
+Centros extrahospitalarios públicos: Centros de salud
+Centros extrahospitalarios públicos: Servicios de urgencias
+Centros extrahospitalarios públicos: Centros periféricos
+Centros extrahospitalarios públicos: Centros de salud mental
+Centros extrahospitalarios públicos: Centro asistencial mutual
+Centros extrahospitalarios públicos: Otros
+Farmacias por 10.000 habitantes
+Tiempo medio de desplazamiento al hospital de referencia (minutos)
+Centros de servicios sociales
+Centros de servicios sociales total
+Centros de servicios sociales: Asociaciones
+Centros de servicios sociales: Servicios técnicos generales
+Centros de servicios sociales: Centros de orientación
+Centros de servicios sociales: Centros de día
+Centros de servicios sociales: Residencias
+Centros de servicios sociales: Centros ocupacionales y especiales de empleo
+Centros de servicios sociales: Otros
+Plazas en centros de día para la tercera edad (‰ habitantes de 65 y más años)
+Plazas en centros residenciales para la tercera edad (‰ habitantes de 65 y más años)
+Plazas en centros de día para personas discapacitadas (‰ habitantes)
+Plazas en centros residenciales para personas discapacitadas (‰ habitantes)
+% Grado de ocupación de los centros de día (tercera edad y personas con discapacidad)
+Estudios universitarios
+Centros universitarios: Estudios de Licenciatura
+Centros universitarios: Estudios de Arquitectura e Ingeniería superior
+Centros universitarios: Estudios de Arquitectura e Ingeniería técnica
+Centros universitarios: Estudios de Diplomatura
+Centros universitarios: Estudios de doble Titulación
+Centros universitarios públicos: Estudios de Licenciatura
+Centros universitarios públicos: Estudios de Arquitectura e Ingeniería superior
+Centros universitarios públicos: Estudios de Arquitectura e Ingeniería técnica
+Centros universitarios públicos: Estudios de Diplomatura
+Centros universitarios públicos: Estudios de doble Titulación
+Centros universitarios privados: Estudios de Licenciatura
+Centros universitarios privados: Estudios de Arquitectura e Ingeniería superior
+Centros universitarios privados: Estudios de Arquitectura e Ingeniería técnica
+Centros universitarios privados: Estudios de Diplomatura
+Centros universitarios privados: Estudios de doble Titulación
+Infraestructuras básicas
+% Índice de rendimiento del sistema de abastecimiento de agua
+Puntos de alumbrado público (‰ habitantes)
+Equipamiento de uso colectivo
+Oficinas bancarias total
+Oficinas bancarias: Banca privada
+Oficinas bancarias: Cajas de ahorro
+Oficinas bancarias: Cooperativas y Cajas rurales
+Oficinas bancarias: Establecimientos financieros de crédito
+Oficinas bancarias por 10.000 habitantes
+Oficinas de correos por 10.000 habitantes
+Gasolineras por 10.000 habitantes
+Aseos públicos por 10.000 habitantes
+Fondos o volúmenes de las bibliotecas de acceso público por habitante
+Plazas de alojamiento turístico (‰ habitantes)
+Teléfonos públicos por 1.500 habitantes
+Oferta de ocio
+Zonas públicas de juegos infantiles (‰ habitantes de 0 a 14 años)
+Aforo de cines (butacas por 1.000 habitantes)
+Locales de cine
+Pantallas de cine
+Instalaciones deportivas
+Equipamiento comercial
+Establecimientos de hostelería y restauración (‰ habitantes)
+Establecimientos de comercio minorista (‰ habitantes)
+Establecimientos comerciales de bienes ocasionales (‰ habitantes)
+Transporte y comunicaciones
+Parque de vehículos
+Turismos por 1.000 habitantes
+Parque de vehículos2
+Parque de turismos
+Parque de motos
+Parque de camiones
+Parque de autobuses
+Parque de tractores industriales
+Parque de "Otros vehículos"
+Transporte urbano
+Licencias de taxi por 10.000 habitantes
+Red de carril bici o bidegorris (km/10.000 habitantes)
+Accesibilidad del municipio
+Tiempo medio de desplazamiento a los restantes municipios de la C.A.de Euskadi (min)
+Tiempo medio de acceso a carreteras principales (min)
+Tiempo medio de acceso a la capital del Territorio Histórico (min)
+Distancia a la capital del Territorio Histórico (% rodeo)
+Procesos electorales
+Elecciones Parlamento Vasco
+Elecciones al Parlamento Vasco: Censo electoral
+Elecciones al Parlamento Vasco: Votos
+Elecciones al Parlamento Vasco: Abstenciones
+Elecciones al Parlamento Vasco: Votos nulos
+Elecciones al Parlamento Vasco: Votos blancos
+Elecciones al Parlamento Vasco: Votos a candidaturas
+% Elecciones al Parlamento Vasco: Votos a candidaturas
+% Elecciones al Parlamento Vasco: Votos a EAJ-PNV
+% Elecciones al Parlamento Vasco: Votos a PSE-EE/PSOE
+% Elecciones al Parlamento Vasco: Votos a PP
+% Elecciones al Parlamento Vasco: Votos a otros
+% Elecciones al Parlamento Vasco: Votos blancos
+% Elecciones al Parlamento Vasco: Votos nulos
+% Elecciones al Parlamento Vasco: Abstención
+% Elecciones al Parlamento Vasco: Votantes
+% Elecciones al Parlamento Vasco: Votos a EH BILDU
+% Elecciones al Parlamento Vasco: Votos a Podemos / Ahal Dugu-IU
+Elecciones Municipales
+Elecciones Municipales: Censo electoral
+Elecciones Municipales: Votos
+Elecciones Municipales: Abstenciones
+Elecciones Municipales: Nulos
+Elecciones Municipales: Blancos
+% Elecciones Municipales: Votantes
+% Elecciones Municipales: Abstenciones
+% Elecciones Municipales: Nulos
+% Elecciones Municipales: Blancos
+% Elecciones Municipales: Votos a EAJ-PNV
+% Elecciones Municipales: Votos a PSE-EE/PSOE
+% Elecciones Municipales: Votos a PP
+% Elecciones Municipales: Votos a EAE-ANV
+% Elecciones Municipales: Votos a BILDU
+% Elecciones Municipales: Votos a otros
+Elecciones Municipales: Concejales EAJ-PNV
+Elecciones Municipales: Concejales PSE-EE/PSOE
+Elecciones Municipales: Concejales PP
+Elecciones Municipales: Concejales EAE-ANV
+Elecciones Municipales: Concejales BILDU
+Elecciones Municipales: Concejales otros partidos
+Elecciones al Congreso
+Elecciones al Congreso: Censo electoral
+Elecciones al Congreso: Votos
+Elecciones al Congreso: Abstenciones
+Elecciones al Congreso: Votos nulos
+Elecciones al Congreso: Votos blancos
+Elecciones al Congreso: Votos a candidaturas
+% Elecciones al Congreso: Votantes
+% Elecciones al Congreso: Abstenciones
+% Elecciones al Congreso: Votos nulos
+% Elecciones al Congreso: Votos blancos
+% Elecciones al Congreso: Votos a candidaturas
+% Elecciones al Congreso: Votos a EAJ-PNV
+% Elecciones al Congreso: Votos a PSE-EE/PSOE
+% Elecciones al Congreso: Votos a PP
+% Elecciones al Congreso: Votos a EH BILDU
+% Elecciones al Congreso: Votos a PODEMOS/AHAL DUGU-IU
+% Elecciones al Congreso: Votos a otros
+Elecciones al Senado
+Elecciones al senado: Censo electoral
+Elecciones al senado: Votos
+Elecciones al senado: Abstenciones
+Elecciones al senado: Votos nulos
+Elecciones al senado: Votos blancos
+Elecciones al senado: Votos a candidaturas
+% Elecciones al senado: Votantes
+% Elecciones al senado: Abstenciones
+% Elecciones al senado: Votos nulos
+% Elecciones al senado: Votos blancos
+% Elecciones al senado: Votos a candidaturas
+% Elecciones al senado: Votos a EAJ-PNV
+% Elecciones al senado: Votos a PSE-EE/PSOE
+% Elecciones al senado: Votos a PP
+% Elecciones al senado: Votos a otros
+Protección social y Seguridad ciudadana
+Pensiones en vigor
+Pensiones por jubilación
+Pensiones por viudedad
+Pensiones por incapacidad permanente
+Pensiones por orfandad
+Pensiones por favor familiar
+Seguridad vial
+Peatones atropellados registrados en el municipio por la Ertzaintza por 10.000 habitantes
+Accidentes de tráfico registrados en el municipio por la Ertzaintza (‰ habitantes)
+Equipamiento2
+Dotación policial local (‰ habitantes)
+Riesgo de pobreza
+Hogares en riesgo de pobreza
+Tasa de riesgo de pobreza en hogares
+Personas en riesgo de pobreza
+Tasa de riesgo de pobreza en personas
+Perceptores de ayudas
+Perceptores de renta básica (‰ habitantes)
+Perceptores de ayudas de emergencia social (‰ habitantes)
+Perceptores de pensiones no contributivas (‰ habitantes)
+Delitos
+Índice de delitos (‰ habitantes)
+Mercado de trabajo
+Paro
+Paro registrado
+Parados total
+Parados por sexo: Hombres
+Parados por sexo: Mujeres
+Parados por sector: Agricultura
+Parados por sector: Industria
+Parados por sector: Construcción
+Parados por sector: Servicios
+Parados por grupo de edad: Menores de 25 años
+Parados por grupo de edad: Menores de 30 años
+Parados por grupo de edad: De 25 a 44 años
+Parados por grupo de edad: De 45 y más años
+Parados por sexo y grupos de edad: Hombres menores de 25 años
+Parados por sexo y grupos de edad: Hombres menores de 30 años
+Parados por sexo y grupos de edad: Hombres de 25 a 44 años
+Parados por sexo y grupos de edad: Hombres de 45 y más años
+Parados por sexo y grupos de edad: Mujeres menores de 25 años
+Parados por sexo y grupos de edad: Mujeres menores de 30 años
+Parados por sexo y grupos de edad: Mujeres de 25 a 44 años
+Parados por sexo y grupos de edad: Mujeres de 45 y más años
+Parados por sector: Sin empleo anterior
+Tasa de paro
+Tasa de paro masculina
+Tasa de paro femenina
+% Parados por sexo: Hombres
+% Parados por sexo: Mujeres
+% Parados por sector: Agricultura
+% Parados por sector: Industria
+% Parados por sector: Construcción
+% Parados por sector: Servicios
+% Parados por sector: Sin empleo anterior
+% Parados por grupo de edad: Menores de 25 años
+% Parados por grupo de edad: Menores de 30 años
+% Parados por grupo de edad: De 25 a 44 años
+% Parados por grupo de edad: De 45 y más años
+% Parados por sexo y grupos de edad: Hombres menores de 25 años
+% Parados por sexo y grupos de edad: Hombres menores de 30 años
+% Parados por sexo y grupos de edad: Hombres de 25 a 44 años
+% Parados por sexo y grupos de edad: Hombres de 45 y más años
+% Parados por sexo y grupos de edad: Mujeres menores de 25 años
+% Parados por sexo y grupos de edad: Mujeres menores de 30 años
+% Parados por sexo y grupos de edad: Mujeres de 25 a 44 años
+% Parados por sexo y grupos de edad: Mujeres de 45 y más años
+Crecimiento mensual del paro registrado
+Crecimiento anual del paro registrado
+Proporción de parados sobre la población de 16 a 64 años
+Parados por sexo y ocupación
+Parados: Dirección empresas y Administraciones Públicas
+Parados: Técnicos y profesionales científicos e intelectuales
+Parados: Técnicos y profesionales de apoyo
+Parados: Empleados de tipo administrativo
+Parados: Trabajadores de servicios de restauración, personales, protección y vendedores de comercio
+Parados: Trabajadores cualificados en agricultura y en pesca
+Parados: Artesanos y trabajadores cualificados de industrias manufactureras, la construcción y la minería
+Parados: Operadores de maquinaria e instalaciones, montadores
+Parados: Trabajadores no cualificados
+Parados: Fuerzas armadas
+Parados hombres: Dirección empresas y Administraciones Públicas
+Parados hombres: Técnicos y profesionales científicos e intelectuales
+Parados hombres: Técnicos y profesionales de apoyo
+Parados hombres: Empleados de tipo administrativo
+Parados hombres: Trabajadores de servicios de restauración, personales, protección y vendedores de comercio
+Parados hombres: Trabajadores cualificados en agricultura y en pesca
+Parados hombres: Artesanos y trabajadores cualificados de industrias manufactureras, la construcción y la minería
+Parados hombres: Operadores de maquinaria e instalaciones, montadores
+Parados hombres: Trabajadores no cualificados
+Parados hombres: Fuerzas armadas
+Parados mujeres: Dirección empresas y Administraciones Públicas
+Parados mujeres: Técnicos y profesionales científicos e intelectuales
+Parados mujeres: Técnicos y profesionales de apoyo
+Parados mujeres: Empleados de tipo administrativo
+Parados mujeres: Trabajadores de servicios de restauración, personales, protección y vendedores de comercio
+Parados mujeres: Trabajadores cualificados en agricultura y en pesca
+Parados mujeres: Artesanos y trabajadores cualificados de industrias manufactureras, la construcción y la minería
+Parados mujeres: Operadores de maquinaria e instalaciones, montadores
+Parados mujeres: Trabajadores no cualificados
+Parados mujeres: Fuerzas armadas
+Parados por sexo, edad y nivel académico
+Parados: Sin alfabetizar
+Parados: Estudios primarios incompletos
+Parados: Estudios primarios completos
+Parados: FP Medio
+Parados: ESO
+Parados: FP Superior
+Parados: Estudios universitarios de primer ciclo
+Parados: Estudios universitarios de segundo ciclo
+Parados: Otros estudios universitarios
+Parados hombres: Sin alfabetizar
+Parados hombres: Estudios primarios incompletos
+Parados hombres: Estudios primarios completos
+Parados hombres: FP Medio
+Parados hombres: ESO
+Parados hombres: FP Superior
+Parados hombres: Estudios universitarios de primer ciclo
+Parados hombres: Estudios universitarios de segundo ciclo
+Parados hombres: Otros estudios universitarios
+Parados mujeres: Sin alfabetizar
+Parados mujeres: Estudios primarios incompletos
+Parados mujeres: Estudios primarios completos
+Parados mujeres: FP Medio
+Parados mujeres: ESO
+Parados mujeres: FP Superior
+Parados mujeres: Estudios universitarios de primer ciclo
+Parados mujeres: Estudios universitarios de segundo ciclo
+Parados mujeres: Otros estudios universitarios
+Parados menores de 25 años: Sin alfabetizar
+Parados menores de 25 años: Estudios primarios incompletos
+Parados menores de 25 años: Estudios primarios completos
+Parados menores de 25 años: FP Medio
+Parados menores de 25 años: ESO
+Parados menores de 25 años: FP Superior
+Parados menores de 25 años: Estudios universitarios de primer ciclo
+Parados menores de 25 años: Estudios universitarios de segundo ciclo
+Parados menores de 25 años: Otros estudios universitarios
+Parados hombres menores de 25 años: Sin alfabetizar
+Parados hombres menores de 25 años: Estudios primarios incompletos
+Parados hombres menores de 25 años: Estudios primarios completos
+Parados hombres menores de 25 años: FP Medio
+Parados hombres menores de 25 años: ESO
+Parados hombres menores de 25 años: FP Superior
+Parados hombres menores de 25 años: Estudios universitarios de primer ciclo
+Parados hombres menores de 25 años: Estudios universitarios de segundo ciclo
+Parados hombres menores de 25 años: Otros estudios universitarios
+Parados mujeres menores de 25 años: Sin alfabetizar
+Parados mujeres menores de 25 años: Estudios primarios incompletos
+Parados mujeres menores de 25 años: Estudios primarios completos
+Parados mujeres menores de 25 años: FP Medio
+Parados mujeres menores de 25 años: ESO
+Parados mujeres menores de 25 años: FP Superior
+Parados mujeres menores de 25 años: Estudios universitarios de primer ciclo
+Parados mujeres menores de 25 años: Estudios universitarios de segundo ciclo
+Parados mujeres menores de 25 años: Otros estudios universitarios
+Parados menores de 30 años: Sin alfabetizar
+Parados menores de 30 años: Estudios primarios incompletos
+Parados menores de 30 años: Estudios primarios completos
+Parados menores de 30 años: FP Medio
+Parados menores de 30 años: ESO
+Parados menores de 30 años: FP Superior
+Parados menores de 30 años: Estudios universitarios de primer ciclo
+Parados menores de 30 años: Estudios universitarios de segundo ciclo
+Parados menores de 30 años: Otros estudios universitarios
+Parados hombres menores de 30 años: Sin alfabetizar
+Parados hombres menores de 30 años: Estudios primarios incompletos
+Parados hombres menores de 30 años: Estudios primarios completos
+Parados hombres menores de 30 años: FP Medio
+Parados hombres menores de 30 años: ESO
+Parados hombres menores de 30 años: FP Superior
+Parados hombres menores de 30 años: Estudios universitarios de primer ciclo
+Parados hombres menores de 30 años: Estudios universitarios de segundo ciclo
+Parados hombres menores de 30 años: Otros estudios universitarios
+Parados mujeres menores de 30 años: Otros estudios universitarios
+Parados mujeres menores de 30 años: Sin alfabetizar
+Parados mujeres menores de 30 años: Estudios primarios incompletos
+Parados mujeres menores de 30 años: Estudios primarios completos
+Parados mujeres menores de 30 años: FP Medio
+Parados mujeres menores de 30 años: ESO
+Parados mujeres menores de 30 años: FP Superior
+Parados mujeres menores de 30 años: Estudios universitarios de primer ciclo
+Parados mujeres menores de 30 años: Estudios universitarios de segundo ciclo
+Parados de 25 a 44 años: Sin alfabetizar
+Parados de 25 a 44 años: Estudios primarios incompletos
+Parados de 25 a 44 años: Estudios primarios completos
+Parados de 25 a 44 años: FP Medio
+Parados de 25 a 44 años: ESO
+Parados de 25 a 44 años: FP Superior
+Parados de 25 a 44 años: Estudios universitarios de primer ciclo
+Parados de 25 a 44 años: Estudios universitarios de segundo ciclo
+Parados de 25 a 44 años: Otros estudios universitarios
+Parados hombres de 25 a 44 años: Sin alfabetizar
+Parados hombres de 25 a 44 años: Estudios primarios incompletos
+Parados hombres de 25 a 44 años: Estudios primarios completos
+Parados hombres de 25 a 44 años: FP Medio
+Parados hombres de 25 a 44 años: ESO
+Parados hombres de 25 a 44 años: FP Superior
+Parados hombres de 25 a 44 años: Estudios universitarios de primer ciclo
+Parados hombres de 25 a 44 años: Estudios universitarios de segundo ciclo
+Parados hombres de 25 a 44 años: Otros estudios universitarios
+Parados mujeres de 25 a 44 años: Sin alfabetizar
+Parados mujeres de 25 a 44 años: Estudios primarios incompletos
+Parados mujeres de 25 a 44 años: Estudios primarios completos
+Parados mujeres de 25 a 44 años: FP Medio
+Parados mujeres de 25 a 44 años: ESO
+Parados mujeres de 25 a 44 años: FP Superior
+Parados mujeres de 25 a 44 años: Estudios universitarios de primer ciclo
+Parados mujeres de 25 a 44 años: Estudios universitarios de segundo ciclo
+Parados mujeres de 25 a 44 años: Otros estudios universitarios
+Parados de 45 y más años: Sin alfabetizar
+Parados de 45 y más años: Estudios primarios incompletos
+Parados de 45 y más años: Estudios primarios completos
+Parados de 45 y más años: FP Medio
+Parados de 45 y más años: ESO
+Parados de 45 y más años: FP Superior
+Parados de 45 y más años: Estudios universitarios de primer ciclo
+Parados de 45 y más años: Estudios universitarios de segundo ciclo
+Parados de 45 y más años: Otros estudios universitarios
+Parados hombres de 45 y más años: Sin alfabetizar
+Parados hombres de 45 y más años: Estudios primarios incompletos
+Parados hombres de 45 y más años: Estudios primarios completos
+Parados hombres de 45 y más años: FP Medio
+Parados hombres de 45 y más años: ESO
+Parados hombres de 45 y más años: FP Superior
+Parados hombres de 45 y más años: Estudios universitarios de primer ciclo
+Parados hombres de 45 y más años: Estudios universitarios de segundo ciclo
+Parados hombres de 45 y más años: Otros estudios universitarios
+Parados mujeres de 45 y más años: Sin alfabetizar
+Parados mujeres de 45 y más años: Estudios primarios incompletos
+Parados mujeres de 45 y más años: Estudios primarios completos
+Parados mujeres de 45 y más años: FP Medio
+Parados mujeres de 45 y más años: ESO
+Parados mujeres de 45 y más años: FP Superior
+Parados mujeres de 45 y más años: Estudios universitarios de primer ciclo
+Parados mujeres de 45 y más años: Estudios universitarios de segundo ciclo
+Parados mujeres de 45 y más años: Otros estudios universitarios
+Contratos
+Contratos registrados
+Contratos total
+Contratos por sexo: Hombres
+Contratos por sexo: Mujeres
+Contratos por sector: Agricultura
+Contratos por sector: Industria
+Contratos por sector: Construcción
+Contratos por sector: Servicios
+Contratos por tipo: Indefinido
+Contratos por tipo: Convertido a indefinido
+Contratos por tipo: Temporal
+Contratos por sexo y tipo: Hombres e indefinido
+Contratos por sexo y tipo: Hombres y convertido a indefinido
+Contratos por sexo y tipo: Hombres y temporal
+Contratos por sexo y tipo: Mujeres e indefinido
+Contratos por sexo y tipo: Mujeres y convertido a indefinido
+Contratos por sexo y tipo: Mujeres y temporal
+Contratos registrados en el año (‰ habitantes de 15 y más años)
+% Contratos por sexo (%sobre el total de contratos): Hombres
+% Contratos por sexo (%sobre el total de contratos): Mujeres
+% Contratos por sector (%sobre el total de contratos): Agricultura
+% Contratos por sector (%sobre el total de contratos): Industria
+% Contratos por sector (%sobre el total de contratos): Construcción
+% Contratos por sector (%sobre el total de contratos): Servicios
+% Contratos por tipo (%sobre el total de contratos): Indefinido
+% Contratos por tipo (%sobre el total de contratos): Convertido a indefinido
+% Contratos por tipo (%sobre el total de contratos): Temporal
+% Contratos indefinidos: Hombres (% sobre el total de contratos indefinidos)
+% Contratos convertidos a indefinidos: Hombres (%sobre el total de contratos convertidos a indefinidos)
+% Contratos temporales: Hombres (% sobre el total de contratos temporales)
+% Contratos indefinidos: Mujeres (% sobre el total de contratos indefinidos)
+% Contratos convertidos a indefinidos: Mujeres (%sobre el total de contratos convertidos a indefinidos)
+% Contratos temporales: Mujeres (% sobre el total de contratos temporales)
+% Contratos indefinidos registrados en el año: Menores de 30 años (% sobre total contratos indefinidos)
+% Contratos indefinidos registrados en el año: Población de 45 y más años (% sobre total contratos indefinidos)
+Población contratada total
+Población contratada: Hombres
+Población contratada: Mujeres
+Población contratada en el año (‰ habitantes de 15 y más años)
+Rotación contractual total
+Rotación contractual: Hombres
+Rotación contractual: Mujeres
+Contratos registrados a extranjeros total
+Contratos registrados a extranjeros: Hombres
+Contratos registrados a extranjeros: Mujeres
+% Contratos a extranjeros (% sobre el total de contratos)
+Crecimiento mensual de los contratos
+Crecimiento anual de los contratos
+Contratos por sexo y sector
+Contratos hombres: Agricultura
+Contratos hombres: Industria
+Contratos hombres: Construcción
+Contratos hombres: Servicios
+Contratos mujeres: Agricultura
+Contratos mujeres: Industria
+Contratos mujeres: Construcción
+Contratos mujeres: Servicios
+Contratos por sexo y ocupación
+Contratos: Dirección empresas y Administraciones Públicas
+Contratos: Técnicos y profesionales científicos e intelectuales
+Contratos: Técnicos y profesionales de apoyo
+Contratos: Empleados de tipo administrativo
+Contratos: Trabajadores de servicios de restauración, personales, protección y vendedores de comercio
+Contratos: Trabajadores cualificados en agricultura y en pesca
+Contratos: Artesanos y trabajadores cualificados de industrias manufactureras, la construcción y la minería
+Contratos: Operadores de maquinaria e instalaciones, montadores
+Contratos: Trabajadores no cualificados
+Contratos: Fuerzas armadas
+Contratos hombres: Dirección empresas y Administraciones Públicas
+Contratos hombres: Técnicos y profesionales científicos e intelectuales
+Contratos hombres: Técnicos y profesionales de apoyo
+Contratos hombres: Empleados de tipo administrativo
+Contratos hombres: Trabajadores de servicios de restauración, personales, protección y vendedores de comercio
+Contratos hombres: Trabajadores cualificados en agricultura y en pesca
+Contratos hombres: Artesanos y trabajadores cualificados de industrias manufactureras, la construcción y la minería
+Contratos hombres: Operadores de maquinaria e instalaciones, montadores
+Contratos hombres: Trabajadores no cualificados
+Contratos hombres: Fuerzas armadas
+Contratos mujeres: Dirección empresas y Administraciones Públicas
+Contratos mujeres: Técnicos y profesionales científicos e intelectuales
+Contratos mujeres: Técnicos y profesionales de apoyo
+Contratos mujeres: Empleados de tipo administrativo
+Contratos mujeres: Trabajadores de servicios de restauración, personales, protección y vendedores de comercio
+Contratos mujeres: Trabajadores cualificados en agricultura y en pesca
+Contratos mujeres: Artesanos y trabajadores cualificados de industrias manufactureras, la construcción y la minería
+Contratos mujeres: Operadores de maquinaria e instalaciones, montadores
+Contratos mujeres: Trabajadores no cualificados
+Contratos mujeres: Fuerzas armadas
+Contratos por sexo, edad y tipo
+Contratos hombres menores de 25 años: Indefinido
+Contratos hombres menores de 25 años: Convertido a indefinido
+Contratos hombres menores de 25 años: Temporal
+Contratos mujeres menores de 25 años: Indefinido
+Contratos mujeres menores de 25 años: Convertido a indefinido
+Contratos mujeres menores de 25 años: Temporal
+Contratos hombres menores de 30 años: Indefinido
+Contratos hombres menores de 30 años: Convertido a indefinido
+Contratos hombres menores de 30 años: Temporal
+Contratos mujeres menores de 30 años: Indefinido
+Contratos mujeres menores de 30 años: Convertido a indefinido
+Contratos mujeres menores de 30 años: Temporal
+Contratos hombres de 25 a 44 años: Indefinido
+Contratos hombres de 25 a 44 años: Convertido a indefinido
+Contratos hombres de 25 a 44 años: Temporal
+Contratos mujeres de 25 a 44 años: Indefinido
+Contratos mujeres de 25 a 44 años: Convertido a indefinido
+Contratos mujeres de 25 a 44 años: Temporal
+Contratos hombres de 45 y más años: Indefinido
+Contratos hombres de 45 y más años: Convertido a indefinido
+Contratos hombres de 45 y más años: Temporal
+Contratos mujeres de 45 y más años: Indefinido
+Contratos mujeres de 45 y más años: Convertido a indefinido
+Contratos mujeres de 45 y más años: Temporal
+Contratos por sexo, edad y nivel académico
+Contratos: Sin alfabetizar
+Contratos: Estudios primarios
+Contratos: FP Medio
+Contratos: ESO
+Contratos: FP Superior
+Contratos: Estudios universitarios de primer ciclo
+Contratos: Estudios universitarios de segundo ciclo
+Contratos hombres: Sin alfabetizar
+Contratos hombres: Estudios primarios
+Contratos hombres: FP Medio
+Contratos hombres: ESO
+Contratos hombres: FP Superior
+Contratos hombres: Estudios universitarios de primer ciclo
+Contratos hombres: Estudios universitarios de segundo ciclo
+Contratos mujeres: Sin alfabetizar
+Contratos mujeres: Estudios primarios
+Contratos mujeres: FP Medio
+Contratos mujeres: ESO
+Contratos mujeres: FP Superior
+Contratos mujeres: Estudios universitarios de primer ciclo
+Contratos mujeres: Estudios universitarios de segundo ciclo
+Contratos menores de 25 años: Sin alfabetizar
+Contratos menores de 25 años: Estudios primarios
+Contratos menores de 25 años: FP Medio
+Contratos menores de 25 años: ESO
+Contratos menores de 25 años: FP Superior
+Contratos menores de 25 años: Estudios universitarios de primer ciclo
+Contratos menores de 25 años: Estudios universitarios de segundo ciclo
+Contratos hombres menores de 25 años: Sin alfabetizar
+Contratos hombres menores de 25 años: Estudios primarios
+Contratos hombres menores de 25 años: FP Medio
+Contratos hombres menores de 25 años: ESO
+Contratos hombres menores de 25 años: FP Superior
+Contratos hombres menores de 25 años: Estudios universitarios de primer ciclo
+Contratos hombres menores de 25 años: Estudios universitarios de segundo ciclo
+Contratos mujeres menores de 25 años: Sin alfabetizar
+Contratos mujeres menores de 25 años: Estudios primarios
+Contratos mujeres menores de 25 años: FP Medio
+Contratos mujeres menores de 25 años: ESO
+Contratos mujeres menores de 25 años: FP Superior
+Contratos mujeres menores de 25 años: Estudios universitarios de primer ciclo
+Contratos mujeres menores de 25 años: Estudios universitarios de segundo ciclo
+Contratos menores de 30 años: Sin alfabetizar
+Contratos menores de 30 años: Estudios primarios
+Contratos menores de 30 años: FP Medio
+Contratos menores de 30 años: ESO
+Contratos menores de 30 años: FP Superior
+Contratos menores de 30 años: Estudios universitarios de primer ciclo
+Contratos menores de 30 años: Estudios universitarios de segundo ciclo
+Contratos hombres menores de 30 años: Sin alfabetizar
+Contratos hombres menores de 30 años: Estudios primarios
+Contratos hombres menores de 30 años: FP Medio
+Contratos hombres menores de 30 años: ESO
+Contratos hombres menores de 30 años: FP Superior
+Contratos hombres menores de 30 años: Estudios universitarios de primer ciclo
+Contratos hombres menores de 30 años: Estudios universitarios de segundo ciclo
+Contratos mujeres menores de 30 años: Sin alfabetizar
+Contratos mujeres menores de 30 años: Estudios primarios
+Contratos mujeres menores de 30 años: FP Medio
+Contratos mujeres menores de 30 años: ESO
+Contratos mujeres menores de 30 años: FP Superior
+Contratos mujeres menores de 30 años: Estudios universitarios de primer ciclo
+Contratos mujeres menores de 30 años: Estudios universitarios de segundo ciclo
+Contratos de 25 a 44 años: Sin alfabetizar
+Contratos de 25 a 44 años: Estudios primarios
+Contratos de 25 a 44 años: FP Medio
+Contratos de 25 a 44 años: ESO
+Contratos de 25 a 44 años: FP Superior
+Contratos de 25 a 44 años: Estudios universitarios de primer ciclo
+Contratos de 25 a 44 años: Estudios universitarios de segundo ciclo
+Contratos hombres de 25 a 44 años: Sin alfabetizar
+Contratos hombres de 25 a 44 años: Estudios primarios
+Contratos hombres de 25 a 44 años: FP Medio
+Contratos hombres de 25 a 44 años: ESO
+Contratos hombres de 25 a 44 años: FP Superior
+Contratos hombres de 25 a 44 años: Estudios universitarios de primer ciclo
+Contratos hombres de 25 a 44 años: Estudios universitarios de segundo ciclo
+Contratos mujeres de 25 a 44 años: Sin alfabetizar
+Contratos mujeres de 25 a 44 años: Estudios primarios
+Contratos mujeres de 25 a 44 años: FP Medio
+Contratos mujeres de 25 a 44 años: ESO
+Contratos mujeres de 25 a 44 años: FP Superior
+Contratos mujeres de 25 a 44 años: Estudios universitarios de primer ciclo
+Contratos mujeres de 25 a 44 años: Estudios universitarios de segundo ciclo
+Contratos de 45 y más años: Sin alfabetizar
+Contratos de 45 y más años: Estudios primarios
+Contratos de 45 y más años: FP Medio
+Contratos de 45 y más años: ESO
+Contratos de 45 y más años: FP Superior
+Contratos de 45 y más años: Estudios universitarios de primer ciclo
+Contratos de 45 y más años: Estudios universitarios de segundo ciclo
+Contratos hombres de 45 y más años: Sin alfabetizar
+Contratos hombres de 45 y más años: Estudios primarios
+Contratos hombres de 45 y más años: FP Medio
+Contratos hombres de 45 y más años: ESO
+Contratos hombres de 45 y más años: FP Superior
+Contratos hombres de 45 y más años: Estudios universitarios de primer ciclo
+Contratos hombres de 45 y más años: Estudios universitarios de segundo ciclo
+Contratos mujeres de 45 y más años: Sin alfabetizar
+Contratos mujeres de 45 y más años: Estudios primarios
+Contratos mujeres de 45 y más años: FP Medio
+Contratos mujeres de 45 y más años: ESO
+Contratos mujeres de 45 y más años: FP Superior
+Contratos mujeres de 45 y más años: Estudios universitarios de primer ciclo
+Contratos mujeres de 45 y más años: Estudios universitarios de segundo ciclo
+Afiliados
+Afiliados2
+Afiliados total
+Tasa de afiliación a la Seguridad Social (% hab. > 16 años)
+Proporción de trabajadores sobre la población de 16 a 64 años
+Crecimiento mensual de las afiliaciones
+Crecimiento anual de las afiliaciones
+Afiliados extranjeros
+Afiliados extranjeros2
+Afiliados extranjeros: Régimen general
+Afiliados extranjeros: Autónomo
+Afiliados extranjeros: Agrario
+Afiliados extranjeros: Mar
+Afiliados extranjeros: Hogar
+Afiliados por régimen
+Afiliados por régimen: General
+Afiliados por régimen: Agrario
+Afiliados por régimen: Mar
+Afiliados por régimen: Hogar
+Afiliados por régimen: Autónomos
+Afiliaciones del régimen general (% sobre el total de Afiliaciones)
+Afiliaciones del régimen agrario (% sobre el total de Afiliaciones)
+Afiliaciones del régimen del mar (% sobre el total de Afiliaciones)
+Afiliaciones del régimen del hogar (% sobre el total de Afiliaciones)
+Afiliaciones del régimen de autónomos (% sobre el total de Afiliaciones)
+Afiliados por sector
+Trabajadores por sector total
+Trabajadores por sector: Agricultura
+Trabajadores por sector: Industria
+Trabajadores por sector: Construcción
+Trabajadores por sector: Servicios
+Trabajadores por sector: No consta
+Trabajadores por tipo de industria
+Trabajadores por sector industria: Industrias extractivas
+Trabajadores por sector industria: Industria manufacturera
+Trabajadores por sector industria: Suministro de energía eléctrica, gas, vapor y aire acondicionado
+Trabajadores por sector industria: Suministro de agua, saneamiento, residuos y descontaminación
+Trabajadores por tipo de servicios
+Trabajadores por sector servicios: Comercio al por mayor y al por menor; reparación de vehículos
+Trabajadores por sector servicios: Transporte y almacenamiento
+Trabajadores por sector servicios: Hostelería
+Trabajadores por sector servicios: Información y comunicaciones
+Trabajadores por sector servicios: Actividades financieras y de seguros
+Trabajadores por sector servicios: Actividades inmobiliarias
+Trabajadores por sector servicios: Actividades profesionales, científicas y técnicas
+Trabajadores por sector servicios: Actividades administrativas y servicios auxliares
+Trabajadores por sector servicios: Administración pública y defensa; Seguridad Social obligatoria
+Trabajadores por sector servicios: Educación
+Trabajadores por sector servicios: Actividades sanitarias y de servicios sociales
+Trabajadores por sector servicios: Actividades artísticas, recreativas y de entrenimiento
+Trabajadores por sector servicios: Otros servicios
+Trabajadores por sector servicios: Actividades de los hogares
+Trabajadores por sector servicios: Actividades de organizaciones y organismos extraterritoriales
+Población activa
+Población activa total
+Población activa: Hombres
+Población activa: Mujeres
+Población inactiva total
+Población inactiva: Hombres
+Población inactiva: Mujeres
+Tasa de actividad
+Tasa de actividad: Hombres
+Tasa de actividad: Mujeres
+Población ocupada
+Población ocupada total
+Población ocupada: Hombres
+Población ocupada: Mujeres
+Ocupados por sector: Agricultura, ganadería y pesca
+Ocupados por sector: Industria
+Ocupados por sector: Construcción
+Ocupados por sector: Servicios
+Ocupados por nivel de estudios: Analfabetos
+Ocupados por nivel de estudios: Sin estudios
+Ocupados por nivel de estudios: Primer grado
+Ocupados por nivel de estudios: Segundo grado
+Ocupados por nivel de estudios: Tercer grado
+Ocupados por grupo de edad: De 15 a 24 años
+Ocupados por grupo de edad: De 25 a 54 años
+Ocupados por grupo de edad: De 55 a 64 años
+Tasa de ocupación (% ocupados respecto a la población de 16 y más años)
+Tasa de ocupación: Hombres (% ocupados respecto a la población masculina de 16 y más años)
+Tasa de ocupación: Mujeres (% ocupados respecto a la población femenina de 16 y más años)
+Tasa de ocupación de la población de 16 a 24 años
+Tasa de ocupación de la población de 25 a 54 años
+Tasa de ocupación de la población de 55 a 64 años
+Tasa de ocupación: Brecha de género (tasa de ocupación masculina - tasa de ocupación femenina)
+ERTES
+Afectados por ERTES
+Afectados por ERTES2
+Afectados hombres por ERTES
+Afectados mujeres por ERTES
+ERTES solicitados (Número de expedientes)
+Afectados por ERTES según tipo de regulación
+Afectados por ERTES por suspensión
+Hombres afectados por ERTES por suspensión
+Mujeres afectadas por ERTES por suspensión
+Afectados por ERTES por reducción
+Hombres afectados por ERTES por reducción
+Mujeres afectadas por ERTES por reducción
+Afectados por ERTES por extinción
+Hombres afectados por ERTES por extinción
+Mujeres afectadas por ERTES por extinción
+Afectados por ERTES según tipo de regulación, causa y sexo
+Afectados por ERTES por suspensión, por causa: de producción
+Afectados por ERTES por suspensión, por causa: económica
+Afectados por ERTES por suspensión, por causa: técnica
+Afectados por ERTES por suspensión, por causa: fuerza mayor
+Afectados por ERTES por suspensión, por causa: organizativa
+Afectados por ERTES por reducción, por causa: de producción
+Afectados por ERTES por reducción, por causa: económica
+Afectados por ERTES por reducción, por causa: técnica
+Afectados por ERTES por reducción, por causa: fuerza mayor
+Afectados por ERTES por reducción, por causa: organizativa
+Afectados por ERTES por extinción, por causa: de producción
+Afectados por ERTES por extinción, por causa: económica
+Afectados por ERTES por extinción, por causa: técnica
+Afectados por ERTES por extinción, por causa: fuerza mayor
+Afectados por ERTES por extinción, por causa: organizativa
+Afectados hombres por ERTES por suspensión, por causa: de producción
+Afectados hombres por ERTES por suspensión, por causa: económica
+Afectados hombres por ERTES por suspensión, por causa: técnica
+Afectados hombres por ERTES por suspensión, por causa: fuerza mayor
+Afectados hombres por ERTES por suspensión, por causa: organizativa
+Afectados hombres por ERTES por reducción, por causa: de producción
+Afectados hombres por ERTES por reducción, por causa: económica
+Afectados hombres por ERTES por reducción, por causa: técnica
+Afectados hombres por ERTES por reducción, por causa: fuerza mayor
+Afectados hombres por ERTES por reducción, por causa: organizativa
+Afectados hombres por ERTES por extinción, por causa: de producción
+Afectados hombres por ERTES por extinción, por causa: económica
+Afectados hombres por ERTES por extinción, por causa: técnica
+Afectados hombres por ERTES por extinción, por causa: fuerza mayor
+Afectados hombres por ERTES por extinción, por causa: organizativa
+Afectados mujeres por ERTES por suspensión, por causa: de producción
+Afectados mujeres por ERTES por suspensión, por causa: económica
+Afectados mujeres por ERTES por suspensión, por causa: técnica
+Afectados mujeres por ERTES por suspensión, por causa: fuerza mayor
+Afectados mujeres por ERTES por suspensión, por causa: organizativa
+Afectados mujeres por ERTES por reducción, por causa: de producción
+Afectados mujeres por ERTES por reducción, por causa: económica
+Afectados mujeres por ERTES por reducción, por causa: técnica
+Afectados mujeres por ERTES por reducción, por causa: fuerza mayor
+Afectados mujeres por ERTES por reducción, por causa: organizativa
+Afectados mujeres por ERTES por extinción, por causa: de producción
+Afectados mujeres por ERTES por extinción, por causa: económica
+Afectados mujeres por ERTES por extinción, por causa: técnica
+Afectados mujeres por ERTES por extinción, por causa: fuerza mayor
+Afectados mujeres por ERTES por extinción, por causa: organizativa
+Afectados por ERTES según tipo, sección de actividad y sexo
+Afectados por ERTES por suspensión: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Afectados por ERTES por suspensión: B.- Industrias extractivas
+Afectados por ERTES por suspensión: C.- Industria manufacturera
+Afectados por ERTES por suspensión: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Afectados por ERTES por suspensión: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Afectados por ERTES por suspensión: F.- Construcción.
+Afectados por ERTES por suspensión: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Afectados por ERTES por suspensión: H.- Transporte y almacenamiento.
+Afectados por ERTES por suspensión: I.- Hostelería.
+Afectados por ERTES por suspensión: J.- Información y Comunicaciones.
+Afectados por ERTES por suspensión: K.- Actividades financieras y de seguros.
+Afectados por ERTES por suspensión: L.- Actividades inmobiliarias.
+Afectados por ERTES por suspensión: M.- Actividades profesionales, científicas y técnicas.
+Afectados por ERTES por suspensión: N.- Actividades administrativas y servicios auxiliares.
+Afectados por ERTES por suspensión: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Afectados por ERTES por suspensión: P.- Educación.
+Afectados por ERTES por suspensión: Q.- Actividades sanitarias y de Servicios Sociales.
+Afectados por ERTES por suspensión: R.- Actividades artísticas, recreativas y de entretenimiento.
+Afectados por ERTES por suspensión: S.- Otros servicios.
+Afectados por ERTES por suspensión: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Afectados por ERTES por suspensión: U.- Actividades de organizaciones y organismos extraterritoriales.
+Afectados por ERTES por reducción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Afectados por ERTES por reducción: B.- Industrias extractivas
+Afectados por ERTES por reducción: C.- Industria manufacturera
+Afectados por ERTES por reducción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Afectados por ERTES por reducción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Afectados por ERTES por reducción: F.- Construcción.
+Afectados por ERTES por reducción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Afectados por ERTES por reducción: H.- Transporte y almacenamiento.
+Afectados por ERTES por reducción: I.- Hostelería.
+Afectados por ERTES por reducción: J.- Información y Comunicaciones.
+Afectados por ERTES por reducción: K.- Actividades financieras y de seguros.
+Afectados por ERTES por reducción: L.- Actividades inmobiliarias.
+Afectados por ERTES por reducción: M.- Actividades profesionales, científicas y técnicas.
+Afectados por ERTES por reducción: N.- Actividades administrativas y servicios auxiliares.
+Afectados por ERTES por reducción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Afectados por ERTES por reducción: P.- Educación.
+Afectados por ERTES por reducción: Q.- Actividades sanitarias y de Servicios Sociales.
+Afectados por ERTES por reducción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Afectados por ERTES por reducción: S.- Otros servicios.
+Afectados por ERTES por reducción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Afectados por ERTES por reducción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Afectados por ERTES por extinción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Afectados por ERTES por extinción: B.- Industrias extractivas
+Afectados por ERTES por extinción: C.- Industria manufacturera
+Afectados por ERTES por extinción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Afectados por ERTES por extinción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Afectados por ERTES por extinción: F.- Construcción.
+Afectados por ERTES por extinción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Afectados por ERTES por extinción: H.- Transporte y almacenamiento.
+Afectados por ERTES por extinción: I.- Hostelería.
+Afectados por ERTES por extinción: J.- Información y Comunicaciones.
+Afectados por ERTES por extinción: K.- Actividades financieras y de seguros.
+Afectados por ERTES por extinción: L.- Actividades inmobiliarias.
+Afectados por ERTES por extinción: M.- Actividades profesionales, científicas y técnicas.
+Afectados por ERTES por extinción: N.- Actividades administrativas y servicios auxiliares.
+Afectados por ERTES por extinción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Afectados por ERTES por extinción: P.- Educación.
+Afectados por ERTES por extinción: Q.- Actividades sanitarias y de Servicios Sociales.
+Afectados por ERTES por extinción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Afectados por ERTES por extinción: S.- Otros servicios.
+Afectados por ERTES por extinción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Afectados por ERTES por extinción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Afectados hombres por ERTES por suspensión: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Afectados hombres por ERTES por suspensión: B.- Industrias extractivas
+Afectados hombres por ERTES por suspensión: C.- Industria manufacturera
+Afectados hombres por ERTES por suspensión: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Afectados hombres por ERTES por suspensión: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Afectados hombres por ERTES por suspensión: F.- Construcción.
+Afectados hombres por ERTES por suspensión: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Afectados hombres por ERTES por suspensión: H.- Transporte y almacenamiento.
+Afectados hombres por ERTES por suspensión: I.- Hostelería.
+Afectados hombres por ERTES por suspensión: J.- Información y Comunicaciones.
+Afectados hombres por ERTES por suspensión: K.- Actividades financieras y de seguros.
+Afectados hombres por ERTES por suspensión: L.- Actividades inmobiliarias.
+Afectados hombres por ERTES por suspensión: M.- Actividades profesionales, científicas y técnicas.
+Afectados hombres por ERTES por suspensión: N.- Actividades administrativas y servicios auxiliares.
+Afectados hombres por ERTES por suspensión: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Afectados hombres por ERTES por suspensión: P.- Educación.
+Afectados hombres por ERTES por suspensión: Q.- Actividades sanitarias y de Servicios Sociales.
+Afectados hombres por ERTES por suspensión: R.- Actividades artísticas, recreativas y de entretenimiento.
+Afectados hombres por ERTES por suspensión: S.- Otros servicios.
+Afectados hombres por ERTES por suspensión: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Afectados hombres por ERTES por suspensión: U.- Actividades de organizaciones y organismos extraterritoriales.
+Afectados hombres por ERTES por reducción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Afectados hombres por ERTES por reducción: B.- Industrias extractivas
+Afectados hombres por ERTES por reducción: C.- Industria manufacturera
+Afectados hombres por ERTES por reducción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Afectados hombres por ERTES por reducción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Afectados hombres por ERTES por reducción: F.- Construcción.
+Afectados hombres por ERTES por reducción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Afectados hombres por ERTES por reducción: H.- Transporte y almacenamiento.
+Afectados hombres por ERTES por reducción: I.- Hostelería.
+Afectados hombres por ERTES por reducción: J.- Información y Comunicaciones.
+Afectados hombres por ERTES por reducción: K.- Actividades financieras y de seguros.
+Afectados hombres por ERTES por reducción: L.- Actividades inmobiliarias.
+Afectados hombres por ERTES por reducción: M.- Actividades profesionales, científicas y técnicas.
+Afectados hombres por ERTES por reducción: N.- Actividades administrativas y servicios auxiliares.
+Afectados hombres por ERTES por reducción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Afectados hombres por ERTES por reducción: P.- Educación.
+Afectados hombres por ERTES por reducción: Q.- Actividades sanitarias y de Servicios Sociales.
+Afectados hombres por ERTES por reducción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Afectados hombres por ERTES por reducción: S.- Otros servicios.
+Afectados hombres por ERTES por reducción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Afectados hombres por ERTES por reducción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Afectados hombres por ERTES por extinción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Afectados hombres por ERTES por extinción: B.- Industrias extractivas
+Afectados hombres por ERTES por extinción: C.- Industria manufacturera
+Afectados hombres por ERTES por extinción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Afectados hombres por ERTES por extinción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Afectados hombres por ERTES por extinción: F.- Construcción.
+Afectados hombres por ERTES por extinción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Afectados hombres por ERTES por extinción: H.- Transporte y almacenamiento.
+Afectados hombres por ERTES por extinción: I.- Hostelería.
+Afectados hombres por ERTES por extinción: J.- Información y Comunicaciones.
+Afectados hombres por ERTES por extinción: K.- Actividades financieras y de seguros.
+Afectados hombres por ERTES por extinción: L.- Actividades inmobiliarias.
+Afectados hombres por ERTES por extinción: M.- Actividades profesionales, científicas y técnicas.
+Afectados hombres por ERTES por extinción: N.- Actividades administrativas y servicios auxiliares.
+Afectados hombres por ERTES por extinción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Afectados hombres por ERTES por extinción: P.- Educación.
+Afectados hombres por ERTES por extinción: Q.- Actividades sanitarias y de Servicios Sociales.
+Afectados hombres por ERTES por extinción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Afectados hombres por ERTES por extinción: S.- Otros servicios.
+Afectados hombres por ERTES por extinción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Afectados hombres por ERTES por extinción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Afectados mujeres por ERTES por suspensión: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Afectados mujeres por ERTES por suspensión: B.- Industrias extractivas
+Afectados mujeres por ERTES por suspensión: C.- Industria manufacturera
+Afectados mujeres por ERTES por suspensión: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Afectados mujeres por ERTES por suspensión: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Afectados mujeres por ERTES por suspensión: F.- Construcción.
+Afectados mujeres por ERTES por suspensión: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Afectados mujeres por ERTES por suspensión: H.- Transporte y almacenamiento.
+Afectados mujeres por ERTES por suspensión: I.- Hostelería.
+Afectados mujeres por ERTES por suspensión: J.- Información y Comunicaciones.
+Afectados mujeres por ERTES por suspensión: K.- Actividades financieras y de seguros.
+Afectados mujeres por ERTES por suspensión: L.- Actividades inmobiliarias.
+Afectados mujeres por ERTES por suspensión: M.- Actividades profesionales, científicas y técnicas.
+Afectados mujeres por ERTES por suspensión: N.- Actividades administrativas y servicios auxiliares.
+Afectados mujeres por ERTES por suspensión: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Afectados mujeres por ERTES por suspensión: P.- Educación.
+Afectados mujeres por ERTES por suspensión: Q.- Actividades sanitarias y de Servicios Sociales.
+Afectados mujeres por ERTES por suspensión: R.- Actividades artísticas, recreativas y de entretenimiento.
+Afectados mujeres por ERTES por suspensión: S.- Otros servicios.
+Afectados mujeres por ERTES por suspensión: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Afectados mujeres por ERTES por suspensión: U.- Actividades de organizaciones y organismos extraterritoriales.
+Afectados mujeres por ERTES por reducción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Afectados mujeres por ERTES por reducción: B.- Industrias extractivas
+Afectados mujeres por ERTES por reducción: C.- Industria manufacturera
+Afectados mujeres por ERTES por reducción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Afectados mujeres por ERTES por reducción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Afectados mujeres por ERTES por reducción: F.- Construcción.
+Afectados mujeres por ERTES por reducción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Afectados mujeres por ERTES por reducción: H.- Transporte y almacenamiento.
+Afectados mujeres por ERTES por reducción: I.- Hostelería.
+Afectados mujeres por ERTES por reducción: J.- Información y Comunicaciones.
+Afectados mujeres por ERTES por reducción: K.- Actividades financieras y de seguros.
+Afectados mujeres por ERTES por reducción: L.- Actividades inmobiliarias.
+Afectados mujeres por ERTES por reducción: M.- Actividades profesionales, científicas y técnicas.
+Afectados mujeres por ERTES por reducción: N.- Actividades administrativas y servicios auxiliares.
+Afectados mujeres por ERTES por reducción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Afectados mujeres por ERTES por reducción: P.- Educación.
+Afectados mujeres por ERTES por reducción: Q.- Actividades sanitarias y de Servicios Sociales.
+Afectados mujeres por ERTES por reducción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Afectados mujeres por ERTES por reducción: S.- Otros servicios.
+Afectados mujeres por ERTES por reducción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Afectados mujeres por ERTES por reducción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Afectados mujeres por ERTES por extinción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Afectados mujeres por ERTES por extinción: B.- Industrias extractivas
+Afectados mujeres por ERTES por extinción: C.- Industria manufacturera
+Afectados mujeres por ERTES por extinción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Afectados mujeres por ERTES por extinción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Afectados mujeres por ERTES por extinción: F.- Construcción.
+Afectados mujeres por ERTES por extinción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Afectados mujeres por ERTES por extinción: H.- Transporte y almacenamiento.
+Afectados mujeres por ERTES por extinción: I.- Hostelería.
+Afectados mujeres por ERTES por extinción: J.- Información y Comunicaciones.
+Afectados mujeres por ERTES por extinción: K.- Actividades financieras y de seguros.
+Afectados mujeres por ERTES por extinción: L.- Actividades inmobiliarias.
+Afectados mujeres por ERTES por extinción: M.- Actividades profesionales, científicas y técnicas.
+Afectados mujeres por ERTES por extinción: N.- Actividades administrativas y servicios auxiliares.
+Afectados mujeres por ERTES por extinción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Afectados mujeres por ERTES por extinción: P.- Educación.
+Afectados mujeres por ERTES por extinción: Q.- Actividades sanitarias y de Servicios Sociales.
+Afectados mujeres por ERTES por extinción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Afectados mujeres por ERTES por extinción: S.- Otros servicios.
+Afectados mujeres por ERTES por extinción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Afectados mujeres por ERTES por extinción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Expedientes de ERTE solicitados por sección de actividad
+Expedientes de ERTE solicitados de: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Expedientes de ERTE solicitados de: B.- Industrias extractivas
+Expedientes de ERTE solicitados de: C.- Industria manufacturera
+Expedientes de ERTE solicitados de: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Expedientes de ERTE solicitados de: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Expedientes de ERTE solicitados de: F.- Construcción.
+Expedientes de ERTE solicitados de: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Expedientes de ERTE solicitados de: H.- Transporte y almacenamiento.
+Expedientes de ERTE solicitados de: I.- Hostelería.
+Expedientes de ERTE solicitados de: J.- Información y Comunicaciones.
+Expedientes de ERTE solicitados de: K.- Actividades financieras y de seguros.
+Expedientes de ERTE solicitados de: L.- Actividades inmobiliarias.
+Expedientes de ERTE solicitados de: M.- Actividades profesionales, científicas y técnicas.
+Expedientes de ERTE solicitados de: N.- Actividades administrativas y servicios auxiliares.
+Expedientes de ERTE solicitados de: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Expedientes de ERTE solicitados de: P.- Educación.
+Expedientes de ERTE solicitados de: Q.- Actividades sanitarias y de Servicios Sociales.
+Expedientes de ERTE solicitados de: R.- Actividades artísticas, recreativas y de entretenimiento.
+Expedientes de ERTE solicitados de: S.- Otros servicios.
+Expedientes de ERTE solicitados de: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Expedientes de ERTE solicitados de: U.- Actividades de organizaciones y organismos extraterritoriales.
+Expedientes de ERTE solicitados por suspensión: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Expedientes de ERTE solicitados por suspensión: B.- Industrias extractivas
+Expedientes de ERTE solicitados por suspensión: C.- Industria manufacturera
+Expedientes de ERTE solicitados por suspensión: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Expedientes de ERTE solicitados por suspensión: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Expedientes de ERTE solicitados por suspensión: F.- Construcción.
+Expedientes de ERTE solicitados por suspensión: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Expedientes de ERTE solicitados por suspensión: H.- Transporte y almacenamiento.
+Expedientes de ERTE solicitados por suspensión: I.- Hostelería.
+Expedientes de ERTE solicitados por suspensión: J.- Información y Comunicaciones.
+Expedientes de ERTE solicitados por suspensión: K.- Actividades financieras y de seguros.
+Expedientes de ERTE solicitados por suspensión: L.- Actividades inmobiliarias.
+Expedientes de ERTE solicitados por suspensión: M.- Actividades profesionales, científicas y técnicas.
+Expedientes de ERTE solicitados por suspensión: N.- Actividades administrativas y servicios auxiliares.
+Expedientes de ERTE solicitados por suspensión: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Expedientes de ERTE solicitados por suspensión: P.- Educación.
+Expedientes de ERTE solicitados por suspensión: Q.- Actividades sanitarias y de Servicios Sociales.
+Expedientes de ERTE solicitados por suspensión: R.- Actividades artísticas, recreativas y de entretenimiento.
+Expedientes de ERTE solicitados por suspensión: S.- Otros servicios.
+Expedientes de ERTE solicitados por suspensión: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Expedientes de ERTE solicitados por suspensión: U.- Actividades de organizaciones y organismos extraterritoriales.
+Expedientes de ERTE solicitados por reducción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Expedientes de ERTE solicitados por reducción: B.- Industrias extractivas
+Expedientes de ERTE solicitados por reducción: C.- Industria manufacturera
+Expedientes de ERTE solicitados por reducción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Expedientes de ERTE solicitados por reducción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Expedientes de ERTE solicitados por reducción: F.- Construcción.
+Expedientes de ERTE solicitados por reducción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Expedientes de ERTE solicitados por reducción: H.- Transporte y almacenamiento.
+Expedientes de ERTE solicitados por reducción: I.- Hostelería.
+Expedientes de ERTE solicitados por reducción: J.- Información y Comunicaciones.
+Expedientes de ERTE solicitados por reducción: K.- Actividades financieras y de seguros.
+Expedientes de ERTE solicitados por reducción: L.- Actividades inmobiliarias.
+Expedientes de ERTE solicitados por reducción: M.- Actividades profesionales, científicas y técnicas.
+Expedientes de ERTE solicitados por reducción: N.- Actividades administrativas y servicios auxiliares.
+Expedientes de ERTE solicitados por reducción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Expedientes de ERTE solicitados por reducción: P.- Educación.
+Expedientes de ERTE solicitados por reducción: Q.- Actividades sanitarias y de Servicios Sociales.
+Expedientes de ERTE solicitados por reducción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Expedientes de ERTE solicitados por reducción: S.- Otros servicios.
+Expedientes de ERTE solicitados por reducción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Expedientes de ERTE solicitados por reducción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Expedientes de ERTE solicitados por extinción: A.- Agricultaura, Ganadería, Silvicultura y Pesca
+Expedientes de ERTE solicitados por extinción: B.- Industrias extractivas
+Expedientes de ERTE solicitados por extinción: C.- Industria manufacturera
+Expedientes de ERTE solicitados por extinción: D.- Suministro de energía eléctrica, gas, vapor y aire acondicionado.
+Expedientes de ERTE solicitados por extinción: E.- Suministro de agua, Actividades de saneamiento, Gestión de residuos y descontaminación.
+Expedientes de ERTE solicitados por extinción: F.- Construcción.
+Expedientes de ERTE solicitados por extinción: G.- Comercio al por mayor y al por menor, Reparación de vehículos de motor y motocicletas.
+Expedientes de ERTE solicitados por extinción: H.- Transporte y almacenamiento.
+Expedientes de ERTE solicitados por extinción: I.- Hostelería.
+Expedientes de ERTE solicitados por extinción: J.- Información y Comunicaciones.
+Expedientes de ERTE solicitados por extinción: K.- Actividades financieras y de seguros.
+Expedientes de ERTE solicitados por extinción: L.- Actividades inmobiliarias.
+Expedientes de ERTE solicitados por extinción: M.- Actividades profesionales, científicas y técnicas.
+Expedientes de ERTE solicitados por extinción: N.- Actividades administrativas y servicios auxiliares.
+Expedientes de ERTE solicitados por extinción: O.- Administración pública y defensa; Seguridad Social obligatoria.
+Expedientes de ERTE solicitados por extinción: P.- Educación.
+Expedientes de ERTE solicitados por extinción: Q.- Actividades sanitarias y de Servicios Sociales.
+Expedientes de ERTE solicitados por extinción: R.- Actividades artísticas, recreativas y de entretenimiento.
+Expedientes de ERTE solicitados por extinción: S.- Otros servicios.
+Expedientes de ERTE solicitados por extinción: T.- Actividades de los hogares como empleadores de personal doméstico; Actividades de los hogares como productores de bienes y servicios para uso propio.
+Expedientes de ERTE solicitados por extinción: U.- Actividades de organizaciones y organismos extraterritoriales.
+Siniestralidad laboral (en jornada de trabajo)
+Accidentes en jornada laboral con baja
+Accidentes jornada laboral con baja por sexo: Hombres
+Accidentes en jornada laboral con baja por sexo: Mujeres
+Accidentes en jornada laboral con baja por sector: Agricultura, ganadería y pesca
+Accidentes en jornada laboral con baja por sector: Industria
+Accidentes en jornada laboral con baja por sector: Construcción
+Accidentes en jornada laboral con baja por sector: Servicios
+Accidentes en jornada laboral con baja por gravedad: Leves
+Accidentes en jornada laboral con baja por gravedad: Graves
+Accidentes en jornada laboral con baja por gravedad: Mortales
+Establecimientos y empresas
+Establecimientos
+Establecimientos y empleo
+Establecimientos2
+Tamaño medio de los establecimientos (trabajadores)
+Tamaño medio de los establecimientos industriales (trabajadores)
+Saldo neto de establecimientos (‰ habitantes)
+Tasa de creación de nuevos establecimientos (‰ habitantes)
+Empleo en establecimientos
+Variación interanual de la cifra de empleo
+% Empleo generado por las microempresas (menos de 10 trabajadores)
+Establecimientos por actividad
+Establecimientos por actividad: Agricultura, ganadería y pesca
+Establecimientos por actividad: Industria y energía
+Establecimientos por actividad: Construcción
+Establecimientos por actividad: Comercio, transporte y hostelería
+Establecimientos por actividad: Información y comunicaciones
+Establecimientos por actividad: Actividades financieras y seguros
+Establecimientos por actividad: Actividades inmobiliarias
+Establecimientos por actividad: Actividades profesionales
+Establecimientos por actividad: Adm pública, educación y sanidad
+Establecimientos por actividad: Otras actividades de servicios
+% Establecimientos por actividad: Agricultura, ganadería y pesca
+% Establecimientos por actividad: Industria y energía
+% Establecimientos por actividad: Construcción
+% Establecimientos por actividad: Comercio, transporte y hostelería
+% Establecimientos por actividad: Información y comunicaciones
+% Establecimientos por actividad: Actividades financieras y seguros
+% Establecimientos por actividad: Actividades inmobiliarias
+% Establecimientos por actividad: Actividades profesionales
+% Establecimientos por actividad: Adm pública, educación y sanidad
+% Establecimientos por actividad: Otras actividades de servicios
+Establecimientos por número de trabajadores
+Establecimientos entre 0 y 2 trabajadores
+Establecimientos entre 3 y 5 trabajadores
+Establecimientos entre 6 y 9 trabajadores
+Establecimientos entre 10 y 19 trabajadores
+Establecimientos entre 20 y 49 trabajadores
+Establecimientos con 50 o más trabajadores
+% Establecimientos entre 0 y 2 trabajadores
+% Establecimientos entre 3 y 5 trabajadores
+% Establecimientos entre 6 y 9 trabajadores
+% Establecimientos entre 10 y 19 trabajadores
+% Establecimientos entre 20 y 49 trabajadores
+% Establecimientos con 50 o más trabajadores
+Establecimientos por 1.000 habitantes
+Establecimientos por 1.000 habitantes2
+Establecimientos por 1.000 habitantes: Industria y energía
+Establecimientos por 1.000 habitantes: Construcción
+Establecimientos por 1.000 habitantes: Comercio, transporte y hostelería
+Establecimientos por 1.000 habitantes: Información y comunicaciones
+Establecimientos por 1.000 habitantes: Actividades financieras y seguros
+Establecimientos por 1.000 habitantes: Actividades inmobiliarias
+Establecimientos por 1.000 habitantes: Actividades profesionales
+Establecimientos por 1.000 habitantes: Adm pública, educación y sanidad
+Establecimientos por 1.000 habitantes: Otras actividades de servicios
+Establecimientos equipados con nuevas tecnologías
+% Establecimientos con ordenador personal
+% Establecimientos con correo electrónico
+% Establecimientos con internet
+% Establecimientos con teléfono móvil
+Establecimientos por personalidad jurídica
+Establecimientos por personalidad jurídica: Persona física
+Establecimientos por personalidad jurídica: Sociedad anónima
+Establecimientos por personalidad jurídica: Sociedad limitada
+Establecimientos por personalidad jurídica: Otras sociedades y asociaciones
+Establecimientos por personalidad jurídica: Otras formas jurídicas
+Establecimientos de comercio minorista
+Cpm en establecimientos no especializados, con predominio en productos alimenticios, bebidas y tabaco
+Otro cpm en establecimientos no especializados
+Cpm de frutas y hortalizas en establecimientos especializados
+Cpm de carne y productos cárnicos en establecimientos especializados
+Cpm de pescados y mariscos en establecimientos especializados
+Cpm de pan y productos de panadería, confitería y pastelería en establecimientos especializados
+Cpm de bebidas en establecimientos especializados
+Cpm de productos de tabaco en establecimientos especializados
+Otro cpm de productos alimenticios en establecimientos especializados
+Cpm de combustible para la automoción en establecimientos especializados
+Cpm de ordenadores, equipos periféricos y programas informáticos en establecimientos especializados
+Cpm de equipos de telecomunicaciones en establecimientos especializados
+Cpm de equipos de audio y vídeo en establecimientos especializados
+Cpm de textiles en establecimientos especializados
+Cpm de ferretería, pintura y vidrio en establecimientos especializados
+Cpm de alfombras, moquetas y revestimientos de paredes y suelos en establecimientos especializados
+Cpm de aparatos electrodomésticos en establecimientos especializados
+Cpm de muebles, aparatos de iluminación y otros artículos de uso doméstico en establecimientos especializados
+Cpm de libros en establecimientos especializados
+Cpm de periódicos y artículos de papelería en establecimientos especializados
+Cpm de grabaciones de música y vídeo en establecimientos especializados
+Cpm de artículos deportivos en establecimientos especializados
+Cpm de juegos y juguetes en establecimientos especializados
+Cpm de prendas de vestir en establecimientos especializados
+Cpm de calzado y artículos de cuero en establecimientos especializados
+Cpm de productos farmacéuticos en establecimientos especializados
+Cpm de artículos médicos y ortopédicos en establecimientos especializados
+Cpm de productos cosméticos e higiénicos en establecimientos especializados
+Cpm de flores, plantas, semillas, fertilizantes, animales de compañía y alimentos para los mismos en establecimientos especializados
+Cpm de artículos de relojería y joyería en establecimientos especializados
+Otro cpm de artículos nuevos en establecimientos especializados
+Cpm de artículos de segunda mano en establecimientos especializados
+Cpm de productos alimenticios, bebidas y tabaco en puestos de venta y mercadillos
+Cpm de productos textiles, prendas de vestir y calzado en puestos de venta y mercadillos
+Cpm de otros productos en puestos de venta y mercadillos
+Cpm por correspondencia o Internet
+Otro cpm no realizado ni en establecimientos, ni en puestos de venta ni en mercadillos
+Empresas por sector
+Empresas por sector total
+Empresas por sector: Agricultura
+Empresas por sector: Industria
+Empresas por sector: Construcción
+Empresas por sector: Servicios
+Empresas por sector: No consta
+Empresas por sector industria: Industrias extractivas
+Empresas por sector industria: Industria manufacturera
+Empresas por sector industria: Suministro de energía eléctrica, gas, vapor y aire acondicionado
+Empresas por sector industria: Suministro de agua, saneamiento, residuos y descontaminación
+Empresas por sector servicios: Comercio al por mayor y al por menor; reparación de vehículos
+Empresas por sector servicios: Transporte y almacenamiento
+Empresas por sector servicios: Hostelería
+Empresas por sector servicios: Información y comunicaciones
+Empresas por sector servicios: Actividades financieras y de seguros
+Empresas por sector servicios: Actividades inmobiliarias
+Empresas por sector servicios: Actividades profesionales, científicas y técnicas
+Empresas por sector servicios: Actividades administrativas y servicios auxliares
+Empresas por sector servicios: Administración pública y defensa; Seguridad Social obligatoria
+Empresas por sector servicios: Educación
+Empresas por sector servicios: Actividades sanitarias y de servicios sociales
+Empresas por sector servicios: Actividades artísticas, recreativas y de entrenimiento
+Empresas por sector servicios: Otros servicios
+Empresas por sector servicios: Actividades de los hogares
+Empresas por sector servicios: Actividades de organizaciones y organismos extraterritoriales
+Actividad turística
+Actividad congresual
+Reuniones celebradas total
+Reuniones celebradas: Jornadas,seminarios, simposiums
+Reuniones celebradas: Congresos
+Reuniones celebradas: Convenciones
+Reuniones celebradas: Otros
+Delegados asistentes total
+Delegados asistentes: Jornadas, seminarios, simposiums
+Delegados asistentes: Congresos
+Delegados asistentes: Convenciones
+Afluencia de visitantes a equipamientos culturales
+Visitantes: Conjunto Ferro Molinero de Agorregi
+Visitantes: Museo Chillida Leku
+Vititantes: Aquarium de San Sebastián
+Visitantes: Caserío Igartubeiti
+Visitantes: Valle del Hierro
+Visitantes: Museo San Telmo
+Visitantes: Museo Vasco del Ferrocarril
+Visitantes: Museo Naval
+Visitantes: Kutxaespacio de la ciencia
+Visitantes: Museo ZumalaKarregi
+Visitantes: Museo de Bellas Artes de Álava
+Visitantes: ARTIUM
+Visitantes: Museo Diocesano de Arte Sacro
+Visitantes: Museo Bibat
+Visitantes: Fundación Catedral Santa María
+Visitantes: Museo del Pescador
+Visitantes: Museo de Bellas Artes de Bilbao
+Visitantes: Museo Marítimo Ría de Bilbao
+Visitantes: Ferreria el Pobal
+Visitantes: Museo de Euskal Herria
+Visitantes: Museo Vasco Bilbao
+Visitantes: Museo de la Paz de Gernika
+Visitantes: museo Guggenheim
+Visitas a centros culturales
+Oferta turística
+Establecimientos hoteleros turísticos
+Establecimientos hoteleros con 2 o menos estrellas
+Establecimientos hoteleros con 3 o más estrellas
+Plazas en establecimientos hoteleros turísticos
+Plazas en establecimientos hoteleros con 2 o menos estrellas
+Plazas en establecimientos hoteleros con 3 o más estrellas
+Habitaciones en establecimientos hoteleros turísticos
+Habitaciones en establecimientos hoteleros con 2 o menos estrellas
+Habitaciones en establecimientos hoteleros con 3 o más estrellas
+Estancia media y grado de ocupación
+Estancia media en establecimientos hoteleros
+Estancia media en establecimientos hoteleros: Personas procendentes del Estado
+Estancia media en establecimientos hoteleros: Procedentes del extranjero
+Grado de oupación en establecimientos hoteleros
+Grado de ocupación por habitaciones
+Entrada de viajeros
+Entrada de viajeros total
+Entrada de viajeros: Procedentes del Estado
+Entrada de viajeros: Procedentes del País Vasco
+Entrada de viajeros: Procedentes del extranjero
+Pernoctaciones
+Pernoctaciones total
+Pernoctaciones: Personas procendentes del Estado
+Pernoctaciones: Personas procendentes del País Vasco
+Pernoctaciones: Personas procedentes del extranjero
+Afluencia de visitantes a Feria de Muestras: Bilbao Exhibition Centre
+Visitantes profesionales: Bilbao Exhibition Centre
+Visitantes público general: Bilbao Exhibition Centre
+Cuentas económicas y sector público
+Presupuestos
+Presupuestos: Ingresos
+Presupuestos: Gastos
+Presupuestos liquidados: Ingresos
+Presupuestos liquidados: Gastos
+PIB
+PIB per cápita (base 2005)
+PIB per cápita (índice) (base 2005)
+PIB per cápita (base 2010)
+Tasa de crecimiento acumulativo anual del PIB en el último quinquenio
+VAB
+% VAB por sector: Agricultura
+% VAB por sector: Industria
+% VAB por sector: Construcción
+% VAB por sector: Servicios
+Renta bruta per cápita
+Renta bruta per cápita (euros)
+Renta bruta per cápita (índice)
+Renta personal media
+Renta personal media (euros)
+Renta personal media del trabajo (euros)
+Renta personal media de capital mobiliario (euros)
+Renta personal media de capital inmobiliario (euros)
+Renta personal media de actividades (euros)
+Renta personal media de transferencias (euros)
+Renta personal media disponible (euros)
+Renta personal media (euros): Hombres
+Renta personal media del trabajo (euros): Hombres
+Renta personal media de capital mobiliario (euros): Hombres
+Renta personal media de capital inmobiliario (euros): Hombres
+Renta personal media de actividades (euros): Hombres
+Renta personal media de transferencias (euros): Hombres
+Renta personal media disponible (euros): Hombres
+Renta personal media (euros): Mujeres
+Renta personal media del trabajo (euros): Mujeres
+Renta personal media de capital mobiliario (euros): Mujeres
+Renta personal media de capital inmobiliario (euros): Mujeres
+Renta personal media de actividades (euros): Mujeres
+Renta personal media de transferencias (euros): Mujeres
+Renta personal media disponible (euros): Mujeres
+Renta familiar media
+Renta familiar media (euros)
+Renta familiar media del trabajo (euros)
+Renta familiar media de capital mobiliario (euros)
+Renta familiar media de capital inmobiliario (euros)
+Renta familiar media de actividades (euros)
+Renta familiar media de transferencias (euros)
+Renta familiar media disponible (euros)
+Gestión municipal
+Gasto liquidado del Ayuntamiento por habitante (euros)
+Recaudación impositiva del Ayuntamiento por habitante (euros)
+Deuda viva del Ayuntamiento por habitante (euros)
+Inversión neta del Ayuntamiento por habitante (euros)
+Gasto corriente del presupuesto municipal por habitante en Servicios Sociales (euros)
